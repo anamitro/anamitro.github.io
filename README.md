@@ -1,5 +1,10 @@
 # anamitro.github.io
-Anamitro Biswas
+# Alternative webpages:
+        https://sites.google.com/view/anamitro
+        https://anamitro.wordpress.com
+
+
+# Anamitro Biswas
 M.Sc. in Mathematics (2023) from National Institute of Technology Silchar (India)
 
 Email: anamitroappu@gmail.com
