@@ -2,11 +2,12 @@ Alternative URL: [1](https://anamitro.github.io), [2](https://sites.google.com/v
 
 _____________
 
-**See:** [Papers](anamitro.github.io/papers), [Academic background](anamitro.github.io/schools), [Talks](anamitro.github.io/talks), [etc](etc)
+**See:** [Papers](https://anamitro.github.io/papers), [Academic background](https://anamitro.github.io/schools), [Talks](https://anamitro.github.io/talks), [etc](etc)
 
 ![picture](photograph-2.jpg)
 # Anamitro Biswas
 **Email:** anamitroappu@gmail.com
+
 M.Sc. in Mathematics (2023) from [National Institute of Technology Silchar](http://maths.nits.ac.in/) (India)
 
 **Thesis advisor:** [Dr. Juthika Mahanta](http://maths.nits.ac.in/juthika/)
@@ -15,15 +16,4 @@ M.Sc. in Mathematics (2023) from [National Institute of Technology Silchar](http
 
 ____________________
 
-Languages: Bengali (first language), English (proficiency of C2 standard as per CEFR)
-
-Master of Science in Mathematics at National Institute of Technology Silchar.
-Bachelor of Science (Honours) in Mathematics, University of Calcutta.
-Besides Mathematics, I am also interested in Painting (see this other website), typography and Sanskrita-Bengali literature.
-
-TeXChand for Indian vernacular typesetting
-chicago1893, beamer color theme
-ibus-table-sasanka, Bengali input in Unix
-Taittiriiya, my blog
-Email: anamitroappu@gmail.com
 
