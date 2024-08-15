@@ -3,7 +3,7 @@ _____________
 
 **See:** [Papers](anamitro.github.io/papers), [Academic background](anamitro.github.io/schools), [Talks](anamitro.github.io/talks), [etc](etc)
 
-![picture]{photograph-2.jpg}
+![picture](photograph-2.jpg)
 # Anamitro Biswas
 **Email:** anamitroappu@gmail.com
 M.Sc. in Mathematics (2023) from [National Institute of Technology Silchar](http://maths.nits.ac.in/) (India)
