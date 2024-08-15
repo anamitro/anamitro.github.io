@@ -1,8 +1,7 @@
+Alternative URL: [1](https://anamitro.github.io), [2](https://sites.google.com/view/anamitro), [3](https://anamitro.wordpress.com)
+_____________
+
 **See:** [Papers](anamitro.github.io/papers), [Academic background](anamitro.github.io/schools), [Talks](anamitro.github.io/talks), [etc](etc)
-# Alternative webpages:
-        https://anamitro.github.io
-        https://sites.google.com/view/anamitro
-        https://anamitro.wordpress.com
 
 ![picture]{photograph-2.jpg}
 # Anamitro Biswas
