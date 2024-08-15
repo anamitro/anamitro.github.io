@@ -1,6 +1,6 @@
-![papers](desk.jpg)
-
 # Papers and pre-prints:
+
+![papers](desk.jpg | width=100)
 
 1. Anamitro Biswas and Eshita Mazumdar, _Davenport constant for ﬁnite abelian groups with higher rank_, arXiv:2402.09999 [submitted; [preprint](https://arxiv.org/abs/2402.09999)].
 
