@@ -1,43 +1,19 @@
-# anamitro.github.io
+**See:** [Papers](anamitro.github.io/papers), [Academic background](anamitro.github.io/schools), [Talks](anamitro.github.io/talks), [etc](etc)
 # Alternative webpages:
+        https://anamitro.github.io
         https://sites.google.com/view/anamitro
         https://anamitro.wordpress.com
 
-
+![picture]{photograph-2.jpg}
 # Anamitro Biswas
-M.Sc. in Mathematics (2023) from National Institute of Technology Silchar (India)
+**Email:** anamitroappu@gmail.com
+M.Sc. in Mathematics (2023) from [National Institute of Technology Silchar](http://maths.nits.ac.in/) (India)
 
-Email: anamitroappu@gmail.com
+**Thesis advisor:** [Dr. Juthika Mahanta](http://maths.nits.ac.in/juthika/)
 
-Thesis advisor: Dr. Juthika Mahanta
+**My M.Sc. Thesis:** Coast of a fuzzy set as a ‘crisper’ subset of the boundary [[PDF](https://drive.google.com/file/d/11XLXPRux26j0HWW8DVZTV_RGlq4kWYZg/view?usp=drive_link)]
 
-My M.Sc. Thesis: Coast of a fuzzy set as a ‘crisper’ subset of the boundary
-
-The same information is also uploaded at: https://sites.google.com/view/anamitro
-
-Research:
-
-Papers and pre-prints:
-
-Anamitro Biswas and Eshita Mazumdar, Davenport constant for ﬁnite abelian groups with higher rank, arXiv:2402.09999 [submitted; preprint: https://arxiv.org/abs/2402.09999].
-Anamitro Biswas, Subhankar Jana and Juthika Mahanta, Application of Coast of a fuzzy set as a crisper synopsis of the fuzzy boundary [to appear].
-Talks:
-
-(2024)
-
-(1) The Davenport Constant for Finite Abelian Groups and its r-wise Generalization, Students’ Talk at Institute of Advancing Intelligence, TCG Centers of Research and Education in Science and Technology on Apr 23rd.
-
-Handout: https://drive.google.com/drive/folders/1lSA4Ks96U_oxGnnNwPm0B6d2ISyrXYmf?usp=drive_link
-
-(2023)
-
-(2) Feb 4th, r-wise Davenport constant for finite abelian groups, COmbinatorial Number Theory And Connected Topics – II (CONTACT-II)
-
-Conference webpage: https://sites.google.com/view/contact-ii/home
-
-Abstract: https://drive.google.com/file/d/1OtAvMfGG2xg6Gr6-2gKDHkJ6REjTZkg2/view
-
-Handout: https://drive.google.com/file/d/11k1bXrPQqw_AAf8s9JweYXBvNs6qcWL3/view?pli=1
+____________________
 
 Languages: Bengali (first language), English (proficiency of C2 standard as per CEFR)
 
