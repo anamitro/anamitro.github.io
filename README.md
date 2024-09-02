@@ -7,7 +7,7 @@ M.Sc. in Mathematics (2023) from [National Institute of Technology Silchar](http
 
 **Thesis advisor:** [Dr. Juthika Mahanta](http://maths.nits.ac.in/juthika/)
 
-**My M.Sc. Thesis:** Coast of a fuzzy set as a ‘crisper’ subset of the boundary [[PDF](https://drive.google.com/file/d/11XLXPRux26j0HWW8DVZTV_RGlq4kWYZg/view?usp=drive_link)]
+**My M.Sc. Thesis:** Coast of a fuzzy set as a ‘crisper’ subset of the boundary [[PDF](https://anamitro.github.io/files/anamitro_thesis.pdf)]
 
 ____________________
 # Research interest:
