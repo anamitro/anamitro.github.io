@@ -1,9 +1,4 @@
-@font-face {
-    font-family: F16;
-    src: url("STIXTwoMath-Regular.ttf") format('truetype');
-    font-weight: bold;
-    font-style: normal;
-}
+
 # Anamitro Biswas
 
 ![picture](photograph-2.jpg)
