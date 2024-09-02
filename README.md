@@ -42,7 +42,7 @@ I am also interested in
 # Painting
 [see this other website](https://sites.google.com/view/ani-paint)
 
-**Typography and Sanskrita-Bengali literature**
+## Typography and Sanskrita-Bengali literature
 
 >> [TeXChand](https://sites.google.com/view/texchand) for Indian vernacular typesetting
 
