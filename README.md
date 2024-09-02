@@ -1,3 +1,8 @@
+h1 {
+  font-family: 'stix', STIXTwoMath, sans-serif;
+  font-weight:normal;
+  font-style:normal;
+}
 
 # Anamitro Biswas
 অনমিত্র বিশ্বাস
