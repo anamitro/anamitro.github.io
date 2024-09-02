@@ -22,7 +22,7 @@ ____________________
 
 2. Anamitro Biswas, Subhankar Jana and Juthika Mahanta, _Application of Coast of a fuzzy set as a crisper synopsis of the fuzzy boundary_ [to appear]
 
-![papers](desk.jpg | width=100)
+![papers](desk.jpg){:height="36px" width="36px"}
 
 # Talks:
 
