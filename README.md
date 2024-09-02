@@ -32,17 +32,17 @@ ____________________
 [**Handout**](https://drive.google.com/drive/folders/1lSA4Ks96U_oxGnnNwPm0B6d2ISyrXYmf?usp=drive_link)
 
 >> Feb 4th 2023, *r-wise Davenport constant for finite abelian groups*, COmbinatorial Number Theory And Connected Topics – II (CONTACT-II)
-
-Conference webpage: [https://sites.google.com/view/contact-ii/home](https://sites.google.com/view/contact-ii/home), [**Abstract**](https://drive.google.com/file/d/1OtAvMfGG2xg6Gr6-2gKDHkJ6REjTZkg2/view), [**Handout**](https://drive.google.com/file/d/11k1bXrPQqw_AAf8s9JweYXBvNs6qcWL3/view?pli=1)
+>>
+[**Conference webpage**](https://sites.google.com/view/contact-ii/home), [**Abstract**](https://drive.google.com/file/d/1OtAvMfGG2xg6Gr6-2gKDHkJ6REjTZkg2/view), [**Handout**](https://drive.google.com/file/d/11k1bXrPQqw_AAf8s9JweYXBvNs6qcWL3/view?pli=1)
 
 ______________________
 # Besides Mathematics,
 I am also interested in
 
 # Painting
-[see this other website](https://sites.google.com/view/ani-paint),
+[see this other website](https://sites.google.com/view/ani-paint)
 
-# Typography and Sanskrita-Bengali literature.
+**Typography and Sanskrita-Bengali literature**
 
 >> [TeXChand](https://sites.google.com/view/texchand) for Indian vernacular typesetting
 
