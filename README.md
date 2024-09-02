@@ -1,7 +1,8 @@
 
 # Anamitro Biswas
-**Email:** anamitroappu@gmail.com
+
 ![picture](photograph-2.jpg)
+
 M.Sc. in Mathematics (2023) from [National Institute of Technology Silchar](http://maths.nits.ac.in/) (India)
 
 **Thesis advisor:** [Dr. Juthika Mahanta](http://maths.nits.ac.in/juthika/)
@@ -10,6 +11,8 @@ M.Sc. in Mathematics (2023) from [National Institute of Technology Silchar](http
 ____________________
 # Research interest:
 Number Theory
+
+**Email:** anamitroappu@gmail.com
 ____________________
 # Papers and pre-prints:
 
