@@ -39,7 +39,7 @@ ______________________
 I am also interested in
 
 # Painting
-([see this other website](https://sites.google.com/view/ani-paint),
+[see this other website](https://sites.google.com/view/ani-paint),
 
 # Typography and Sanskrita-Bengali literature.
 
