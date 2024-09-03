@@ -1,6 +1,6 @@
 # Anamitro Biswas
 
-| ![picture](picture.jpg) | ![name](name1.jpg) |
+| ![picture](picture.jpg) | ![name](name3.jpg) |
 | --- | --- |
 
 M.Sc. in Mathematics (2023) from [National Institute of Technology Silchar](http://maths.nits.ac.in/) (India)
@@ -35,7 +35,7 @@ ____________________
 
 [**Conference webpage**](https://sites.google.com/view/contact-ii/home), [**Abstract**](https://drive.google.com/file/d/1OtAvMfGG2xg6Gr6-2gKDHkJ6REjTZkg2/view), [**Handout**](https://drive.google.com/file/d/11k1bXrPQqw_AAf8s9JweYXBvNs6qcWL3/view?pli=1) 
 
-[nl](library.jpg) | ![papers](desk1.jpg) |
+| ![nl](library.jpg) | ![papers](desk1.jpg) |
 | --- | --- |
 | National Library of India (Kolkata) | my desk on a random day |
 
