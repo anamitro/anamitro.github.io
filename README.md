@@ -24,8 +24,6 @@ ____________________
 
 2. Anamitro Biswas, Subhankar Jana and Juthika Mahanta, _Application of Coast of a fuzzy set as a crisper synopsis of the fuzzy boundary_ [to appear]
 
-![papers](desk.jpg)
-
 
 ## Talks:
 
@@ -36,6 +34,8 @@ ____________________
 - Feb 4th 2023, *r-wise Davenport constant for finite abelian groups*, COmbinatorial Number Theory And Connected Topics – II (CONTACT-II)
 
 [**Conference webpage**](https://sites.google.com/view/contact-ii/home), [**Abstract**](https://drive.google.com/file/d/1OtAvMfGG2xg6Gr6-2gKDHkJ6REjTZkg2/view), [**Handout**](https://drive.google.com/file/d/11k1bXrPQqw_AAf8s9JweYXBvNs6qcWL3/view?pli=1)
+
+![papers](desk1.jpg)
 
 ______________________
 ## Besides Mathematics,
