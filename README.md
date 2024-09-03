@@ -10,13 +10,13 @@ M.Sc. in Mathematics (2023) from [National Institute of Technology Silchar](http
 **My M.Sc. Thesis:** Coast of a fuzzy set as a ‘crisper’ subset of the boundary [[PDF](https://anamitro.github.io/files/anamitro_thesis.pdf)]
 
 ____________________
-# Research interest:
+## Research interest:
 Number Theory
 
 **Email:** anamitroappu@gmail.com
 
 ____________________
-# Papers and pre-prints:
+## Papers and pre-prints:
 
 1. Anamitro Biswas and Eshita Mazumdar, _Davenport constant for ﬁnite abelian groups with higher rank_, arXiv:2402.09999 [submitted; [preprint](https://arxiv.org/abs/2402.09999)].
 
@@ -25,7 +25,7 @@ ____________________
 ![papers](desk.jpg)
 
 
-# Talks:
+## Talks:
 
 >> Apr 23rd 2024, *The Davenport Constant for Finite Abelian Groups and its r-wise Generalization*, Students’ Talk at Institute of Advancing Intelligence, TCG Centers of Research and Education in Science and Technology.
 >> 
@@ -36,13 +36,13 @@ ____________________
 [**Conference webpage**](https://sites.google.com/view/contact-ii/home), [**Abstract**](https://drive.google.com/file/d/1OtAvMfGG2xg6Gr6-2gKDHkJ6REjTZkg2/view), [**Handout**](https://drive.google.com/file/d/11k1bXrPQqw_AAf8s9JweYXBvNs6qcWL3/view?pli=1)
 
 ______________________
-# Besides Mathematics,
+## Besides Mathematics,
 I am also interested in
 
-# Painting
+### Painting
 [see this other website](https://sites.google.com/view/ani-paint)
 
-## Typography and Sanskrita-Bengali literature
+#### Typography and Sanskrita-Bengali literature
 
 >> [TeXChand](https://sites.google.com/view/texchand) for Indian vernacular typesetting
 
