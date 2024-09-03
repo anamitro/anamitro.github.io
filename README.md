@@ -1,9 +1,13 @@
 # Anamitro Biswas
-![name](name.png)
 
 | ![picture](picture.jpg) | ![name](name.png) |
 | --- | --- |
-| M.Sc. in Mathematics (2023) from [National Institute of Technology Silchar](http://maths.nits.ac.in/) (India) | **Thesis advisor:** [Dr. Juthika Mahanta](http://maths.nits.ac.in/juthika/)<br>**My M.Sc. Thesis:** Coast of a fuzzy set as a ‘crisper’ subset of the boundary [[PDF](https://anamitro.github.io/files/anamitro_thesis.pdf)] |
+
+M.Sc. in Mathematics (2023) from [National Institute of Technology Silchar](http://maths.nits.ac.in/) (India)
+
+**Thesis advisor:** [Dr. Juthika Mahanta](http://maths.nits.ac.in/juthika/)
+
+**My M.Sc. Thesis:** Coast of a fuzzy set as a ‘crisper’ subset of the boundary [[PDF](https://anamitro.github.io/files/anamitro_thesis.pdf)]
 
 [**My CV**](files/anamitro_cv.pdf)
 
