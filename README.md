@@ -1,13 +1,9 @@
 # Anamitro Biswas
 ![name](name.png)
 
-![picture](photograph-2.jpg)
-
-M.Sc. in Mathematics (2023) from [National Institute of Technology Silchar](http://maths.nits.ac.in/) (India)
-
-**Thesis advisor:** [Dr. Juthika Mahanta](http://maths.nits.ac.in/juthika/)
-
-**My M.Sc. Thesis:** Coast of a fuzzy set as a ‘crisper’ subset of the boundary [[PDF](https://anamitro.github.io/files/anamitro_thesis.pdf)]
+| ![picture](picture.jpg) | ![name](name.png) |
+| --- | --- |
+| M.Sc. in Mathematics (2023) from [National Institute of Technology Silchar](http://maths.nits.ac.in/) (India) | **Thesis advisor:** [Dr. Juthika Mahanta](http://maths.nits.ac.in/juthika/)<br>**My M.Sc. Thesis:** Coast of a fuzzy set as a ‘crisper’ subset of the boundary [[PDF](https://anamitro.github.io/files/anamitro_thesis.pdf)] |
 
 [**My CV**](files/anamitro_cv.pdf)
 
@@ -33,8 +29,11 @@ ____________________
 
 - Feb 4th 2023, *r-wise Davenport constant for finite abelian groups*, COmbinatorial Number Theory And Connected Topics – II (CONTACT-II)
 
-| [**Conference webpage**](https://sites.google.com/view/contact-ii/home), [**Abstract**](https://drive.google.com/file/d/1OtAvMfGG2xg6Gr6-2gKDHkJ6REjTZkg2/view), [**Handout**](https://drive.google.com/file/d/11k1bXrPQqw_AAf8s9JweYXBvNs6qcWL3/view?pli=1) | ![papers](desk1.jpg) |
+[**Conference webpage**](https://sites.google.com/view/contact-ii/home), [**Abstract**](https://drive.google.com/file/d/1OtAvMfGG2xg6Gr6-2gKDHkJ6REjTZkg2/view), [**Handout**](https://drive.google.com/file/d/11k1bXrPQqw_AAf8s9JweYXBvNs6qcWL3/view?pli=1) 
+
+[nl](library.jpg) | ![papers](desk1.jpg) |
 | --- | --- |
+| National Library of India (Kolkata) | my desk on a random day |
 
 ______________________
 ## Besides Mathematics,
