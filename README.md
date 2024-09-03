@@ -47,7 +47,7 @@ I am also interested in
 
 > [TeXChand](https://sites.google.com/view/texchand) for Indian vernacular typesetting
 
-> [chicago1893](https://github.com/anamitro/beamercolortheme-chicago1893), beamer color theme
+> [chicago1893](https://anamitro.github.io/beamercolortheme-chicago1893), beamer color theme
 
 > [ibus-table-sasanka](https://sites.google.com/view/sasankadeva), Bengali input in Unix
 
