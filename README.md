@@ -1,5 +1,5 @@
 # Anamitro Biswas
-অনমিত্র বিশ্বাস
+![name](name.png)
 
 ![picture](photograph-2.jpg)
 
