@@ -1,7 +1,9 @@
 # Anamitro Biswas
 
-| ![picture](picture.jpg) | ![name](name3.jpg) |
-| --- | --- |
+%![picture](picture.jpg)
+%![name](name3.jpg)
+<img src="picture.jpg" alt="drawing" width="200"/>
+<img src="name3.jpg" alt="drawing" width="150"/>
 
 M.Sc. in Mathematics (2023) from [National Institute of Technology Silchar](http://maths.nits.ac.in/) (India)
 
