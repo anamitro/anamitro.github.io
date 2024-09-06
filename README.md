@@ -1,6 +1,6 @@
 # Anamitro Biswas
 
-<img src="picture.jpg" alt="drawing" width="200"/>
+<img src="picture.jpg" alt="drawing" width="200"/><br>
 
 <img src="name3.jpg" alt="drawing" width="100"/>
 
