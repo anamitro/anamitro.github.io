@@ -1,7 +1,5 @@
 # Anamitro Biswas
 
-%![picture](picture.jpg)
-%![name](name3.jpg)
 <img src="picture.jpg" alt="drawing" width="200"/>
 <img src="name3.jpg" alt="drawing" width="150"/>
 
