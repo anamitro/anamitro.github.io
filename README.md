@@ -34,6 +34,7 @@ ____________________
 | --- | --- |
 | National Library of India (Kolkata) | my desk on a random day |
 
+[**My notes and slides**](https://anamitro.github.io/notes)
 ______________________
 ## Besides Mathematics,
 I am also interested in
