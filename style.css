@@ -1,6 +1,11 @@
 @font-face {
-    font-family: F16;
+    font-family: IMFellEnglishSC-Regular;
     src: url("IMFellEnglishSC-Regular.ttf") format('truetype');
     font-weight: bold;
     font-style: normal;
 }
+
+body {
+    font-family: IMFellEnglishSC-Regular;
+}
+
