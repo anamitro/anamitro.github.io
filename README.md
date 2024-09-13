@@ -30,9 +30,9 @@ ____________________
 
 - Feb 4th 2023, *r-wise Davenport constant for finite abelian groups*, COmbinatorial Number Theory And Connected Topics – II (CONTACT-II) [**Conference webpage**](https://sites.google.com/view/contact-ii/home), [**Abstract**](files/talks/contact-ii/Title_Abstract_CONTACT_II.pdf), [**Handout**](files/talks/contact-ii/r-wise_DC_for_finite_abelian_groups_anamitro_biswas_ppt.pdf) 
 
-| ![nl](library.jpg) | ![papers](desk.jpg) |
+| <img src="library.jpg" alt="drawing" width="200"/><br><img src="name3.jpg" alt="drawing" width="160"/> | |
 | --- | --- |
-| National Library of India (Kolkata) | my desk on a random day |
+| National Library of India (Kolkata) |  |
 
 [**My notes and slides**](https://anamitro.github.io/notes)
 ______________________
