@@ -48,7 +48,7 @@ I am also interested in
 
 > [chicago1893](https://anamitro.github.io/beamercolortheme-chicago1893), beamer color theme
 
-> [ibus-table-sasanka](https://sites.google.com/view/sasankadeva), Bengali input in Unix
+> [ibus-table-sasanka](https://anamitro.github.io/ibus-table-sasankadeva), Bengali input in Unix
 
 > [Taittiriiya](https://taittiriiya.blogspot.com/), my blog
 
