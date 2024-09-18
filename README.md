@@ -48,5 +48,3 @@ I am also interested in
 
 > [ibus-table-sasanka](https://anamitro.github.io/ibus-table-sasankadeva), Bengali (and Assamese) input in Unix
 
-> [Taittiriiya](https://taittiriiya.blogspot.com/), my blog
-
