@@ -6,13 +6,12 @@ I did my M.Sc. in Mathematics from [National Institute of Technology Silchar](ht
 
 [**My CV**](files/anamitro_cv.pdf)
 
+**Email:** anamitroappu@gmail.com
+
 ____________________
 ## Research interest:
 Number Theory
 
-**Email:** anamitroappu@gmail.com
-
-____________________
 ## Papers and pre-prints:
 
 1. Anamitro Biswas and Eshita Mazumdar, _Davenport constant for ﬁnite abelian groups with higher rank_, arXiv:2402.09999 [submitted; [**preprint**](https://arxiv.org/abs/2402.09999)].
@@ -28,7 +27,7 @@ ____________________
 
 <img src="library.jpg" alt="drawing" width="300"/> **<<** National Library of India (Kolkata)
 
-[**My notes and slides**](https://anamitro.github.io/notes)
+Some of **my notes and slides** are uploaded [here](https://anamitro.github.io/notes).
 ______________________
 ## Besides Mathematics,
 I am also interested in
