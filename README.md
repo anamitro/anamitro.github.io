@@ -2,7 +2,7 @@
 
 <img src="picture.jpg" alt="drawing" width="200"/><br><img src="name3.jpg" alt="drawing" width="100"/>
 
-I did my M.Sc. in Mathematics from [National Institute of Technology Silchar](http://maths.nits.ac.in/) (India) where my thesis advisor was [Dr. Juthika Mahanta](http://maths.nits.ac.in/juthika/). A PDF copy is available [here](https://anamitro.github.io/files/anamitro_thesis.pdf).
+I did my M.Sc. in Mathematics from [National Institute of Technology Silchar](http://maths.nits.ac.in/) (India) where my thesis advisor was [Dr. Juthika Mahanta](http://maths.nits.ac.in/juthika/). A PDF copy of my thesis is available [here](https://anamitro.github.io/files/anamitro_thesis.pdf).
 
 [**My CV**](files/anamitro_cv.pdf)
 
@@ -34,11 +34,11 @@ ______________________
 I am also interested in
 
 ### Painting
-[see this other website](https://sites.google.com/view/ani-paint)
+My painting style is mostly derived from the Bengal Renaissance School. A collection of my paintings are uploaded [in this other website](https://sites.google.com/view/ani-paint).
 
 #### Typography and Sanskrita-Bengali literature
 
-> [TeXChand](https://sites.google.com/view/texchand) for Indian vernacular typesetting
+> [TeXChand](https://sites.google.com/view/texchand) for Indian vernacular typesetting and printing
 
 > [chicago1893](https://anamitro.github.io/beamercolortheme-chicago1893), beamer color theme
 
