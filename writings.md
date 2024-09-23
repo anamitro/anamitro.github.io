@@ -4,7 +4,7 @@ Anamitro Biswas [**Homepage**](https://anamitro.github.io)
 
 The translations keep the original meter and rhythm intact.
 
-## English translation of Śañkarācārya's _Vivēkacūdāmaṇi_ verse 254
+## English translation of Indian philosopher Śañkarācārya's _Vivēkacūdāmaṇi_ verse 254
 
 > Afar ethics, clan, blood or race
 > 
@@ -14,7 +14,7 @@ The translations keep the original meter and rhythm intact.
 > 
 > That Existence and yourself are same!
 
-## Bengali translation of W. B. Yeats' *No Second Troy*
+## Bengali translation of British poet W. B. Yeats' *No Second Troy*
 
 > দুষব তাকে, কারণ আমার দিনরাত আচ্ছন্ন
 > 
@@ -102,7 +102,7 @@ The translations keep the original meter and rhythm intact.
 >
 > শ্যামের চোখের আরশি ছায়ার দুরূহ সন্ধানে॥
 
-## Bengali translation of Persian poet Hafiz' *Shirazi Turk*
+## Bengali translation of Persian poet Shamsuddin Hafiz-i Shirazi's *Shirazi Turk*
 
 > তুর্কি সুধা লেপা তাহার খয়ের অধর পরশ পেলে
 > 
