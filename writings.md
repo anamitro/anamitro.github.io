@@ -5,24 +5,37 @@ Anamitro Biswas [**Homepage**](https://anamitro.github.io)
 ## English translation of Śañkarācārya's _Vivēkacūdāmaṇi_ verse 254
 
 > Afar ethics, clan, blood or race
+> 
 > Devoid of form, attribute or name,
+> 
 > Beyond context, realms of time or space,
+> 
 > That Existence and yourself are same!
 
 ## Bengali translation of W. B. Yeats' *No Second Troy*
 
 > দুষব তাকে, কারণ আমার দিনরাত আচ্ছন্ন
+> 
 > করেছে সে দুঃখে? কিংবা সলাস্য আবদারে
+> 
 > অবোধদের শেখাতে পারে নির্দয়তা বন্য,
+> 
 > রাজপথকে টেনে রণতরীসংকুল সাগরে—
+> 
 > থাকত ওদের কামনার সমান মনোবল।
 
 > এ মনন নিয়ে কোন্ স্রোতে গা ভাসাত—
+> 
 > দার্ঢ্য করেছে যাকে আগুনের মত সরল,
+> 
 > ছিলা-বাঁধা ধনুকের মত রূপ, যেই ধাতও
+> 
 > এমন ছন্নছাড়া যুগে খুঁজে পাওয়া ভার—
+> 
 > যা একাকিনী উচ্চাসনা তীব্র নির্ভয়।
+> 
 > যেমনি গড়া, কীই বা করার ছিল তার?
+> 
 > অঙ্গপরশতাপে আজ ত পোড়ে না ট্রয়॥
 
 ## Bengali original poem অবধূতা
