@@ -2,6 +2,8 @@
 
 Anamitro Biswas [**Homepage**](https://anamitro.github.io)
 
+The translations keep the original meter intact.
+
 ## English translation of Śañkarācārya's _Vivēkacūdāmaṇi_ verse 254
 
 > Afar ethics, clan, blood or race
