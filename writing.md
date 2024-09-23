@@ -1,7 +1,5 @@
 # Some writings and translations by me
 
-Anamitro Biswas [**Homepage**](https://anamitro.github.io)
-
 The translations keep the original meter and rhythm intact.
 
 ## English translation of Indian philosopher Śañkarācārya's _Vivēkacūdāmaṇi_ verse 254
