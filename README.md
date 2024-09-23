@@ -1,6 +1,6 @@
 # Anamitro Biswas
 
-*“God exists since mathematics is consistent...“* André Weil
+*“God exists since mathematics is consistent...”* André Weil
 
 <img src="picture.jpg" alt="drawing" width="200"/><br><img src="name3.jpg" alt="drawing" width="100"/>
 
