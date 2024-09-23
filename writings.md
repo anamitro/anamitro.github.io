@@ -2,7 +2,7 @@
 
 Anamitro Biswas [**Homepage**](https://anamitro.github.io)
 
-The translations keep the original meter intact.
+The translations keep the original meter and rhythm intact.
 
 ## English translation of Śañkarācārya's _Vivēkacūdāmaṇi_ verse 254
 
