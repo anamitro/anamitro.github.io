@@ -1,5 +1,7 @@
 # Anamitro Biswas
 
+*“God exists since mathematics is consistent...“* André Weil
+
 <img src="picture.jpg" alt="drawing" width="200"/><br><img src="name3.jpg" alt="drawing" width="100"/>
 
 M.Sc. in Mathematics (2023) from [National Institute of Technology Silchar](http://maths.nits.ac.in/) (India)
@@ -47,3 +49,5 @@ I am also interested in
 > [chicago1893](https://anamitro.github.io/beamercolortheme-chicago1893), beamer color theme
 
 > [ibus-table-sasanka](https://anamitro.github.io/ibus-table-sasankadeva), Bengali (and Assamese) input in Unix
+
+> [Some translations](https://anamitro.github.io/writing)
