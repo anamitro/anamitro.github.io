@@ -12,10 +12,10 @@ M.Sc. in Mathematics (2023) from [National Institute of Technology Silchar](http
 
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/buttons/github-buttons/generate" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-repo-template" data-size="large" aria-label="Use this template buttons/github-buttons on GitHub">Use this template</a>
-``` diff
-- [[copy submitted to NITS library]](files/anamitro_thesis_old.pdf) [[PDF newly typeset]](files/anamitro_thesis.pdf)
 
-[[**My CV**](files/anamitro_cv.pdf)
+[**copy submitted to NITS library**](files/anamitro_thesis_old.pdf); [**PDF newly typeset**](files/anamitro_thesis.pdf)
+
+[**My CV**](files/anamitro_cv.pdf)
 
 **Email:** anamitroappu@gmail.com
 
