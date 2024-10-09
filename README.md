@@ -10,11 +10,12 @@ M.Sc. in Mathematics (2023) from [National Institute of Technology Silchar](http
 
 **My M.Sc. Thesis:** Coast of a fuzzy set as a ‘crisper’ subset of the boundary
 
-| [**copy submitted to NITS library**](files/anamitro_thesis_old.pdf)} | [**PDF newly typeset**](files/anamitro_thesis.pdf) |
+| [**copy submitted to NITS library**](files/anamitro_thesis_old.pdf) | [**PDF newly typeset**](files/anamitro_thesis.pdf) |
 | --- | --- |
 
 
-[**My CV**](files/anamitro_cv.pdf)
+| [**My CV**](files/anamitro_cv.pdf) |
+| --- |
 
 **Email:** anamitroappu@gmail.com
 
@@ -38,7 +39,8 @@ Number Theory
 
 <img src="library.jpg" alt="drawing" width="300"/> **<<** National Library of India (Kolkata)
 
-[[**My notes and slides**]](https://anamitro.github.io/notes)
+| [**My notes and slides**](https://anamitro.github.io/notes) |
+| --- |
 ______________________
 ## Besides Mathematics,
 I am also interested in
