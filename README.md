@@ -19,3 +19,6 @@ ____________________
 ## Research interest:
 Number Theory
 
+| [**Homepage**](README.md) | [**Research**](research.md) | [**Other stuff**](hobbies.md) |
+| --- | --- | --- |
+
