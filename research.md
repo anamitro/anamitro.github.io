@@ -1,3 +1,6 @@
+| [**Homepage**](README.md) | [**Research**](research.md) | [**Other stuff**](hobbies.md) |
+| --- | --- | --- |
+
 # My Research
 
 My primary research interest is in Number Theory. I am also interested in its interactions with Algebraic Geometry.
