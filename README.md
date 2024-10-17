@@ -9,7 +9,7 @@ I completed my M.Sc. in Mathematics from [National Institute of Technology Silch
 | [**copy submitted to NITS library**](files/anamitro_thesis_old.pdf) | [**PDF newly typeset**](files/anamitro_thesis.pdf) |
 | --- | --- |
 
-My **CV** is  [here]((files/anamitro_cv.pdf)). You may **email** me at anamitroappu@gmail.com.
+My **CV** is  [here](files/anamitro_cv.pdf). You may **email** me at anamitroappu@gmail.com.
 
 ____________________
 ## Research interest:
