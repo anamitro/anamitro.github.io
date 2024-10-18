@@ -1,6 +1,5 @@
 | [**Homepage**](README.md) | [**Research**](research.md) | [**Other stuff**](hobbies.md) |
 | --- | --- | --- |
-# Anamitro Biswas
 
 *“God exists since mathematics is consistent...”* André Weil
 
