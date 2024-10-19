@@ -16,6 +16,8 @@ My **CV** is  [here](files/anamitro_cv.pdf). You may **email** me at anamitroapp
 
 ____________________
 ## Research interest:
-Number Theory, and its interactions with Algebraic Geometry. I have previously also worked in Fuzzy Topology and Additive Combinatorics. | [**My research preprints and details about talks**](research.md) |
+Number Theory, and its interactions with Algebraic Geometry. I have previously also worked in Fuzzy Topology and Additive Combinatorics.
+
+| [**My research preprints and details about talks**](research.md) |
 | --- |
 
