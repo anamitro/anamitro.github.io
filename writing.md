@@ -2,6 +2,16 @@
 
 The translations keep the original meter and rhythm intact.
 
+## English translation of Kaṭhōpaniṣad 2-3-16
+
+> When all knots in your mind
+>
+> Fall apart, the simple "you"
+>
+> Transcended from th' world: you find;
+>
+> Just that, as religion pursue.
+
 ## English translation of Indian philosopher Śañkarācārya's _Vivēkacūdāmaṇi_ verse 254
 
 > Afar ethics, clan, blood or race
