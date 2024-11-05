@@ -2,7 +2,7 @@
 
 The translations keep the original meter and rhythm intact.
 
-## English translation of Kaṭhōpaniṣad 2-3-16
+## English translation of Indian philosophy, Kaṭhōpaniṣad 2-3-16
 
 > When all knots in your mind
 >
