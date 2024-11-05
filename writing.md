@@ -8,7 +8,7 @@ The translations keep the original meter and rhythm intact.
 >
 > Fall apart, the simple "you"
 >
-> Transcended from th' world: you find;
+> Up above the world: you find;
 >
 > Just that, as religion pursue.
 
