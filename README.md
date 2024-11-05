@@ -16,7 +16,7 @@ My **CV** is  [here](files/anamitro_cv.pdf). You may **email** me at anamitroapp
 
 ____________________
 ## Research interest:
-Number Theory, and its interactions with Algebraic Geometry.
+Number Theory, and its interactions with Algebraic Geometry. I am deeply intrigued by the distribution of prime numbers and density theorems. I wish to work in analytic and algebraic number theory in future.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I have previously also worked in Fuzzy Topology and Additive Combinatorics. In fuzzy topology I am particularly interested in the theoretical aspects of fuzzy boundary. In Additive Number Theory, I have worked on zero-sum problems, and on its connections with affine geometry.
 
