@@ -2,7 +2,17 @@
 
 The translations keep the original meter and rhythm intact.
 
-## English translation of Indian philosophy, Kaṭhōpaniṣad 2-3-16
+### English translation of Bhagavad-gītā verse 2-29
+
+> Once in a while by miracle does
+> 
+> One see God and to others convey;
+> 
+> Yet lucky ones who thus hear him say
+>
+> Rarely feel beneath all this fuss.
+
+### English translation of Indian philosophy, Kaṭhōpaniṣad 2-3-16
 
 > When all knots in your mind
 >
@@ -12,7 +22,7 @@ The translations keep the original meter and rhythm intact.
 >
 > Just that, as religion pursue.
 
-## English translation of Indian philosopher Śañkarācārya's _Vivēkacūdāmaṇi_ verse 254
+### English translation of Indian philosopher Śañkarācārya's _Vivēkacūdāmaṇi_ verse 254
 
 > Afar ethics, clan, blood or race
 > 
@@ -22,7 +32,7 @@ The translations keep the original meter and rhythm intact.
 > 
 > That Existence and yourself are same!
 
-## Bengali translation of British poet W. B. Yeats' *No Second Troy*
+### Bengali translation of British poet W. B. Yeats' *No Second Troy*
 
 > দুষব তাকে, কারণ আমার দিনরাত আচ্ছন্ন
 > 
@@ -48,7 +58,7 @@ The translations keep the original meter and rhythm intact.
 > 
 > অঙ্গপরশতাপে আজ ত পোড়ে না ট্রয়॥
 
-## Bengali translation of Persian poet Shamsuddin Hafiz-i Shirazi's *Shirazi Turk*
+### Bengali translation of Persian poet Shamsuddin Hafiz-i Shirazi's *Shirazi Turk*
 
 > তুর্কি সুধা লেপা তাহার খয়ের অধর পরশ পেলে
 > 
