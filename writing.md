@@ -2,7 +2,7 @@
 
 The translations keep the original meter and rhythm intact.
 
-### English translation of *Bhagavad-gītā* (Sanskrita) verse 2-29
+#### English translation of *Bhagavad-gītā* (Sanskrita) verse 2-29
 
 > Once in a while by miracle does
 > 
@@ -12,7 +12,7 @@ The translations keep the original meter and rhythm intact.
 >
 > Rarely feel beneath all this fuss.
 
-### English translation of Indian philosophy, *Kaṭhōpaniṣad* (Sanskrita) 2-3-16
+#### English translation of Indian philosophy, *Kaṭhōpaniṣad* (Sanskrita) 2-3-16
 
 > When all knots in your mind
 >
@@ -22,7 +22,7 @@ The translations keep the original meter and rhythm intact.
 >
 > Just that, as religion pursue.
 
-### English translation of Indian philosopher Śañkarācārya's _Vivēkacūdāmaṇi_ (Sanskrita) verse 254
+#### English translation of Indian philosopher Śañkarācārya's _Vivēkacūdāmaṇi_ (Sanskrita) verse 254
 
 > Afar ethics, clan, blood or race
 > 
@@ -32,7 +32,7 @@ The translations keep the original meter and rhythm intact.
 > 
 > That Existence and yourself are same!
 
-### Bengali translation of British poet W. B. Yeats' *No Second Troy* (English)
+#### Bengali translation of British poet W. B. Yeats' *No Second Troy* (English)
 
 > দুষব তাকে, কারণ আমার দিনরাত আচ্ছন্ন
 > 
@@ -58,7 +58,7 @@ The translations keep the original meter and rhythm intact.
 > 
 > অঙ্গপরশতাপে আজ ত পোড়ে না ট্রয়॥
 
-### Bengali translation of Persian poet Shamsuddin Hafiz-i Shirazi's *Shirazi Turk* (Farsi)
+#### Bengali translation of Persian poet Shamsuddin Hafiz-i Shirazi's *Shirazi Turk* (Farsi)
 
 > তুর্কি সুধা লেপা তাহার খয়ের অধর পরশ পেলে
 > 
