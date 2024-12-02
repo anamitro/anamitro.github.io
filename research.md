@@ -19,5 +19,5 @@
 
 <img src="library.jpg" alt="drawing" width="300"/> **<<** National Library of India (Kolkata)
 
-| [:color-background[My notes and slides]](https://anamitro.github.io/notes) |
+| [**My notes and slides**](https://anamitro.github.io/notes) |
 | --- |
