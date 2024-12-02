@@ -3,12 +3,6 @@
 
 # My Research
 
-## Research interest:
-Number Theory, and its interactions with Algebraic Geometry. I am deeply intrigued by the distribution of prime numbers and density theorems. I wish to work in analytic and algebraic number theory in future.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I have recently started reading about symplectic eigenvalues, and found some related operator theory concepts deeply intriguing. There is a lot more for me to know about that topic.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I have previously also worked in Fuzzy Topology and Additive Combinatorics. In fuzzy topology I am particularly interested in the theoretical aspects of fuzzy boundary. In Additive Number Theory, I have worked on zero-sum problems, and on its connections with affine geometry.
 
 ## Papers and pre-prints:
 
@@ -25,5 +19,5 @@ Number Theory, and its interactions with Algebraic Geometry. I am deeply intrigu
 
 <img src="library.jpg" alt="drawing" width="300"/> **<<** National Library of India (Kolkata)
 
-| [**My notes and slides**](https://anamitro.github.io/notes) |
+| [:color-background[My notes and slides]](https://anamitro.github.io/notes) |
 | --- |
