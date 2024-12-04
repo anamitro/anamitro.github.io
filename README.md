@@ -1,4 +1,4 @@
-| [**Homepage**](README.md) | [**Research**](research.md) | [**Talks**](talks.md) | [**Other stuff**](hobbies.md) |
+| [**Home**](README.md) | [**Research**](research.md) | [**Talks**](talks.md) | [**Other stuff**](hobbies.md) |
 | --- | --- | --- | --- |
 
 *“God exists since mathematics is consistent...”* André Weil
