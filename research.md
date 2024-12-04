@@ -1,3 +1,22 @@
+<style TYPE="text/css">
+code.has-jax {font: inherit; font-size: 100%; background: inherit; border: inherit;}
+</style>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+    tex2jax: {
+        inlineMath: [['$','$'], ['\\(','\\)']],
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'] // removed 'code' entry
+    }
+});
+MathJax.Hub.Queue(function() {
+    var all = MathJax.Hub.getAllJax(), i;
+    for(i = 0; i < all.length; i += 1) {
+        all[i].SourceElement().parentNode.className += ' has-jax';
+    }
+});
+</script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_HTML-full"></script>
+
 | [**Homepage**](README.md) | [**Research**](research.md) | [**Talks**](talks.md) | [**Other stuff**](hobbies.md) |
 | --- | --- | --- | --- |
 
@@ -10,7 +29,7 @@
 
 > The bounds for $D_r$ given by the formula proposed in this paper, can be calculated for groups upto rank 3, and the cycle lengths having in all at most 3 prime factors, using [this R program](https://github.com/anamitro/d-r-bounds). Prime $p_2$ has powers $e_1, e_2, e_3$ in ascending order, $p_2$ has powers $f_1, f_2, f_3$ in ascending order and $p_3$ has powers $g_1, g_2, g_3$ in ascending order. The program can be extended similarly for more primes and higher rank.
 
-3. Anamitro Biswas, Subhankar Jana and Juthika Mahanta, _Application of Coast of a fuzzy set as a crisper synopsis of the fuzzy boundary_ [to appear]
+2. Anamitro Biswas, Subhankar Jana and Juthika Mahanta, _Application of Coast of a fuzzy set as a crisper synopsis of the fuzzy boundary_ [to appear]
 
 
 ## Talks:
