@@ -32,8 +32,8 @@
 >> 
 >> COmbinatorial Number Theory And Connected Topics – II (CONTACT-II)
 >> 
->> [Conference webpage](https://sites.google.com/view/contact-ii/home)
+>> [**Conference webpage**](https://sites.google.com/view/contact-ii/home)
 >> 
->> [Abstract](https://drive.google.com/file/d/1OtAvMfGG2xg6Gr6-2gKDHkJ6REjTZkg2/view)
+>> [**Abstract**](https://drive.google.com/file/d/1OtAvMfGG2xg6Gr6-2gKDHkJ6REjTZkg2/view)
 >> 
->> [Handout](https://drive.google.com/file/d/11k1bXrPQqw_AAf8s9JweYXBvNs6qcWL3/view?pli=1)
+>> [**Handout**](https://drive.google.com/file/d/11k1bXrPQqw_AAf8s9JweYXBvNs6qcWL3/view?pli=1)
