@@ -1,5 +1,5 @@
-| [**Homepage**](README.md) | [**Research**](research.md) | [**Other stuff**](hobbies.md) |
-| --- | --- | --- |
+| [**Homepage**](README.md) | [**Research**](research.md) | [**Talks**](talks.md) | [**Other stuff**](hobbies.md) |
+| --- | --- | --- | --- |
 
 # My Research
 
