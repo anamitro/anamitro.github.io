@@ -1,7 +1,7 @@
 | [**Homepage**](README.md) | [**Research**](research.md) | [**Talks**](talks.md) | [**Other stuff**](hobbies.md) |
 | --- | --- | --- | --- |
 
-# Talks:
+# Talks
 
 # 2024
 
