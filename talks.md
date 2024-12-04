@@ -3,17 +3,14 @@
 
 # Talks
 
-| 2024 |
-| --- |
-| **Dec 21st-23rd**
- 
-*Aspects of the Davenport Constant for Finite Abelian Groups*
+# 2024
 
-[18th International Conference: Mathematical Sciences for Advancement of Science and Technology (MSAST 2024) 2024, organized by IMBIC](https://imbicorg.blogspot.com/) |
- 
-(scheduled)
- 
-[**Handout**]() |
+| **Dec 21st-23rd** |
+| --- |
+| *Aspects of the Davenport Constant for Finite Abelian Groups* |
+| [18th International Conference: Mathematical Sciences for Advancement of Science and Technology (MSAST 2024) 2024, organized by IMBIC](https://imbicorg.blogspot.com/) |
+| (scheduled) |
+| [**Handout**]() |
 
  **Apr 23rd**
  
