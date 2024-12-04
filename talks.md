@@ -2,7 +2,7 @@
 
 # 2024
 
->> Dec 21st-23rd
+>> **Dec 21st-23rd**
 >> 
 >> *Aspects of the Davenport Constant for Finite Abelian Groups*
 >> 
@@ -12,7 +12,7 @@
 >> 
 >> [**Handout**]()
 
->> Apr 23rd
+>> **Apr 23rd**
 >> 
 >> *The Davenport Constant for Finite Abelian Groups and its r-wise Generalization*
 >> 
@@ -23,7 +23,7 @@
 
 # 2023
 
->> Feb 4th
+>> **Feb 4th**
 >> 
 >> *r-wise Davenport constant for finite abelian groups*
 >> 
