@@ -1,5 +1,5 @@
 | [**Homepage**](README.md) | [**Research**](research.md) | [**Talks**](talks.md) | [**Other stuff**](hobbies.md) |
-| --- | --- | --- | -- |
+| --- | --- | --- | --- |
 
 *“God exists since mathematics is consistent...”* André Weil
 
@@ -15,6 +15,6 @@ My **CV** is  [here](files/anamitro_cv.pdf). You may **email** me at anamitroapp
 <img src="pictures/pragbodhi.jpg" alt="drawing" width="250"/>
 ____________________
 
-| [**My research preprints and details about talks**](research.md) |
-| --- |
+| [**My research preprints**](research.md) | [**and details about talks**](talks.md) |
+| --- | --- |
 
