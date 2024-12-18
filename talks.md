@@ -4,14 +4,14 @@
 
 # 2024
 
-| Dec 21st-23rd |
+- | Dec 21st-23rd |
 | --- |
 | *Aspects of the Davenport Constant for Finite Abelian Groups* |
 | [18th International Conference: Mathematical Sciences for Advancement of Science and Technology (MSAST 2024) 2024, organized by IMBIC](https://imbicorg.blogspot.com/) |
 | (scheduled) |
 | [<kbd> <br> **Handout** <br> </kbd>](files/anamitro_msast24.pdf) |
 
-| Apr 23rd |
+- | Apr 23rd |
 | --- |
 | *The Davenport Constant for Finite Abelian Groups and its r-wise Generalization* |
 | Students’ Talk at Institute of Advancing Intelligence, TCG Centers of Research and Education in Science and Technology |
@@ -20,7 +20,7 @@
 
 # 2023
 
-| Feb 4th |
+- | Feb 4th |
 | --- |
 | *r-wise Davenport constant for finite abelian groups* |
 | COmbinatorial Number Theory And Connected Topics – II (CONTACT-II) |
