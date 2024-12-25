@@ -8,8 +8,8 @@
 | --- |
 | *Aspects of the Davenport Constant for Finite Abelian Groups* |
 | [18th International Conference: Mathematical Sciences for Advancement of Science and Technology (MSAST 2024) 2024, organized by IMBIC](https://imbicorg.blogspot.com/) |
-| (scheduled) |
 | [<kbd> <br> **Handout** <br> </kbd>](files/anamitro_msast24.pdf) |
+| Proceedings [<kbd> <br> **PDF** <br> </kbd>](https://imbicorg.blogspot.com/p/previous-proceedings.html?m=1) |
 
 | Apr 23rd |
 | --- |
