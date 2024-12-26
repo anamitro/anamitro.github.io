@@ -13,6 +13,10 @@
 
 - Anamitro Biswas, Subhankar Jana and Juthika Mahanta, _Application of Coast of a fuzzy set as a crisper synopsis of the fuzzy boundary_ [to appear]
 
+## Proceedings
+
+- Anamitro Biswas (joint work with Eshita Mazumdar), Proceedings of IMBIC: 18th International Conference on MSAST 2024, vol. 13, ISBN: 978-81-981948-0-0. [<kbd> <br> **PDF** <br> </kbd>](https://imbicorg.blogspot.com/p/previous-proceedings.html?m=1)
+
 
 <img src="library.jpg" alt="drawing" width="300"/> **<<** National Library of India (Kolkata)
 
