@@ -2,6 +2,24 @@
 
 The translations keep the original meter and rhythm intact.
 
+#### English translation of Sañkarācārya’s *Nirvānasatakam* (Sanskrita) verse 1
+
+The mind, the reasons and sense of pride,
+
+The heart, compassion— of these, none’s me;
+
+Nor ear, nor tongue nor senses to guide:
+
+The nose to smell and the eyes to see;
+
+Neither the vast sky nor shabby Earth
+
+On energy or air is this Being based;
+
+Form manifested by radiant Mirth
+
+I’m that Eternity, simply expressed!
+
 #### English translation of *Bhagavad-gītā* (Sanskrita) verse 2-29
 
 > Once in a while by miracle does
