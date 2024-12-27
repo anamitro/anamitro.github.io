@@ -2,7 +2,7 @@
 
 The translations keep the original meter and rhythm intact.
 
-#### English translation of Sañkarācārya’s *Nirvānasatakam* (Sanskrita) verse 1
+#### English translation of Sañkarācārya’s *Nirvānasatakam* (Sanskrita)
 
 The mind, the reasons and sense of pride,
 
@@ -19,6 +19,34 @@ On energy or air is this Being based;
 Form manifested by radiant Mirth—
 
 I’m that Eternity, simply expressed!
+
+___
+
+Neither mere life, beyond ethereal reach,
+
+Not elements of matter nor cells alive,
+
+Nor reaction of limbs or body or speech;
+
+The Eternal Mirth— I thence derive!
+
+___
+
+I do not envy, nor am enraged,
+
+I know not greed or attachment much,
+
+I do not depend and neither do I hate,
+
+Within consciousness I’m not caged;
+
+I have no religion or obligation such,
+
+Nor need for wealth, nor carnal desire,
+
+Even desire for salvation did abate—
+
+For I’m the flames of the Eternal Fire!
 
 #### English translation of *Bhagavad-gītā* (Sanskrita) verse 2-29
 
