@@ -16,7 +16,7 @@ Neither the vast sky nor shabby Earth
 
 On energy or air is this Being based;
 
-Form manifested by radiant Mirth
+Form manifested by radiant Mirth—
 
 I’m that Eternity, simply expressed!
 
