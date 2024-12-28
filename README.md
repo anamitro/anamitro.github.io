@@ -1,5 +1,7 @@
 [<kbd> <br> **Home** <br> </kbd>](README.md) [<kbd> <br> **Research** <br> </kbd>](research.md) [<kbd> <br> **Talks** <br> </kbd>](talks.md) [<kbd> <br> **Other stuff** <br> </kbd>](hobbies.md)
 
+[<kbd> <br> **see in Bengali** <br> </kbd>](bn.md)
+
 *“God exists since mathematics is consistent...”* André Weil
 
 <img src="picture.jpg" alt="drawing" width="200"/><br><img src="name3.jpg" alt="drawing" width="100"/>
