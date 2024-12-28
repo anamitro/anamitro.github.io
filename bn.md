@@ -2,19 +2,7 @@
 
 | | |
 | --- | --- |
-| A question deep and profound <br> Is whether a circle is round. <br> In a paper by Erdös
-
-Written in Kurdish
-
-A counterexample is found. | প্রশ্নটি গভীর ও সরল,
-
-সব বৃত্তই নাকি গোল?
-
-অন্যথা শোনা যায়,
-
-বলে সুকুমার রায়;
-
-‘সাধু’ গায় হেদুয়ার টোল। |
+| A question deep and profound<br>Is whether a circle is round.<br> In a paper by Erdös<br>Written in Kurdish<br>A counterexample is found. | প্রশ্নটি গভীর ও সরল,<br>সব বৃত্তই নাকি গোল?<br>অন্যথা শোনা যায়,<br>বলে সুকুমার রায়;<br>‘সাধু’ গায় হেদুয়ার টোল। |
 
 <img src="picture.jpg" alt="drawing" width="200"/><br><img src="name3.jpg" alt="drawing" width="100"/>
 
