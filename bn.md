@@ -1,4 +1,4 @@
-[<kbd> <br> **Home** <br> </kbd>](README.md) [<kbd> <br> **গবেষণা** <br> </kbd>](research.md) [<kbd> <br> **বক্তৃতা** <br> </kbd>](talks.md) [<kbd> <br> **বক্তৃতা** <br> </kbd>](hobbies.md)
+[<kbd> <br> **Home** <br> </kbd>](README.md) [<kbd> <br> **গবেষণা** <br> </kbd>](research.md) [<kbd> <br> **বক্তৃতা** <br> </kbd>](talks.md) [<kbd> <br> **অন্যান্য** <br> </kbd>](hobbies.md)
 
 | | |
 | --- | --- |
