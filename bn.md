@@ -2,11 +2,7 @@
 
 | | |
 | --- | --- |
-| A question deep and profound
-
-Is whether a circle is round.
-
-In a paper by Erdös
+| A question deep and profound <br> Is whether a circle is round. <br> In a paper by Erdös
 
 Written in Kurdish
 
