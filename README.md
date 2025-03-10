@@ -4,7 +4,37 @@
 
 *“God exists since mathematics is consistent...”* André Weil
 
-<img src="picture.jpg" alt="drawing" width="200"/><br><img src="name3.jpg" alt="drawing" width="100"/>
+<h1 align="center">Anamitro Biswas</h1>
+<table>
+  <tbody>
+    <tr>
+      <td><b>Information</b></td>
+      <td width="50%" rowspan="4">
+        <img src="picture.jpg" alt="drawing" width="200"/><br><img src="name3.jpg" alt="drawing" width="100"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <ul>
+          <li>anamitroappu@gmail.com</li>
+          <li><a href="https://github.com/anamitro">Github</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr><td><b>Webages</b></td></tr>
+    <tr>
+      <td width="50%">
+        <ul>
+          <li><a href="research.md">Research</a></li>
+          <li><a href="talks.md">Talks</a></li>
+          <li><a href="hobbies.md">Other stuff</a></li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 Hi, I am Anamitro. Currently, I am an Institute Junior Research Fellow of Mathematics at [Indian Institute of Technology Bhilai](https://iitbhilai.ac.in). You may find me in the math department, in the 2nd and 3rd floors of SD-2 building in the Academic Block here.
 
