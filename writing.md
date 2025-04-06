@@ -48,6 +48,56 @@ Even desire for salvation did abate—
 
 For I’m the flames of the Eternal Fire!
 
+___
+
+No savings for Heaven, hence; nor any sin;
+
+I have no regret, for none am I keen;
+
+Nothing specially pious, where I feel at home,
+
+No hymn or bible. I don’t consume
+
+Material stuff nor am ever worn out.
+
+Me, there’s nothing mutable about!
+
+For I’m just bliss without worry or stress,
+
+Out of dormancy in Nature’s recess.
+
+___
+
+I have no death nor fears or life,
+
+Nor partitioned by any racial strife;
+
+I have no burden of ancestry or birth;
+
+I have no pal, to depend on or care
+
+No teacher or a protege, my ego to bear
+
+For what am I but carefree mirth!
+
+___
+
+I’ve seen the core: the One Presence,
+
+Shapeless in form; yet everywhere
+
+I manifest as that, in deep essence,
+
+By senses felt yet to words unclear!
+
+I have no ties, but am I thus free?
+
+For where is freedom where are no chains?
+
+What else but Bliss is there in me,
+
+For ’neath this skin it’s God Who remains.
+
 #### English translation of *Bhagavad-gītā* (Sanskrita) verse 2-29
 
 > Once in a while by miracle does
