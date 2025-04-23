@@ -14,5 +14,5 @@
 - [CV](files/anamitro_cv.pdf)
 
 <img src="pictures/pragbodhi.jpg" alt="drawing" width="250"/>
-<br>on a short trek at Pragbodhi caves, Oct 2024<br>
+<kbd>on a short trek at Pragbodhi caves, Oct 2024</kbd>
 
