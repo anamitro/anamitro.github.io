@@ -6,7 +6,7 @@
 
 - Email: anamitroappu@gmail.com
 - Institute Junior Research Fellow of Mathematics at <a href="https://iitbhilai.ac.in">Indian Institute of Technology Bhilai</a>
-> During daytime on weekdays, you'll find me in Room no. 313, level 3, SD-2 block. On weekends, I am generally far from office: at my home in Kolkata or at my friend's Chinmaya's home in Bargarh close by.
+>>> During daytime on weekdays, you'll find me in Room no. 313, level 3, SD-2 block. On weekends, I am generally far from office: at my home in Kolkata or at my friend's Chinmaya's home in Bargarh close by.
 - M.Sc. in Mathematics from <a href="http://maths.nits.ac.in/">National Institute of Technology Silchar</a> (India)
 [<kbd> <br> **M.Sc. Thesis** <br> </kbd>](files/anamitro_thesis_old.pdf), my advisor [Dr. Juthika Mahanta](http://maths.nits.ac.in/juthika/)
 - [CV](files/anamitro_cv.pdf)
