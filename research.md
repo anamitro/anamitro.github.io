@@ -11,6 +11,8 @@
 
 - Anamitro Biswas, Subhankar Jana and Juthika Mahanta, _Application of Coast of a fuzzy set as a crisper synopsis of the fuzzy boundary_ [preprint]
 
+- Anamitro Biswas, _The Davenport constant for groups of rank 3, exact values and narrower bounds_ (in preparation).
+
 ## Proceedings (Extended Abstract)
 
 - Anamitro Biswas (joint work with Eshita Mazumdar), *Aspects of the Davenport Constant for Finite Abelian Groups*, Proceedings of IMBIC: 18th International Conference on MSAST 2024, vol. 13, ISBN: 978-81-981948-0-0. [<kbd> <br> **PDF** <br> </kbd>](https://imbicorg.blogspot.com/p/previous-proceedings.html?m=1)
