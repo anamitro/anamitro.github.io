@@ -4,7 +4,7 @@
 
 <img src="picture.jpg" alt="drawing" width="200"/><br><img src="name3.jpg" alt="drawing" width="100"/>
 
-Institute Junior Research Fellow of Mathematics at <a href="https://iitbhilai.ac.in">Indian Institute of Technology Bhilai</a>.
+Research scholar, Department of Mathematics, <a href="https://iitbhilai.ac.in">Indian Institute of Technology Bhilai</a>.
 <br><br>
 During daytime on weekdays, you'll find me in Room no. 313, level 3, SD-2 block. On weekends, I am generally far from office: at my home in Kolkata or at my friend's Chinmaya's home in Bargarh close by.
 <br><br>
