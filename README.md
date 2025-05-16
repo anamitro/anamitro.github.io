@@ -14,6 +14,8 @@ I can speak Bengali (first language), English (IELTS score band 8.0), Sanskrit a
 <br><br>
 Email: anamitroappu@gmail.com
 >> or anamitrob@iitbhilai.ac.in, but I prefer the former one.
+
+
 <br><br>
 [<kbd> <br> **CV** <br> </kbd>](files/anamitro_cv.pdf)
 
