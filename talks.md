@@ -2,6 +2,8 @@
 
 # Talks
 
+<img src="pictures/nits.jpg" alt="drawing" width="600"/> <kbd> << the campus of NIT Silchar, where I did my M.Sc.</kbd>
+
 # 2024
 
 | Dec 21st-23rd |
