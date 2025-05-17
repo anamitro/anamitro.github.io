@@ -15,5 +15,3 @@ Apart from mathematics, I have a serious interest in painting. I initially start
 | [<kbd> <br> chicago1893 <br> </kbd>](https://anamitro.github.io/beamercolortheme-chicago1893) | beamer color theme |
 | [<kbd> <br> Translations <br> </kbd>](https://anamitro.github.io/writing) | |
 | [<kbd> <br> my blog <br> </kbd>](https://taittiriiya.blogspot.com) | mostly poetry and travelogue |
-
-Currently I am working with [Gappobagish Publishing House](https://www.facebook.com/profile.php?id=100070754826159) on the first Bengali translation project of Vinayak D. Savarkar’s magum opus ‘Essentials of Hindutva’, named as ‘রাজবেশ ম্লান গৈরিক’. It is a classic outlining the national integration of India, assimilating Indians irrespective of personal faith and wide diversity into a common philosophical framework.
