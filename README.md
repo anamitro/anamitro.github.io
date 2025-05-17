@@ -75,6 +75,8 @@ Email: anamitroappu@gmail.com
 | [**Abstract**](https://drive.google.com/file/d/1OtAvMfGG2xg6Gr6-2gKDHkJ6REjTZkg2/view) |
 | [<kbd> <br> **Handout** <br> </kbd>](https://drive.google.com/file/d/11k1bXrPQqw_AAf8s9JweYXBvNs6qcWL3/view?pli=1) |
 
+<img src="pictures/nits.jpg" alt="drawing" width="600"/> <kbd> << the campus of NIT Silchar, where I did my M.Sc.</kbd>
+
 # Besides Mathematics <a name="hobbies"></a>
 I am also interested in
 
