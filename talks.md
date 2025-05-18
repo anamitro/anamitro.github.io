@@ -1,5 +1,7 @@
 [<kbd> <br> **Home** <br> </kbd>](README.md) [<kbd> <br> **Research** <br> </kbd>](research.md) [<kbd> <br> **Talks** <br> </kbd>](talks.md) [<kbd> <br> **Other stuff** <br> </kbd>](hobbies.md)
 
+_____
+
 # Talks
 
 <img src="pictures/nits.jpg" alt="drawing" width="600"/> <kbd> << the campus of NIT Silchar, where I did my M.Sc.</kbd>
