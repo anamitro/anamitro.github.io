@@ -2,11 +2,11 @@
 
 ____
 
-# About me <a name="about"></a>
-
 *“God exists since mathematics is consistent...”* André Weil
 
 <img src="picture.jpg" alt="drawing" width="200"/><br><img src="name3.jpg" alt="drawing" width="100"/>
+
+## About me
 
 Research scholar, Department of Mathematics, <a href="https://iitbhilai.ac.in">Indian Institute of Technology Bhilai</a>.
 <br><br>
