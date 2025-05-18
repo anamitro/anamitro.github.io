@@ -23,5 +23,5 @@ Email: anamitroappu@gmail.com
 <br><br>
 [<kbd> <br> **CV** <br> </kbd>](files/anamitro_cv.pdf)
 
-<img src="pictures/pragbodhi.jpg" alt="drawing" width="550"/>
+<img src="pictures/pragbodhi.jpg" alt="drawing" width="350"/>
 <kbd>on a short trek at Pragbodhi caves (where Lord Buddha stayed for 6 years before His Enlightenment, Oct 2024</kbd>
