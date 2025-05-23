@@ -14,7 +14,7 @@ During daytime on weekdays, you'll find me in Room no. 313, level 3, SD-2 buildi
 <br><br>
 I have completed M.Sc. in Mathematics from <a href="http://maths.nits.ac.in/">National Institute of Technology Silchar</a> (India). [Dr. Juthika Mahanta](http://maths.nits.ac.in/juthika/) supervised my M.Sc. thesis, titled *Coast of a fuzzy set as a 'crisper' subset of the boundary*. [<kbd> <br> **M.Sc. Thesis** <br> </kbd>](files/anamitro_thesis_old.pdf)
 <br><br>
-I can speak Bengali (first language), English (IELTS score band 8.0), Sanskrit and Hindi. I can understand Oriya, Punjabi and Maithili by listening (can't read, though).
+I can speak Bengali (first language), English, Sanskrit and Hindi. I can understand Oriya, Punjabi and Maithili by listening (can't read, though).
 <br><br>
 Email: anamitroappu@gmail.com
 >> or anamitrob@iitbhilai.ac.in, but I prefer the former one.
