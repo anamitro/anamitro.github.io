@@ -19,9 +19,7 @@ _____
 
 ## Thesis
 
-- Anamitro Biswas, *Coast of a fuzzy set as a 'crisper' subset of the boundary*, under the supervision of Dr. Juthika Mahanta, National Institute of Technology Silchar (2023). [<kbd> <br> **PDF** <br> </kbd>](files/anamitro_thesis_old.pdf)
-
-[thesis submitted in partial fulfillment of the requirements for the Project of the Master degree work]
+- Anamitro Biswas, *Coast of a fuzzy set as a 'crisper' subset of the boundary*, under the supervision of Dr. Juthika Mahanta, National Institute of Technology Silchar (2023). [<kbd> <br> **PDF** <br> </kbd>](files/anamitro_thesis_old.pdf) [thesis submitted in partial fulfillment of the requirements for the Project of the Master degree work]
 
 ## In preparation
 
