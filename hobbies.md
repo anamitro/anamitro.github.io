@@ -16,4 +16,4 @@ Apart from mathematics, I have a serious interest in painting. I initially start
 | [<kbd> <br> TeXChand <br> </kbd>](https://sites.google.com/view/texchand) | for Indic vernacular typesetting and printing |
 | [<kbd> <br> chicago1893 <br> </kbd>](https://anamitro.github.io/beamercolortheme-chicago1893) | beamer color theme |
 | [<kbd> <br> Translations <br> </kbd>](https://anamitro.github.io/writing) | |
-| [<kbd> <br> my blog <br> </kbd>](https://taittiriiya.blogspot.com) | mostly poetry and travelogue |
+%| [<kbd> <br> my blog <br> </kbd>](https://taittiriiya.blogspot.com) | mostly poetry and travelogue |
