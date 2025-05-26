@@ -12,6 +12,8 @@ ___
 
 [<kbd> <br> **Solutions to Problem Sheet-1** <br> </kbd>](files/notes/iitbhilai/math1/set1soln.pdf)
 
+[<kbd> <br> **Solutions to Problem Sheet-2** <br> </kbd>](files/notes/iitbhilai/math1/set2soln.pdf)
+
 ___
 
 [<kbd> <br> **My homepage** <br> </kbd>](https://anamitro.github.io)
