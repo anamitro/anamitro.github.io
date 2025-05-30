@@ -14,7 +14,7 @@ ___
 
 [<kbd> <br> **Solutions to Problem Sheet-2** <br> </kbd>](files/notes/iitbhilai/math1/set2soln.pdf)
 
-[<kbd> <br> **Solutions to Problem Sheet-3** <br> </kbd>](files/notes/iitbhilai/math1/set3soln.pdf) I haven’t completed typing this yet; I shall try to upload before their discussion is completed in the next class.
+[<kbd> <br> **Solutions to Problem Sheet-3** <br> </kbd>](files/notes/iitbhilai/math1/set3soln.pdf) I haven’t completed typing solution set 3 yet; I shall try to upload before their discussion is completed in the next class.
 
 ___
 
