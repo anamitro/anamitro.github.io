@@ -20,7 +20,7 @@ ___
 
 [<kbd> <br> **Solutions to Problem Sheet on Functions - 2** <br> </kbd>](files/notes/iitbhilai/math1/set4soln2.pdf)
 
-Since I hurriedly finished the last solutions tonight, there might have remained some mistakes. If you come across one, please point it out to me and to your classmates, so that it doesn't affect tomorrow's exam. All the best!
+Since I hurriedly finished the last solutions tonight, there might have remained some mistakes. If you come across one, please point it out to me and to your classmates, so that it doesn't affect tomorrow's exam. For exam, don't get the logical sequence of conditions in a definition wrong. For all epsilon > 0, there exists delta > 0 such that [something] holds... write all these carefully and rigorously to get full marks in those questions. All the best!
 ___
 
 [<kbd> <br> **My homepage** <br> </kbd>](https://anamitro.github.io)
