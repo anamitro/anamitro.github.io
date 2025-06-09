@@ -18,7 +18,7 @@ ___
 
 [<kbd> <br> **Solutions to Problem Sheet on Functions** <br> </kbd>](files/notes/iitbhilai/math1/set4soln1.pdf)
 
-[<kbd> <br> **Solutions to Problem Sheet on Functions** <br> </kbd>](files/notes/iitbhilai/math1/set4soln1.pdf) [shall upload in an hour]
+[<kbd> <br> **Solutions to Problem Sheet on Functions** <br> </kbd>](files/notes/iitbhilai/math1/set4soln2.pdf)
 ___
 
 [<kbd> <br> **My homepage** <br> </kbd>](https://anamitro.github.io)
