@@ -16,9 +16,11 @@ ___
 
 [<kbd> <br> **Solutions to Problem Sheet-3** <br> </kbd>](files/notes/iitbhilai/math1/set3soln.pdf) I haven’t completed typing solution set 3 yet; I shall try to upload before their discussion is completed in the next class.
 
-[<kbd> <br> **Solutions to Problem Sheet on Functions - 1** <br> </kbd>](files/notes/iitbhilai/math1/set4soln1.pdf)
+[<kbd> <br> **Solutions to Problem Sheet on Functions - 1** <br> </kbd>](files/notes/iitbhilai/math1/set4soln1.pdf) [Solution to 1(a) was wrong, I changed it. Please re-visit once if you have already read it.]
 
 [<kbd> <br> **Solutions to Problem Sheet on Functions - 2** <br> </kbd>](files/notes/iitbhilai/math1/set4soln2.pdf)
+
+Since I hurriedly finished the last solutions tonight, there might have remained some mistakes. If you come across one, please point it out to me and to your classmates, so that it doesn't affect tomorrow's exam. All the best!
 ___
 
 [<kbd> <br> **My homepage** <br> </kbd>](https://anamitro.github.io)
