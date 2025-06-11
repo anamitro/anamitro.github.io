@@ -22,6 +22,10 @@ ___
 
 [<kbd> <br> **Solutions to Problem Sheet on Functions - 2** <br> </kbd>](files/notes/iitbhilai/math1/set4soln2.pdf)
 
+[<kbd> <br> **Solutions to Problem Sheet on Functions - 3** <br> </kbd>](files/notes/iitbhilai/math1/set4soln3-7.pdf)
+
+[<kbd> <br> **Method of Slicing, classnotes** <br> </kbd>](files/notes/iitbhilai/math1/slicenotes.pdf)
+
 Since I hurriedly finished the last solutions tonight, there might have remained some mistakes. If you come across one, please point it out to me and to your classmates, so that it doesn't affect tomorrow's exam.
 <br><br>
 For exam, don't get the logical sequence of conditions in a definition wrong. For all epsilon > 0, there exists delta > 0 such that [something] holds... write all these carefully and rigorously to get full marks in those questions.
