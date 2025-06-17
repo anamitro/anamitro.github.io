@@ -24,7 +24,13 @@ ___
 
 [<kbd> <br> **Solutions to Problem Sheet on Functions - 3** <br> </kbd>](files/notes/iitbhilai/math1/set4soln3-7.pdf)
 
-[<kbd> <br> **Method of Slicing, classnotes** <br> </kbd>](files/notes/iitbhilai/math1/slicenotes.pdf)
+[<kbd> <br> **Applications of Single Variable Integration, classnotes** <br> </kbd>](files/notes/iitbhilai/math1/applications_of_single_variable_integration_classnotes.pdf)
+
+[<kbd> <br> **Applications of Single Variable Integration, more problems** <br> </kbd>](files/notes/iitbhilai/math1/intgrn_prob.pdf)
+
+[<kbd> <br> **Geometric Series** <br> </kbd>](files/notes/iitbhilai/math1/gpseries.pdf)
+
+[<kbd> <br> **Taylor series for real numbers** <br> </kbd>](files/notes/iitbhilai/math1/Taylor_series_real_250614_173152.pdf)
 
 For exam, don't get the logical sequence of conditions in a definition wrong. For all epsilon > 0, there exists delta > 0 such that [something] holds... write all these carefully and rigorously to get full marks in those questions.
 <br><br>
