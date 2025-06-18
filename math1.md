@@ -32,6 +32,8 @@ ___
 
 [<kbd> <br> **Taylor series for real numbers** <br> </kbd>](files/notes/iitbhilai/math1/Taylor_series_real_250614_173152.pdf)
 
+[<kbd> <br> **Multivariate differentiation. problem sheet 1** <br> </kbd>](problem_sheet_multivariate_differentiation.pdf)
+
 For exam, don't get the logical sequence of conditions in a definition wrong. For all epsilon > 0, there exists delta > 0 such that [something] holds... write all these carefully and rigorously to get full marks in those questions.
 <br><br>
 All the best!
