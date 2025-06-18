@@ -22,7 +22,7 @@ Email: anamitroappu@gmail.com
 >> or anamitrob@iitbhilai.ac.in, but I prefer the former one.
 
 <br><br>
-[<kbd> <br> **PDF** <br> </kbd>](math1.md) This summer session, I am Teaching Assistant for course [Mathematics-I](math1.md). Details, including my classnotes, can be found [here](math1.md).
+[<kbd> <br> **Mathematics-I (MAL101)** <br> </kbd>](math1.md) This summer session, I am Teaching Assistant for course [Mathematics-I](math1.md). Details, including my classnotes, can be found [here](math1.md).
 
 <img src="pictures/pragbodhi.jpg" alt="drawing" width="350"/>
 <kbd>on a short trek at Pragbodhi caves (where Lord Buddha stayed for 6 years before His Enlightenment), Oct 2024</kbd>
