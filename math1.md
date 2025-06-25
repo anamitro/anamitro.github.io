@@ -34,6 +34,8 @@ ___
 
 [<kbd> <br> **Multivariate differentiation, problem sheet 1** <br> </kbd>](files/notes/iitbhilai/math1/problem_sheet_multivariate_differentiation.pdf)
 
+[<kbd> <br> **How to draw a Cardioid** <br> </kbd>](https://youtu.be/2kpfTN1Eo9Y?si=S2vjbkSRFNk4BMEn)
+
 For exam, don't get the logical sequence of conditions in a definition wrong. For all epsilon > 0, there exists delta > 0 such that [something] holds... write all these carefully and rigorously to get full marks in those questions.
 <br><br>
 All the best!
