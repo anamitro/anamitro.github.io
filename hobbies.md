@@ -2,6 +2,10 @@
 
 _____
 
+[<kbd> <br> **NOTES** <br> </kbd>](https://anamitro.github.io/notes)<br>
+Here are some notes (on some topics in math) I had made while studying or teaching or clarification.
+
+
 # Besides Mathematics,
 I am also interested in
 
