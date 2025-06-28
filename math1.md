@@ -38,9 +38,11 @@ ___
 
 [<kbd> <br> **Mutivariate differetiation, how to solve** <br> </kbd>](files/notes/iitbhilai/math1/multivariate_soln0.pdf)
 
-[<kbd> <br> **Multivariate differentiation, solutiona** <br> </kbd>](files/notes/iitbhilai/math1/multivariate_soln.pdf)
+[<kbd> <br> **Multivariate differentiation, solutions** <br> </kbd>](files/notes/iitbhilai/math1/multivariate_soln.pdf)
 
 [<kbd> <br> **How to draw a Cardioid r=2(1- cos \theta)** <br> </kbd>](https://youtu.be/2kpfTN1Eo9Y?si=S2vjbkSRFNk4BMEn)
+
+[<kbd> <br> **One more note on the Cardioid** <br> </kbd>](files/notes/iitbhilai/math1/cardioid.pdf)
 
 [<kbd> <br> **Lagrange multipliers, problems** <br> </kbd>](files/notes/iitbhilai/math1/lagrange-m.pdf)
 
