@@ -32,6 +32,8 @@ ___
 
 [<kbd> <br> **Taylor series for real numbers** <br> </kbd>](files/notes/iitbhilai/math1/Taylor_series_real_250614_173152.pdf)
 
+[<kbd> <br> **Limit of sin(1/x)** <br> </kbd>](files/notes/iitbhilai/math1/lim_sin_1-by-x.pdf)
+
 [<kbd> <br> **Multivariate differentiation, problem sheet 1** <br> </kbd>](files/notes/iitbhilai/math1/problem_sheet_multivariate_differentiation.pdf)
 
 [<kbd> <br> **Mutivariate differetiation, how to solve** <br> </kbd>](files/notes/iitbhilai/math1/multivariate_soln0.pdf)
