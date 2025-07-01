@@ -1,4 +1,4 @@
-![![](https://img.shields.io/badge/Home-red?style=for-the-badge)](https://anamitro.github.io/README.md)
+[![](https://img.shields.io/badge/Home-red?style=for-the-badge)](https://anamitro.github.io/README.md)
 [![](https://img.shields.io/badge/Research-red?style=for-the-badge)](research.md)
 [![](https://img.shields.io/badge/Talks-red?style=for-the-badge)](talks.md)
 [![](https://img.shields.io/badge/Teaching-red?style=for-the-badge)](teach.md)
