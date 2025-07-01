@@ -1,3 +1,5 @@
+[![](https://img.shields.io/badge/Research-red?style=for-the-badge)](https://anamitro.github.io/research.html)
+
 [<kbd> <br> **Home** <br> </kbd>](README.md) [<kbd> <br> **Research** <br> </kbd>](research.md) [<kbd> <br> **Talks** <br> </kbd>](talks.md) [<kbd> <br> **Other stuff** <br> </kbd>](hobbies.md)
 
 ____
