@@ -2,8 +2,8 @@
 [![](https://img.shields.io/badge/Reasearch-red?style=for-the-badge)](research.md)
 [![](https://img.shields.io/badge/Talks-red?style=for-the-badge)](talks.md)
 [![](https://img.shields.io/badge/Teaching-red?style=for-the-badge)](teach.md)
-[![](https://img.shields.io/badge/Other stuff-red?style=for-the-badge)](hobbies.md)
-[![](https://img.shields.io/badge/See in Bengali-red?style=for-the-badge)](bn.md)
+[![](https://img.shields.io/badge/Other_stuff-red?style=for-the-badge)](hobbies.md)
+[![](https://img.shields.io/badge/See_in_Bengali-red?style=for-the-badge)](bn.md)
 
 ____
 
