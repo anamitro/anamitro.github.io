@@ -60,9 +60,10 @@ I'd like to know your feedback on the course. This was the first course I taught
 
 ___
 
-For exam, don't get the logical sequence of conditions in a definition wrong. For all epsilon > 0, there exists delta > 0 such that [something] holds... write all these carefully and rigorously to get full marks in those questions.
+> [!TIP]
+> For exam, don't get the logical sequence of conditions in a definition wrong. For all epsilon > 0, there exists delta > 0 such that [something] holds... write all these carefully and rigorously to get full marks in those questions.
 <br><br>
-All the best!
+> All the best!
 ___
 
 [<kbd> <br> **My homepage** <br> </kbd>](https://anamitro.github.io)
