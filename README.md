@@ -1,9 +1,4 @@
-[![](https://img.shields.io/badge/Home-red?style=for-the-badge)](https://anamitro.github.io/README.md)
-[![](https://img.shields.io/badge/Research-red?style=for-the-badge)](research.md)
-[![](https://img.shields.io/badge/Talks-red?style=for-the-badge)](talks.md)
-[![](https://img.shields.io/badge/Teaching-red?style=for-the-badge)](teach.md)
-[![](https://img.shields.io/badge/Other_stuff-red?style=for-the-badge)](hobbies.md)
-[![](https://img.shields.io/badge/See_in_Bengali-red?style=for-the-badge)](bn.md)
+[<kbd> <br> **Home** <br> </kbd>](README.md) [<kbd> <br> **Research** <br> </kbd>](research.md) [<kbd> <br> **Talks** <br> </kbd>](talks.md) [<kbd> <br> **Other stuff** <br> </kbd>](hobbies.md)
 
 ____
 
