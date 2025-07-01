@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/Home-blue?style=for-the-badge)](README.md)
+[![](https://img.shields.io/badge/Home-red?style=for-the-badge)](README.md)
 
 [<kbd> <br> **Home** <br> </kbd>](README.md) [<kbd> <br> **Research** <br> </kbd>](research.md) [<kbd> <br> **Talks** <br> </kbd>](talks.md) [<kbd> <br> **Other stuff** <br> </kbd>](hobbies.md) [<kbd> <br> **see in Bengali** <br> </kbd>](bn.md)
 
