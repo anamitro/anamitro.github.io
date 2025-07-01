@@ -1,5 +1,5 @@
 [![](https://img.shields.io/badge/Home-red?style=for-the-badge)](README.md)
-[![](https://img.shields.io/badge/Reasearch-red?style=for-the-badge)](research.md)
+[![](https://img.shields.io/badge/Research-red?style=for-the-badge)](research.md)
 [![](https://img.shields.io/badge/Talks-red?style=for-the-badge)](talks.md)
 [![](https://img.shields.io/badge/Teaching-red?style=for-the-badge)](teach.md)
 [![](https://img.shields.io/badge/Other_stuff-red?style=for-the-badge)](hobbies.md)
