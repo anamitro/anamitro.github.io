@@ -1,4 +1,4 @@
-$\color{red}{\textsf{Home}}$
+$\color{red}{\text{Home}}$
 
 [<kbd> <br> **Home** <br> </kbd>](README.md) [<kbd> <br> **Research** <br> </kbd>](research.md) [<kbd> <br> **Talks** <br> </kbd>](talks.md) [<kbd> <br> **Other stuff** <br> </kbd>](hobbies.md) [<kbd> <br> **see in Bengali** <br> </kbd>](bn.md)
 
