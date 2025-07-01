@@ -1,6 +1,7 @@
+[![](https://img.shields.io/badge/Home-yellow?style=for-the-badge)](https://anamitro.github.io/)
 [![](https://img.shields.io/badge/Research-red?style=for-the-badge)](https://anamitro.github.io/research.html)
-
-[<kbd> <br> **Home** <br> </kbd>](README.md) [<kbd> <br> **Research** <br> </kbd>](research.md) [<kbd> <br> **Talks** <br> </kbd>](talks.md) [<kbd> <br> **Other stuff** <br> </kbd>](hobbies.md)
+[![](https://img.shields.io/badge/Talks-red?style=for-the-badge)](https://anamitro.github.io/talks.html)
+[![](https://img.shields.io/badge/Other_stuff-red?style=for-the-badge)](https://anamitro.github.io/hobbies.html)
 
 ____
 
