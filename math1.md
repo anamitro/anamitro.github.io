@@ -7,7 +7,6 @@ This unofficial webpage is maintained by me, Anamitro Biswas, teaching assistant
 Our tutorial classes are scheduled at 2 pm on Wednesdays, at room no. 207 in SD-2 building. The objective of these classes is to discuss problems on the topics that are taught in theory classes.
 
 [![](https://img.shields.io/badge/⚠️-red?style=for-the-badge)](https://anamitro.github.io/)
-
 If you find any mistake in the solution sets, please let me know.
 
 ___
@@ -65,10 +64,9 @@ I'd like to know your feedback on the course. This was the first course I taught
 ___
 
 [![](https://img.shields.io/badge/💡-green?style=for-the-badge)](https://anamitro.github.io/)
-
 For exam, don't get the logical sequence of conditions in a definition wrong. For all epsilon > 0, there exists delta > 0 such that [something] holds... write all these carefully and rigorously to get full marks in those questions.
 <br><br>
-> All the best!
+All the best!
 ___
 
 [<kbd> <br> **My homepage** <br> </kbd>](https://anamitro.github.io)
