@@ -6,8 +6,7 @@ This unofficial webpage is maintained by me, Anamitro Biswas, teaching assistant
 
 Our tutorial classes are scheduled at 2 pm on Wednesdays, at room no. 207 in SD-2 building. The objective of these classes is to discuss problems on the topics that are taught in theory classes.
 
-> [!CAUTION]
-> If you find any mistake in the solution sets, please let me know.
+If you find any mistake in the solution sets, please let me know.
 
 ___
 
