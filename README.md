@@ -18,7 +18,7 @@ You’ll find me in Room no. 313, level 3, SD-2 building in the Academic Block. 
 <br><br>
 **My Erdős number is 4.**
 <br><br>
-I have completed M.Sc. in Mathematics from <a href="http://maths.nits.ac.in/">National Institute of Technology Silchar</a> (India). [Dr. Juthika Mahanta](http://maths.nits.ac.in/juthika/) supervised my M.Sc. thesis, titled *Coast of a fuzzy set as a 'crisper' subset of the boundary*. [![](https://img.shields.io/badge/Teaching-red?style=for-the-badge)](files/anamitro_thesis_old.pdf)
+I have completed M.Sc. in Mathematics from <a href="http://maths.nits.ac.in/">National Institute of Technology Silchar</a> (India). [Dr. Juthika Mahanta](http://maths.nits.ac.in/juthika/) supervised my M.Sc. thesis, titled *Coast of a fuzzy set as a 'crisper' subset of the boundary*. [<kbd> <br> **PDF** <br> </kbd>](files/anamitro_thesis_old.pdf)
 <br><br>
 I can speak Bengali (first language), English and Sanskrit.
 <br><br>
