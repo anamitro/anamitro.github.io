@@ -5,4 +5,4 @@
 [![](https://img.shields.io/badge/Other_stuff-red?style=for-the-badge)](https://anamitro.github.io/hobbies)
 
 
-1. Mathematics 1, 2024-2025S at IIT Bhilai [<kbd> <br> **PDF** <br> </kbd>](https://anamitro.github.io/math1)
+1. Mathematics 1, 2024-2025S at IIT Bhilai [<kbd> <br> **Webpage** <br> </kbd>](https://anamitro.github.io/math1)
