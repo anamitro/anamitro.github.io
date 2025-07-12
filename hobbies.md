@@ -6,6 +6,7 @@
 
 _____
 <img src="pictures/dhanuyatra.jpg" alt="drawing" width="500"/>
+
 ```diff
 ! With my friend Chinmaya (2025). Here we were participating in the Dhanuyatra festival, pompously celebrated in western Odisha.
 ```
