@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/Other_stuff-yellow?style=for-the-badge)](https://anamitro.github.io/hobbies.html)
 
 _____
-![](pictures/dhanuyatra.jpg)
+<img src="pictures/dhanuyatra.jpg" alt="drawing" width="500"/>
 *With my friend Chinmaya (2025). Here we were participating in the Dhanuyatra festival, pompously celebrated in western Odisha.*
 
 [<kbd> <br> **NOTES** <br> </kbd>](https://anamitro.github.io/notes)<br>
