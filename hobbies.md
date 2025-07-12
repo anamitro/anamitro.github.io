@@ -5,6 +5,8 @@
 [![](https://img.shields.io/badge/Other_stuff-yellow?style=for-the-badge)](https://anamitro.github.io/hobbies.html)
 
 _____
+![](pictures/dhanuyatra)
+*With my friend Chinmaya (2025). Here we were participating in the Dhanuyatra festival, pompously celebrated in western Odisha.*
 
 [<kbd> <br> **NOTES** <br> </kbd>](https://anamitro.github.io/notes)<br>
 Here are some notes (on some topics in math) I had made while studying or teaching or clarification.
