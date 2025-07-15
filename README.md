@@ -12,7 +12,7 @@ ____
 
 ## About me
 
-Research scholar, Department of Mathematics, <a href="https://iitbhilai.ac.in">Indian Institute of Technology Bhilai</a>.
+Research scholar, Department of Mathematics, <a href="https://iitbhilai.ac.in/index.php?pid=dept_math">Indian Institute of Technology Bhilai</a>.
 <br><br>
 You’ll find me in Room no. 317, level 3, SD-2 building in the Academic Block. Or, in Kolkata. Or, travelling.
 <br><br>
