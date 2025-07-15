@@ -18,14 +18,9 @@ You’ll find me in Room no. 317, level 3, SD-2 building in the Academic Block. 
 <br><br>
 **My [Erdős number](https://sites.google.com/oakland.edu/grossman/home/the-erdoes-number-project) is 4.**
 <br><br>
-I have completed M.Sc. in Mathematics from <a href="http://maths.nits.ac.in/">National Institute of Technology Silchar</a> (India). [Dr. Juthika Mahanta](http://maths.nits.ac.in/juthika/) supervised my M.Sc. thesis, titled *Coast of a fuzzy set as a 'crisper' subset of the boundary*. [<kbd> <br> **PDF** <br> </kbd>](files/anamitro_thesis_old.pdf)
+I have completed M.Sc. in Mathematics from <a href="http://maths.nits.ac.in/">National Institute of Technology Silchar</a> (India). [Dr. Juthika Mahanta](http://maths.nits.ac.in/juthika/) supervised my M.Sc. thesis, titled *Coast of a fuzzy set as a 'crisper' subset of the boundary*.
 <br><br>
 I can speak Bengali (first language), English and Sanskrit.
 <br><br>
 Email: anamitroappu@gmail.com
->> or anamitrob@iitbhilai.ac.in, but I prefer the former one.
-
-<br><br>
-
-<img src="pictures/pragbodhi.jpg" alt="drawing" width="350"/>
-##### on a short trek at Pragbodhi caves, Oct 2024
+> or anamitrob@iitbhilai.ac.in, but I prefer the former one.
