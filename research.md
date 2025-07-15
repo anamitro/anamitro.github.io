@@ -19,7 +19,7 @@ _____
 
 ## Proceedings
 
-- Anamitro Biswas (joint work with Eshita Mazumdar), *Aspects of the Davenport Constant for Finite Abelian Groups* (extended abstract), Proceedings of IMBIC: 18th International Conference on MSAST 2024, vol. 13, ISBN: 978-81-981948-0-0. [<kbd> <br> **PDF from conference webpage** <br> </kbd>](https://imbicorg.blogspot.com/p/previous-proceedings.html?m=1)
+- Anamitro Biswas (joint work with Eshita Mazumdar), *Aspects of the Davenport Constant for Finite Abelian Groups* (extended abstract), Proceedings of IMBIC: 18th International Conference on MSAST 2024, vol. 13, ISBN: 978-81-981948-0-0. [<kbd> <br> PDF from conference webpage <br> </kbd>](https://imbicorg.blogspot.com/p/previous-proceedings.html?m=1)
 
 ## Thesis
 
