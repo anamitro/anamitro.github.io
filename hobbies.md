@@ -9,8 +9,8 @@ _____
 
 ###### With my friend Chinmaya (2025). Here we were participating in the Dhanuyatra festival, pompously celebrated in western Odisha.
 
-[<kbd> <br> **NOTES** <br> </kbd>](https://anamitro.github.io/notes)<br>
-Here are some notes (on some topics in math) I had made while studying or teaching for clarification.
+[![](https://img.shields.io/badge/Math_Notes-red?style=for-the-badge)](https://anamitro.github.io/notes)<br>
+Here are some notes (on some topics in math) I had made while studying or teaching for my own clarification.
 
 
 # Besides Mathematics,
