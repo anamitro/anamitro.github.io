@@ -17,13 +17,14 @@ _____
 
 - Anamitro Biswas, Subhankar Jana and Juthika Mahanta, _Application of Coast of a fuzzy set as a crisper synopsis of the fuzzy boundary_ (2025) [preprint]
 
-## Proceedings
+## Conference proceedings
 
 - Anamitro Biswas (joint work with Eshita Mazumdar), *Aspects of the Davenport Constant for Finite Abelian Groups* (extended abstract), Proceedings of IMBIC: 18th International Conference on MSAST 2024, vol. 13, ISBN: 978-81-981948-0-0. [<kbd> <br> PDF from conference webpage <br> </kbd>](https://imbicorg.blogspot.com/p/previous-proceedings.html?m=1)
 
 ## Thesis
 
-- Anamitro Biswas, *Coast of a fuzzy set as a 'crisper' subset of the boundary*, under the supervision of Dr. Juthika Mahanta, National Institute of Technology Silchar (2023). [<kbd> <br> PDF <br> </kbd>](files/anamitro_thesis_old.pdf) [thesis submitted in partial fulfillment of the requirements for the Project of the Master degree work]
+- Anamitro Biswas, *Coast of a fuzzy set as a 'crisper' subset of the boundary*, under the supervision of Dr. Juthika Mahanta, National Institute of Technology Silchar (2023). [<kbd> <br> PDF <br> </kbd>](files/anamitro_thesis_old.pdf)
+> thesis submitted in partial fulfillment of the requirements for the Project of the Master degree work
 
 ## In preparation
 
