@@ -11,7 +11,7 @@ _____
 
 _____
 
-[![](https://img.shields.io/badge/Math_Notes-red?style=for-the-badge)](https://anamitro.github.io/notes)<br>
+[![](https://img.shields.io/badge/Math_Notes-green?style=for-the-badge)](https://anamitro.github.io/notes)<br>
 [Here](https://anamitro.github.io/notes) are uploaded some notes (on some topics in math) I had made while studying or teaching for my own clarification.
 
 
