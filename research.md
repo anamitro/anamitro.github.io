@@ -9,7 +9,7 @@ _____
 # My Research
 
 
-## Papers and pre-prints:
+## Papers and pre-prints
 
 - Anamitro Biswas and Eshita Mazumdar, _Davenport constant for ﬁnite abelian groups with higher rank_, Mathematical Notes, vol. 118, 1-2, 2025 (accepted). [<kbd> <br> preprint <br> </kbd>](https://arxiv.org/abs/2402.09999)
 
