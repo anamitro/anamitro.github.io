@@ -33,4 +33,5 @@ _____
 higher rank_ (in preparation).
 
 
-<img src="library.jpg" alt="drawing" width="600"/> <kbd> << National Library of India (Kolkata) </kbd>
+<img src="library.jpg" alt="drawing" width="600"/>
+##### ^ National Library of India (Kolkata)
