@@ -15,9 +15,9 @@ _____
 
 <details>
 
-<summary>[![](https://img.shields.io/badge/Add_on-red?style=for-the-badge)]</summary>
+<summary>**Add-on**</summary>
 
-The bounds for D_r given by the formula proposed in this paper, can be calculated for groups upto rank 3, and the cycle lengths having in all at most 3 prime factors, using [this R program](https://github.com/anamitro/d-r-bounds). Prime p_1 has powers e_1, e_2, e_3 in ascending order, p_2 has powers f_1, f_2, f_3 in ascending order and p_3 has powers g_1, g_2, g_3 in ascending order. The program can be extended similarly for more primes and higher rank.
+> The bounds for D_r given by the formula proposed in this paper, can be calculated for groups upto rank 3, and the cycle lengths having in all at most 3 prime factors, using [this R program](https://github.com/anamitro/d-r-bounds). Prime p_1 has powers e_1, e_2, e_3 in ascending order, p_2 has powers f_1, f_2, f_3 in ascending order and p_3 has powers g_1, g_2, g_3 in ascending order. The program can be extended similarly for more primes and higher rank.
 
 </details>
 
