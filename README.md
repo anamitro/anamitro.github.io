@@ -25,4 +25,4 @@ I can speak Bengali (first language), English and Sanskrit.
 Email: anamitroappu@gmail.com
 > or anamitrob@iitbhilai.ac.in, but I prefer the former one.
 
-[![](https://img.shields.io/badge/Google Scholar-blue?style=for-the-badge)](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=JeMsQXoAAAAJ)
+[![](https://img.shields.io/badge/Google_Scholar-blue?style=for-the-badge)](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=JeMsQXoAAAAJ)
