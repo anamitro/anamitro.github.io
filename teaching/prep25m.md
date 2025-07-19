@@ -1,0 +1,3 @@
+# Preparatory Math Couse 2025-26S
+
+Hi friends! This unofficial webpage in maintained by me, Anamitro Biswas and Debarati Bhattacharya, TAs for the course, where notes for the tutorial classes will be available, to make it more convenient for you in case you wish to avoid taking notes and instead focus on understanding the lessons in depth (though, personally, I find no notetaking, specially at your learning stage, a bad idea; however, varies from person to person, learner to learner).
