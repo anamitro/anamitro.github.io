@@ -1,7 +1,7 @@
 [![](https://img.shields.io/badge/Home-red?style=for-the-badge)](https://anamitro.github.io/)
 [![](https://img.shields.io/badge/Research-yellow?style=for-the-badge)](https://anamitro.github.io/research.html)
 [![](https://img.shields.io/badge/Talks-red?style=for-the-badge)](https://anamitro.github.io/talks.html)
-[![](https://img.shields.io/badge/Teaching-red?style=for-the-badge)](https://anamitro.github.io/teaching)
+[![](https://img.shields.io/badge/Teaching-red?style=for-the-badge)](https://anamitro.github.io/teaching.html)
 [![](https://img.shields.io/badge/Other_stuff-red?style=for-the-badge)](https://anamitro.github.io/hobbies.html)
 
 _____
