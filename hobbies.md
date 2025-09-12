@@ -11,6 +11,10 @@ _____
 
 _____
 
+I am part of the team led by Dr. Anurag Singh, hosting [Fourth Meru Combinatorics Conference](https://events.iitbhilai.ac.in/meru2026) at our institute. See the [flyer](files/conf/meru26/flyer.pdf).
+
+_____
+
 [![](https://img.shields.io/badge/Math_Notes-blue?style=for-the-badge)](https://anamitro.github.io/notes)<br>
 [Here](https://anamitro.github.io/notes) are uploaded some notes (on some topics in math) I had made while studying or teaching for my own clarification.
 
