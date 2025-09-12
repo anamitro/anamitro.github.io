@@ -10,7 +10,7 @@ _____
 ###### With my friend Chinmaya (2025). Here we were participating in the Dhanuyatra festival, pompously celebrated in western Odisha.
 
 
-- I am part of the team led by Dr. Anurag Singh, hosting <a href="https://events.iitbhilai.ac.in/meru2026">Fourth Meru Combinatorics Conference</a> at IIT Bhilai. See the <a href="https://anamitro.github.io/files/conf/meru26/flyer.pdf">flyer</a>.
+- I am part of the team led by Dr. Anurag Singh, hosting <a href="https://events.iitbhilai.ac.in/meru2026">Fourth Meru Combinatorics Conference</a> at IIT Bhilai. See the <a href="https://anamitro.github.io/files/conf/meru26/flyer.pdf">flyer</a>.<br><br>
 - [![](https://img.shields.io/badge/Math_Notes-blue?style=for-the-badge)](https://anamitro.github.io/notes)<br>[Here](https://anamitro.github.io/notes) are uploaded some notes (on some topics in math) I had made while studying or teaching for my own clarification.
 
 
