@@ -12,7 +12,6 @@ _____
 ## Papers and pre-prints
 
 - Anamitro Biswas and Eshita Mazumdar, _Davenport constant for ﬁnite abelian groups with higher rank_, Mathematical Notes, vol. 118, 1-2, 2025 (accepted). [<kbd>preprint</kbd>](https://arxiv.org/abs/2402.09999)
-
 > **Add-on:** The bounds for D_r given by the formula proposed in this paper, can be calculated for groups upto rank 3, and the cycle lengths having in all at most 3 prime factors, using [this R program](https://github.com/anamitro/d-r-bounds).
 
 - Anamitro Biswas, Subhankar Jana and Juthika Mahanta, _Application of Coast of a fuzzy set as a crisper synopsis of the fuzzy boundary_ (2025) [preprint]
