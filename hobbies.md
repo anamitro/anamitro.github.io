@@ -16,8 +16,7 @@ I am part of the team led by Dr. Anurag Singh, hosting <a href="https://events.i
 [![](https://img.shields.io/badge/Math_Notes-blue?style=for-the-badge)](https://anamitro.github.io/notes)<br>[Here](https://anamitro.github.io/notes) are uploaded some notes (on some topics in math) I had made while studying or teaching for my own clarification.
 
 
-# Besides Mathematics,
-I am also interested in
+# Besides Mathematics, I am also interested in
 
 ## Painting
 
@@ -28,7 +27,7 @@ Apart from mathematics, I have a serious interest in painting. I initially start
 ### ibus-table-sasankadeva [![Static Badge](https://img.shields.io/badge/sasankadeva-%234285F4?&color=%234285F4)](https://anamitro.github.io/ibus-table-sasankadeva)
 Bengali (and Assamese) input in Unix
 
-### TeXChand [![Static Badge](https://img.shields.io/badge/TeXচাঁদ-%234285F4?&color=%234285F4)](https://anamitro.github.io/TeXchand/)
+### TeXchand [![Static Badge](https://img.shields.io/badge/TeXচাঁদ-%234285F4?&color=%234285F4)](https://anamitro.github.io/TeXchand/)
 for Indic vernacular typesetting and printing
 
 ### chicago1893 [![Static Badge](https://img.shields.io/badge/repository-%234285F4?&color=%234285F4)](https://anamitro.github.io/beamercolortheme-chicago1893)
