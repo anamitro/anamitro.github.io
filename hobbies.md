@@ -28,7 +28,7 @@ Apart from mathematics, I have a serious interest in painting. I initially start
 ### ibus-table-sasankadeva [![Static Badge](https://img.shields.io/badge/sasankadeva-%234285F4?&color=%234285F4)](https://anamitro.github.io/ibus-table-sasankadeva)
 Bengali (and Assamese) input in Unix
 
-### TeXChand [![Static Badge](https://img.shields.io/badge/TeXচাঁদ-%234285F4?&color=%234285F4)](https://sites.google.com/view/texchand)
+### TeXChand [![Static Badge](https://img.shields.io/badge/TeXচাঁদ-%234285F4?&color=%234285F4)](https://anamitro.github.io/TeXchand/)
 for Indic vernacular typesetting and printing
 
 ### chicago1893 [![Static Badge](https://img.shields.io/badge/repository-%234285F4?&color=%234285F4)](https://anamitro.github.io/beamercolortheme-chicago1893)
