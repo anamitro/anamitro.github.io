@@ -25,8 +25,8 @@ Apart from mathematics, I have a serious interest in painting. I initially start
 
 ## Typography and Sanskrita-Bengali literature
 
-### ibus-table-sasankadeva
-[![Static Badge](https://img.shields.io/badge/sasankadeva-%234285F4?&color=%234285F4)](https://anamitro.github.io/ibus-table-sasankadeva) Bengali (and Assamese) input in Unix
+### ibus-table-sasankadeva [![Static Badge](https://img.shields.io/badge/sasankadeva-%234285F4?&color=%234285F4)](https://anamitro.github.io/ibus-table-sasankadeva)
+Bengali (and Assamese) input in Unix
 
 ### TeXChand
 for Indic vernacular typesetting and printing [![Static Badge](https://img.shields.io/badge/TeXচাঁদ-%234285F4?&color=%234285F4)](https://sites.google.com/view/texchand)
