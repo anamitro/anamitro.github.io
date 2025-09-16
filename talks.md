@@ -14,7 +14,7 @@ _____
 
 # 2024
 
-- Dec 21st-23rd,*Aspects of the Davenport Constant for Finite Abelian Groups*, [18th International Conference: Mathematical Sciences for Advancement of Science and Technology (MSAST 2024) 2024, organized by IMBIC](https://imbicorg.blogspot.com/) [<kbd> <br> Handout <br> </kbd>](files/anamitro_msast24.pdf) [![Static Badge](https://img.shields.io/badge/🕮_Proceedings_PDF-blue)](https://imbicorg.blogspot.com/p/previous-proceedings.html?m=1)
+- Dec 21st-23rd,*Aspects of the Davenport Constant for Finite Abelian Groups*, [18th International Conference: Mathematical Sciences for Advancement of Science and Technology (MSAST 2024) 2024, organized by IMBIC](https://imbicorg.blogspot.com/) [![Static Badge](https://img.shields.io/badge/Handout-blue)](files/anamitro_msast24.pdf) [![Static Badge](https://img.shields.io/badge/Proceedings_PDF-blue)](https://imbicorg.blogspot.com/p/previous-proceedings.html?m=1)
 - Apr 23rd,*The Davenport Constant for Finite Abelian Groups and its r-wise Generalization*, Students’ Talk at Institute of Advancing Intelligence, TCG Centers of Research and Education in Science and Technology [<kbd> <br> Handout <br> </kbd>](https://drive.google.com/drive/folders/1lSA4Ks96U_oxGnnNwPm0B6d2ISyrXYmf?usp=drive_link)
 
 
