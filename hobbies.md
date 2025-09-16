@@ -24,13 +24,13 @@ Apart from mathematics, I have a serious interest in painting. I initially start
 
 ## Typography and Sanskrita-Bengali literature
 
-### ibus-table-sasankadeva [![Static Badge](https://img.shields.io/badge/sasankadeva-%234285F4?&color=%234285F4)](https://anamitro.github.io/ibus-table-sasankadeva)
+### ibus-table-sasankadeva [![Static Badge](https://img.shields.io/badge/শশাঙ্কদেব-%234285F4?&color=rgb(255, 153, 51))](https://anamitro.github.io/ibus-table-sasankadeva)
 Bengali (and Assamese) input in Unix
 
 ### TeXchand [![Static Badge](https://img.shields.io/badge/TeXচাঁদ-%234285F4?&color=%234285F4)](https://anamitro.github.io/TeXchand/)
 for Indic vernacular typesetting and printing
 
-### chicago1893 [![Static Badge](https://img.shields.io/badge/repository-%234285F4?&color=%234285F4)](https://anamitro.github.io/beamercolortheme-chicago1893)
+### chicago1893 [![Static Badge](https://img.shields.io/badge/1893-rgb(255%2C%20153%2C%2051)?label=chicago&labelColor=rgb(128%2C%200%2C%200))](https://anamitro.github.io/beamercolortheme-chicago1893)
 beamer color theme
 
 ### Poetry [![](https://img.shields.io/badge/Scribbles-red?style=for-the-badge)](https://anamitro.github.io/writing)
