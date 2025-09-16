@@ -1,3 +1,22 @@
+<head>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Tiro+Bangla:ital@0;1&display=swap" rel="stylesheet">
+  <style>
+      body {
+        font-family: "Tiro Bangla", serif;
+        font-size: 20px;
+color: Maroon;
+      }
+      footer {
+  text-align: center;
+  padding: 3px;
+  background-color: DarkSalmon;
+  color: white;
+}
+    </style>
+</head>
+
 [![](https://img.shields.io/badge/Home-yellow?style=for-the-badge)](https://anamitro.github.io/)
 [![](https://img.shields.io/badge/Research-red?style=for-the-badge)](https://anamitro.github.io/research.html)
 [![](https://img.shields.io/badge/Talks-red?style=for-the-badge)](https://anamitro.github.io/talks.html)
@@ -5,11 +24,7 @@
 [![](https://img.shields.io/badge/Other_stuff-red?style=for-the-badge)](https://anamitro.github.io/hobbies.html)
 
 ____
-<head>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Tiro+Bangla:ital@0;1&display=swap" rel="stylesheet">
-</head>
+
 *“God exists since mathematics is consistent...”* André Weil
 
 <img src="picture.jpg" alt="drawing" width="200"/><br><img src="name3.jpg" alt="drawing" width="100"/>
