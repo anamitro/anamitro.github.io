@@ -18,7 +18,7 @@ ____
 
 ## About me
 
-<span style="font-family: 'Tiro Bangla, serif;">Research scholar, Department of Mathematics, <a href="https://iitbhilai.ac.in/index.php?pid=dept_math">Indian Institute of Technology Bhilai</a>.
+Research scholar, Department of Mathematics, <a href="https://iitbhilai.ac.in/index.php?pid=dept_math">Indian Institute of Technology Bhilai</a>.
 <br><br>
 You’ll find me in Room no. 317, level 3, SD-2 building in the Academic Block. Or, in Kolkata. Or, travelling.
 <br><br>
@@ -29,5 +29,5 @@ I have completed M.Sc. in Mathematics from <a href="http://maths.nits.ac.in/">Na
 I can speak Bengali (first language), English and Sanskrit.
 <br><br>
 Email: anamitroappu@gmail.com
-> or anamitrob@iitbhilai.ac.in, but I prefer the former one.</span>
+> or anamitrob@iitbhilai.ac.in, but I prefer the former one.
 
