@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0&icon_names=book" />
+
 [![](https://img.shields.io/badge/Home-red?style=for-the-badge)](https://anamitro.github.io/)
 [![](https://img.shields.io/badge/Research-red?style=for-the-badge)](https://anamitro.github.io/research.html)
 [![](https://img.shields.io/badge/Talks-yellow?style=for-the-badge)](https://anamitro.github.io/talks.html)
