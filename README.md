@@ -8,25 +8,12 @@ ____
 <head>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Tiro+Bangla:ital@0;1&display=swap" rel="stylesheet"> 
-<style>
-      body {
-        font-family: "Tiro Bangla", serif;
-        font-size: 20px;
-color: Maroon;
-      }
-      footer {
-  text-align: center;
-  padding: 3px;
-  background-color: DarkSalmon;
-  color: white;
-}
-    </style>
-  </head>
+<link href="https://fonts.googleapis.com/css2?family=Tiro+Bangla:ital@0;1&display=swap" rel="stylesheet">
+</head>
 *“God exists since mathematics is consistent...”* André Weil
 
 <img src="picture.jpg" alt="drawing" width="200"/><br><img src="name3.jpg" alt="drawing" width="100"/>
-<span style="font-family: 'TiroBangla-Regular.ttf', serif;">অনমিত্র</span>
+<span style="font-family: 'Tiro Bangla', serif;">অনমিত্র</span>
 
 ## About me
 
