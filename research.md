@@ -1,8 +1,3 @@
-<head>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Tiro+Bangla:ital@0;1&display=swap" rel="stylesheet">
-</head>
 [![](https://img.shields.io/badge/Home-red?style=for-the-badge)](https://anamitro.github.io/)
 [![](https://img.shields.io/badge/Research-yellow?style=for-the-badge)](https://anamitro.github.io/research.html)
 [![](https://img.shields.io/badge/Talks-red?style=for-the-badge)](https://anamitro.github.io/talks.html)
@@ -10,7 +5,7 @@
 [![](https://img.shields.io/badge/Other_stuff-red?style=for-the-badge)](https://anamitro.github.io/hobbies.html)
 
 _____
-<span style="font-family: 'Tiro Bangla, serif;">
+
 # My Research
 
 
@@ -37,7 +32,7 @@ _____
 - Anamitro Biswas and Eshita Mazumdar, _Zero-sums of exponential length in k-restricted sequences over groups of
 higher rank_ (in preparation).
 
-[![](https://img.shields.io/badge/Google_Scholar-blue?style=for-the-badge)](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=JeMsQXoAAAAJ)</span>
+[![](https://img.shields.io/badge/Google_Scholar-blue?style=for-the-badge)](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=JeMsQXoAAAAJ)
 
 
 <img src="library.jpg" alt="drawing" width="600"/>
