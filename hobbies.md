@@ -9,8 +9,10 @@ _____
 
 ###### With my friend Chinmaya (2025). Here we were participating in the Dhanuyatra festival, pompously celebrated in western Odisha.
 
+## Fourth MERU 2026
 I am part of the team led by Dr. Anurag Singh, hosting <a href="https://events.iitbhilai.ac.in/meru2026">Fourth Meru Combinatorics Conference</a> at IIT Bhilai. See the <a href="https://anamitro.github.io/files/conf/meru26/flyer.pdf">flyer</a>.<br><br>
 
+## Math Notes
 [![](https://img.shields.io/badge/Math_Notes-blue?style=for-the-badge)](https://anamitro.github.io/notes)<br>[Here](https://anamitro.github.io/notes) are uploaded some notes (on some topics in math) I had made while studying or teaching for my own clarification.
 
 
@@ -23,8 +25,14 @@ Apart from mathematics, I have a serious interest in painting. I initially start
 
 ## Typography and Sanskrita-Bengali literature
 
-| [<kbd> <br> ibus-table-sasankadeva <br> </kbd>](https://anamitro.github.io/ibus-table-sasankadeva) | Bengali (and Assamese) input in Unix |
-| --- | --- |
-| [<kbd> <br> TeXChand <br> </kbd>](https://sites.google.com/view/texchand) | for Indic vernacular typesetting and printing |
-| [<kbd> <br> chicago1893 <br> </kbd>](https://anamitro.github.io/beamercolortheme-chicago1893) | beamer color theme |
-| [<kbd> <br> Translations <br> </kbd>](https://anamitro.github.io/writing) | |
+### ibus-table-sasankadeva
+[![Static Badge](https://img.shields.io/badge/sasankadeva-%234285F4?&color=%234285F4)](https://anamitro.github.io/ibus-table-sasankadeva) Bengali (and Assamese) input in Unix
+
+### TeXChand
+for Indic vernacular typesetting and printing [![Static Badge](https://img.shields.io/badge/TeXচাঁদ-%234285F4?&color=%234285F4)](https://sites.google.com/view/texchand)
+
+### chicago1893
+beamer color theme [![Static Badge](https://img.shields.io/badge/repository-%234285F4?&color=%234285F4)](https://anamitro.github.io/beamercolortheme-chicago1893)
+
+### Poetry
+[![](https://img.shields.io/badge/Scribbles-red?style=for-the-badge)](https://anamitro.github.io/writing)
