@@ -24,14 +24,14 @@ Apart from mathematics, I have a serious interest in painting. I initially start
 
 ## Typography and Sanskrita-Bengali literature
 
-### ibus-table-sasankadeva [![Static Badge](https://img.shields.io/badge/码শ-rgb(255%2C%20153%2C%2051)?&color=rgb(255%2C%20153%2C%2051))](https://anamitro.github.io/ibus-table-sasankadeva)
-Bengali (and Assamese) input in Unix
+### ibus-table-sasankadeva
+Bengali (and Assamese) input in Unix [![Static Badge](https://img.shields.io/badge/码শ-rgb(255%2C%20153%2C%2051)?&color=rgb(255%2C%20153%2C%2051))](https://anamitro.github.io/ibus-table-sasankadeva)
 
-### TeXchand [![Static Badge](https://img.shields.io/badge/চাঁদ-white?style=plastic&label=TeX&labelColor=black&color=white)](https://anamitro.github.io/TeXchand/)
-for Indic vernacular typesetting and printing
+### TeXchand
+for Indic vernacular typesetting and printing [![Static Badge](https://img.shields.io/badge/চাঁদ-white?style=plastic&label=TeX&labelColor=black&color=white)](https://anamitro.github.io/TeXchand/)
 
-### chicago1893 [![Static Badge](https://img.shields.io/badge/1893-rgb(255%2C%20153%2C%2051)?label=chicago&labelColor=rgb(128%2C%200%2C%200))](https://anamitro.github.io/beamercolortheme-chicago1893)
-beamer color theme
+### chicago1893
+beamer color theme [![Static Badge](https://img.shields.io/badge/1893-rgb(255%2C%20153%2C%2051)?label=chicago&labelColor=rgb(128%2C%200%2C%200))](https://anamitro.github.io/beamercolortheme-chicago1893)
 
 ### Poetry
 [![](https://img.shields.io/badge/Scribbles-red?style=for-the-badge)](https://anamitro.github.io/writing)
