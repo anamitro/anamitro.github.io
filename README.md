@@ -1,5 +1,5 @@
 [![](https://img.shields.io/badge/My_homepage-yellow.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjRweCIgdmlld0JveD0iMCAtOTYwIDk2MCA5NjAiIHdpZHRoPSIyNHB4IiBmaWxsPSIjMWYxZjFmIj48cGF0aCBkPSJNMjQwLTIwMGgxMjB2LTI0MGgyNDB2MjQwaDEyMHYtMzYwTDQ4MC03NDAgMjQwLTU2MHYzNjBabS04MCA4MHYtNDgwbDMyMC0yNDAgMzIwIDI0MHY0ODBINTIwdi0yNDBoLTgwdjI0MEgxNjBabTMyMC0zNTBaIi8+PC9zdmc+)](https://anamitro.github.io/)
-[![](https://img.shields.io/badge/Research-red?style=for-the-badge)](https://anamitro.github.io/research.html)
+[![](https://img.shields.io/badge/Research-red.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjRweCIgdmlld0JveD0iMCAtOTYwIDk2MCA5NjAiIHdpZHRoPSIyNHB4IiBmaWxsPSIjMWYxZjFmIj48cGF0aCBkPSJNMjQwLTE2MHYtODBsMjYwLTI0MC0yNjAtMjQwdi04MGg0ODB2MTIwSDQzMWwyMTUgMjAwLTIxNSAyMDBoMjg5djEyMEgyNDBaIi8+PC9zdmc+)](https://anamitro.github.io/research.html)
 [![](https://img.shields.io/badge/Talks-red?style=for-the-badge)](https://anamitro.github.io/talks.html)
 [![](https://img.shields.io/badge/Teaching-red?style=for-the-badge)](https://anamitro.github.io/teaching.html)
 [![](https://img.shields.io/badge/Other_stuff-red?style=for-the-badge)](https://anamitro.github.io/hobbies.html)
