@@ -17,7 +17,7 @@ You’ll find me in Room no. 317, level 3, SD-2 building in the Academic Block. 
 <br><br>
 **My [Erdős number](https://sites.google.com/oakland.edu/grossman/home/the-erdoes-number-project) is 4.**
 <br><br>
-I have completed M.Sc. in Mathematics from <a href="http://maths.nits.ac.in/">National Institute of Technology Silchar</a> (India). [Dr. Juthika Mahanta](https://maths.nits.ac.in/faculties/juthika-mahanta) supervised my M.Sc. thesis, which was on Fuzzy Topology.
+I have completed M.Sc. in Mathematics from <a href="http://maths.nits.ac.in/">National Institute of Technology Silchar</a> (India). [Dr. Juthika Mahanta](https://maths.nits.ac.in/faculties/juthika-mahanta) supervised my M.Sc. thesis on Fuzzy Topology.
 <br><br>
 I can speak Bengali (first language), English and Sanskrit.
 <br><br>
