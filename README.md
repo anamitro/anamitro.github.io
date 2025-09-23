@@ -13,7 +13,7 @@ ____
 
 Research scholar, Department of Mathematics, <a href="https://iitbhilai.ac.in/index.php?pid=dept_math">Indian Institute of Technology Bhilai</a>. My advisor, [Dr. Anurag Singh](https://sites.google.com/site/anuragshomepage/).
 <br><br>
-You’ll find me in Room no. 317, level 3, SD-2 building in the Academic Block. Or, in Kolkata. Or, travelling.
+You’ll find me in Room no. 317, level 3, SD-2 building in the Academic Block, IIT Bhilai. Or, in Kolkata. Or, travelling.
 <br><br>
 **My [Erdős number](https://sites.google.com/oakland.edu/grossman/home/the-erdoes-number-project) is 4.**
 <br><br>
