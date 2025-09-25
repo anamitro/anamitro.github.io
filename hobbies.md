@@ -7,7 +7,7 @@
 _____
 <img src="pictures/dhanuyatra.jpg" alt="drawing" width="500"/>
 
-###### With my friend Chinmaya (2025). Here we were participating in the Dhanuyatra festival, pompously celebrated in western Odisha.
+###### With my friend Chinmaya (Jan 2025). Here we were participating in the Dhanuyatra festival, pompously celebrated in western Odisha.
 
 ## Fourth MERU 2026
 I am part of the team led by Dr. Anurag Singh, hosting <a href="https://events.iitbhilai.ac.in/meru2026">Fourth Meru Combinatorics Conference</a> at IIT Bhilai. See the <a href="https://anamitro.github.io/files/conf/meru26/flyer.pdf">flyer</a>.<br><br>
