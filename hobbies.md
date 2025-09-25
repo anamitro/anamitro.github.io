@@ -22,7 +22,7 @@ I am part of the team led by Dr. Anurag Singh, hosting <a href="https://events.i
 
 Apart from mathematics, I have a serious interest in painting. I initially started by learning styles of the Bengal Renaissance School studying books by Abanindranath Tagore and Nandalal Bose, and studying iconography of Indian and East Asian art from various books, most importantly Lady Herringham's compilation of Ajanta mural copies and a Mongolian government publication on Buddhist iconography. Obviously, the styles were adapted with my personal capabilities and inclinations. Some of my paintings are uploaded in [<kbd> <br> this other website <br> </kbd>](https://sites.google.com/view/ani-paint).
 
-## Typography and Sanskrita-Bengali literature
+## Typography
 
 ### ibus-table-sasankadeva
 Bengali (and Assamese) input in Unix [![Static Badge](https://img.shields.io/badge/码শ-rgb(255%2C%20153%2C%2051)?&color=rgb(255%2C%20153%2C%2051))](https://anamitro.github.io/ibus-table-sasankadeva)
@@ -33,5 +33,5 @@ for Indic vernacular typesetting and printing [![Static Badge](https://img.shiel
 ### chicago1893
 beamer color theme [![Static Badge](https://img.shields.io/badge/1893-rgb(255%2C%20153%2C%2051)?label=chicago&labelColor=rgb(128%2C%200%2C%200))](https://anamitro.github.io/beamercolortheme-chicago1893)
 
-### Poetry
-[![](https://img.shields.io/badge/Scribbles-red?style=for-the-badge)](https://anamitro.github.io/writing)
+## Sanskrita-Bengali literature
+
