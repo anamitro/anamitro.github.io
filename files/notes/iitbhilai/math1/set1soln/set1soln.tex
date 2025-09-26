@@ -1,0 +1,249 @@
+\documentclass[a4paper,11pt]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage{xcolor}
+\usepackage{textcomp}
+%\usepackage{newspaper}
+%\date{\today}
+%\currentvolume{1430}
+%\currentissue{6}
+%\usepackage{times}
+\usepackage{graphicx}
+\usepackage{multicol}
+\usepackage{etoolbox}
+\usepackage{picinpar}
+%uasage of picinpar:
+%\begin{window}[1,l,\includegraphics{},caption]xxxxx\end{window}
+\usepackage{times}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+%\usepackage[nohead, nomarginpar, margin=1in, foot=.25in]{geometry}
+\usepackage{lmodern}
+%\usepackage{fontspec}
+\usepackage{setspace}
+%\usepackage{fancyhdr}
+\usepackage{everyshi}
+\usepackage{pdfpages}
+\usepackage{indentfirst}
+\usepackage[hyphens]{url}
+\usepackage{hyperref}
+\usepackage{pdfpages}
+\usepackage{pgfpages}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage[notextcomp]{stix}
+ \usepackage{paracol}
+ \usepackage{stmaryrd}
+ \usepackage{xurl}
+ \usepackage{wasysym}
+\usepackage[left=2cm, right=2cm, top=2cm, bottom=2cm]{geometry}
+%\pagestyle{fancy}
+%\lhead{Curriculum vitae, Anamitro Biswas}
+%\chead{}
+%\rhead{}
+%\lfoot{}
+%\cfoot{\thepage}
+%\rfoot{}
+%\makeatletter
+%\renewcommand{\@chapapp}{Document}
+%\makeatother
+%\renewcommand\refname{\enhead\color{red}{References:}}
+%\renewcommand{\headrulewidth}{0.4pt}
+%\renewcommand{\footrulewidth}{0.4pt}
+%\newfontfamily\bn{TiroBangla-Regular.ttf}[Script=Bengali]
+%\newfontfamily\enhead{RubikDoodleShadow-Regular.ttf}[Script=Latin]
+%\setmainfont{cmunrm.ttf}[Script=Latin]
+%\newfontfamily\bn{TiroBangla-Regular.ttf}[Script=Bengali]
+%\newfontfamily\latinfont{OfenbacherSchwabCAT.ttf}[Script=Latin]
+
+
+%BRACKETS:
+\newcommand{\lb}{\left(}
+\newcommand{\rb}{\right)}
+\newcommand{\lc}{\left\lbrace}
+\newcommand{\rc}{\right\rbrace}
+\newcommand{\ls}{\left[}
+\newcommand{\rs}{\right]}
+\renewcommand{\la}{\left|}
+\renewcommand{\ra}{\right|}
+
+%GREEK UPPERCASE:
+\newcommand{\Lm}{\Lambda}
+\newcommand{\G}{\Gamma}
+\newcommand{\D}{\Delta}
+\newcommand{\Th}{\Theta}
+
+%GREEK LOWERCASE:
+\newcommand{\m}{\mu}
+\newcommand{\lm}{\lambda}
+\newcommand{\vs}{\varsigma}
+\newcommand{\g}{\gamma}
+\renewcommand{\t}{\tau}
+\renewcommand{\a}{\alpha}
+\renewcommand{\b}{\beta}
+\newcommand{\e}{\varepsilon}
+\newcommand{\p}{\pi}
+\newcommand{\dt}{\delta}
+\newcommand{\f}{\varphi}
+\newcommand{\z}{\zeta}
+\newcommand{\s}{\sigma}
+
+%SET THEORY:
+\newcommand{\cl}{\overline}
+\newcommand{\intr}{^\circ}
+\newcommand{\ir}{^\text{int}}
+\newcommand{\comp}{^C}
+
+%MATHCAL:
+\newcommand{\A}{\mathcal{A}}
+\newcommand{\B}{\mathcal{B}}
+\newcommand{\C}{\mathcal{C}}
+\newcommand{\cD}{\mathcal{D}}
+\newcommand{\E}{\mathcal{E}}
+\newcommand{\F}{\mathcal{F}}
+\newcommand{\cG}{\mathcal{G}}
+\newcommand{\Hy}{\mathcal{H}}
+\newcommand{\I}{\mathcal{I}}
+\newcommand{\J}{\mathcal{J}}
+\newcommand{\List}{\mathcal{L}}
+\newcommand{\M}{\mathcal{M}}
+\newcommand{\N}{\mathcal{N}}
+\newcommand{\R}{\mathcal{R}}
+\newcommand{\Pa}{\mathcal{P}}
+\newcommand{\La}{\mathcal{L}}
+\newcommand{\Ta}{\mathcal{T}}
+\newcommand{\mcS}{\mathcal{S}}
+\newcommand{\V}{\mathcal{V}}
+\newcommand{\X}{\mathcal{X}}
+\newcommand{\Y}{\mathcal{Y}}
+
+%MATHFRAK:
+\newcommand{\Mf}{\mathfrak{M}}
+\newcommand{\Nf}{\mathfrak{N}}
+\newcommand{\gf}{\mathfrak{g}}
+\newcommand{\mfi}{\mathfrak{i}}
+\newcommand{\mfj}{\mathfrak{j}}
+\newcommand{\mfa}{\mathfrak{A}}
+
+%FIELDS:
+\newcommand{\reals}{\mathbb{R}}
+\newcommand{\bC}{\mathbb{C}}
+\newcommand{\bG}{\mathbb{G}}
+\newcommand{\bP}{\mathbb{P}}
+\newcommand{\bE}{\mathbb{E}}
+\newcommand{\bH}{\mathbb{H}}
+\newcommand{\bF}{\mathbb{F}}
+\newcommand{\bN}{\mathbb{N}}
+\newcommand{\naturals}{\mathbb{N}}
+\newcommand{\Q}{\mathbb{Q}}
+\newcommand{\rationals}{\mathbb{Q}}
+\newcommand{\integ}{\mathbb{Z}}
+
+%MATH BOLD:
+\newcommand{\bfa}{\mathbf{a}}
+\newcommand{\bfb}{\mathbf{b}}
+\newcommand{\bfg}{\mathbf{g}}
+\newcommand{\bft}{\mathbf{t}}
+\newcommand{\bfx}{\mathbf{x}}
+\newcommand{\bfy}{\mathbf{y}}
+\newcommand{\bfzero}{\mathbf{0}}
+
+%GROUP THEORY:
+\newcommand{\inv}{^{-1}}
+
+%FUZZY TOPOLOGY:
+\newcommand{\nphi}{\bigodot}
+
+%ALGEBRAIC TOPOLOGY:
+\newcommand{\rel}{\text{ rel}}
+
+%HOMTOPY GROUPS:
+\newcommand{\htopo}{\mathcal{H}\mathfrak{o}\mathcal{T}\mathfrak{o}\mathfrak{p}_*}
+\newcommand{\topo}{\mathcal{T}\mathfrak{o}\mathfrak{p}_*}
+\newcommand{\htop}{\mathcal{H}\mathfrak{o}\mathcal{T}\mathfrak{o}\mathfrak{p}}
+\newcommand{\cattop}{\mathcal{T}\mathfrak{o}\mathfrak{p}}
+
+%MAPS:
+\newcommand{\tends}{\rightarrow}
+\newcommand{\id}{\text{id}}
+
+%ANALYSIS:
+\newcommand{\dsum}{\displaystyle\sum}
+\newcommand{\dprod}{\displaystyle\prod}
+
+%DASH:
+\newcommand{\dash}{^\prime}
+\newcommand{\ddash}{^{\prime\prime}}
+\newcommand{\tdash}{^{\prime\prime\prime}}
+
+%CATEGORY THEORY
+\newcommand{\Ob}{\text{Ob}}
+
+%LOGIC
+\newcommand{\imp}{\Rightarrow}
+\newcommand{\bimp}{\Leftrightarrow}
+\newcommand{\Eq}{\text{Eq}}
+
+
+
+
+%HEADINGS:
+\newtheorem{thm}{Theorem}
+\newtheorem{prop}[thm]{Proposition}
+\newtheorem{cor}[thm]{Corollary}
+\newtheorem{defn}[thm]{Definition}
+\newtheorem{obs}[thm]{Observation}
+%\newtheorem{prop}[thm]{Proposition}
+\newtheorem{lem}[thm]{Lemma}
+\newtheorem{conj}[thm]{Conjecture}
+\newtheorem{claim}[thm]{Claim}
+\newtheorem{note}[thm]{Note}
+\newtheorem{notation}[thm]{Notation}
+\newtheorem{rem}[thm]{Remark}
+\newtheorem{prob}[thm]{Problem}
+
+%\setmainfont{Cormorant Garamond SemiBold}
+\urlstyle{same}
+\usepackage{tikzpagenodes}
+\usepackage{tikz}
+\usepackage{eso-pic}
+\begin{document}
+\title{Problem set 3}
+\author{Anamitro Biswas\\Email: anamitroappu@gmail.com/anamitrob@iitbhilai.ac.in}
+\maketitle
+\begin{note}
+Writing solutions like this in the exams might not fetch you full marks. Please clearly mention the name of any theorem or result you use; and also try to be very specific with $\e$-$\dt$ rigourously in each problem. Don't write one step without proper literal justification from the definition, unless prompted otherwise.
+\end{note}
+\begin{itemize}
+  \item[1.]Show that $\dsum_{n=1}^\infty \dfrac{1-n}{1+2n}$ and $\dsum_{n=1}^\infty \lb -1\rb^n$ diverge. Do $\dsum_{n=1}^\infty \dfrac{n+1}{n+2}$ and $\dsum_{n=1}^\infty\log\lb 1+ \dfrac{1}{n}\rb$ converge?
+  \item[\textit{Soln}.]$\la\dfrac{1-n}{1+2n}\ra=\la\dfrac{\dfrac{1}{n}-1}{\dfrac{1}{n}+2}\ra\tends\la-\dfrac{1}{2}\ra\neq 0$, so $\dsum_{n=1}^\infty \dfrac{1-n}{1+2n}$ does not converge.
+  
+  For even $n\in\naturals$, $\dsum_{n=1}^\infty \lb -1\rb^n=0$, and for odd $n$, $\dsum_{n=1}^\infty \lb -1\rb^n=1$. The sequence of partial sums $\lc\dsum_{i=1}^n \lb -1\rb^i\rc_{n\in\naturals}$ oscillates hence does not converge.
+  
+  The third one is similar to the first one.
+  
+ $\dsum_{n=1}^\infty\log\lb 1+ \dfrac{1}{n}\rb=\log\lb\dprod_{n=1}^\infty \lb 1+ \dfrac{1}{n}\rb\rb=\log\lb\dprod_{n=1}^\infty \lb\dfrac{n+1}{n}\rb\rb$. Consider the sequence of partial sums: $\lc\log\lb\dprod_{i=1}^n \lb\dfrac{i+1}{i}\rb\rb\rc_{n\in\naturals}=\lc\log\lb\dfrac{n+1}{1}\rb\rc_{n\in\naturals}=\lc\log\lb n+1\rb\rc_{n\in\naturals}$ which is increasing. Thus the series is divergent. A series like this is called a \emph{telescoping series}, because it just brings the initial and the distant end term close together, skipping the intermediate distance like a telescope does.
+  \item[]
+    \item[2(i)]$\dsum_{n=1}^\infty\dfrac{(-1)^n}{(2n)!}$.
+  \item[\textit{Soln}.]Let $a_n=\dfrac{(-1)^n}{(2n)!}$. Then $\la\dfrac{a_{n+1}}{a_n}\ra=\la\dfrac{1}{(2n+1)(2n+2)}\ra\tends 0$ as $n\tends\infty$. Therefore, the series is convergent.
+  \item[]
+    \item[2(ii)]$\dsum_{n=1}^\infty\dfrac{(-1)^n}{2^n}$.
+  \item[\textit{Soln}.]The series, being absolutely convergent, is also convergent.
+  \item[]
+    \item[2(iii)]$\dsum_{n=1}^\infty(-1)^{n+1}\lb\dfrac{1}{\sqrt{n}}+\dfrac{(-1)^{n-1}}{n}\rb$.
+  \item[\textit{Soln}.]$\dsum_{n=1}^\infty(-1)^{n+1}\lb\dfrac{1}{\sqrt{n}}+\dfrac{(-1)^{n-1}}{n}\rb=\dsum_{n=1}^\infty\lb(-1)^{n+1}\dfrac{1}{\sqrt{n}}+\dfrac{1}{n}\rb$. For $n$ odd, the subseries dominates the series $\dsum\dfrac{1}{n}$ which is divergent. For $n$ odd, all the individual entries are positive. So, the series in all is divergent.
+  \item[]
+    \item[2(iv)]$\dsum_{n=1}^\infty(-1)^{n+1}\lb\dfrac{n}{2n-1}\rb$.
+  \item[\textit{Soln}.]$\dfrac{n}{2n-1}-\dfrac{n+1}{2n+1}=\dfrac{1}{\lb 2n+1\rb\lb 2n-1\rb}$. So, $\dsum_{n=1}^\infty(-1)^{n+1}\lb\dfrac{n}{2n-1}\rb=\dsum_{k=1}^\infty\dfrac{1}{(4k-1)(4k-3)}$, taking $n+1=2k$ and seeing two terms of the series at a time, then the next two terms etc. This shows that the series is divergent.
+  
+\end{itemize}
+\end{document}
+\begin{eqnarray*}
+\la \displaystyle\sum_{k=1}^n\dfrac{\sin k!}{k(k+1)}-\displaystyle\sum_{k=1}^m\dfrac{\sin k!}{k(k+1)}\ra&=&\la \displaystyle\sum_{k=m+1}^n\dfrac{\sin k!}{k(k+1)}\ra\\
+&\leq& \displaystyle\sum_{k=m+1}^n\la\dfrac{\sin k!}{k(k+1)}\ra\\
+&\leq& \displaystyle\sum_{k=m+1}^n\la\dfrac{1}{k(k+1)}\ra\\
+&\leq& \displaystyle\sum_{k=m+1}^n\la\dfrac{1}{(m+1)(m+2)}\ra\\
+&=&\dfrac{n-m}{(m+1)(m+2)}\\
+&<&\e.
+\end{eqnarray*} $(n>m)$We get, if 
