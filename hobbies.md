@@ -34,7 +34,7 @@ for Indic vernacular typesetting and printing [![Static Badge](https://img.shiel
 beamer color theme [![Static Badge](https://img.shields.io/badge/1893-rgb(255%2C%20153%2C%2051)?label=chicago&labelColor=rgb(128%2C%200%2C%200))](https://anamitro.github.io/beamercolortheme-chicago1893)
 
 ## Sanskrita-Bengali literature
-- সিনেমা দেখে কি ইতিহাস শেখা যায় না? সিনেমা, ইতিহাস, ইতিবৃত; Sangbad Pratidin 18/10/2025, p.4 [![](https://img.shields.io/badge/Read-blue?)](https://epaper.sangbadpratidin.in/epaper/m/985331/68f29f6e9b5a2)
+- সিনেমা দেখে কি ইতিহাস শেখা যায় না? সিনেমা, ইতিহাস, ইতিবৃত্ত; Sangbad Pratidin 18/10/2025, p.4 [![](https://img.shields.io/badge/Read-blue?)](https://epaper.sangbadpratidin.in/epaper/m/985331/68f29f6e9b5a2)
 - রাজ্য ও তার গান— প্রাসঙ্গিকতা ও চয়নের যথার্থতা; Jaladarchi 13/01/2024 [![](https://img.shields.io/badge/Read-blue?)](https://www.jaladarchi.com/2024/01/rajya-and-its-songs-relevance-and-validity-of-choice.html)
 - ধুলামন্দিরের স্থপতি: রবীন্দ্রনাথ ঠাকুর ও লিওনার্দ এল্ম্‌হার্স্ট; Jaladarchi 09/05/2021 [![](https://img.shields.io/badge/Read-blue?)](https://www.jaladarchi.com/2021/05/architects-of-dhulamandir-rabindranath-tagore-and-leonard-elmhurst.html)
 - একটি বাইসিকল, একটি নদী ও একটি গ্রাম: তরুণ সত্যজিতের প্রেরণারা; Jaladarchi 30/04/2021 [![](https://img.shields.io/badge/Read-blue?)](https://www.jaladarchi.com/2021/04/a-bicycle-a-river-and-a-village-the-motivations-of-young-ray.html)
