@@ -1,15 +1,3 @@
-<head>
-      <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Tiro+Bangla:ital@0;1&display=swap" rel="stylesheet">
-      <style>
-            body {
-        font-family: "Tiro Bangla", serif;
-        font-size: 20px;
-color: Maroon;
-      }
-      </style>
-</head>
 [![](https://img.shields.io/badge/Home-red?style=for-the-badge)](https://anamitro.github.io/)
 [![](https://img.shields.io/badge/Research-red?style=for-the-badge)](https://anamitro.github.io/research.html)
 [![](https://img.shields.io/badge/Talks-red?style=for-the-badge)](https://anamitro.github.io/talks.html)
@@ -46,5 +34,5 @@ for Indic vernacular typesetting and printing [![Static Badge](https://img.shiel
 beamer color theme [![Static Badge](https://img.shields.io/badge/1893-rgb(255%2C%20153%2C%2051)?label=chicago&labelColor=rgb(128%2C%200%2C%200))](https://anamitro.github.io/beamercolortheme-chicago1893)
 
 ## Sanskrita-Bengali literature
-সিনেমা দেখে কি ইতিহাস শেখা যায় না?
+- সিনেমা দেখে কি ইতিহাস শেখা যায় না? সিনেমা, ইতিহাস, ইতিবৃত; Sangbad Pratidin, 18/10/2025, p.4.
 
