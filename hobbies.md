@@ -41,5 +41,5 @@ beamer color theme
 - ধুলামন্দিরের স্থপতি: রবীন্দ্রনাথ ঠাকুর ও লিওনার্দ এল্ম্‌হার্স্ট; Jaladarchi 09/05/2021 [![](https://img.shields.io/badge/Read-blue?)](https://www.jaladarchi.com/2021/05/architects-of-dhulamandir-rabindranath-tagore-and-leonard-elmhurst.html)
 - একটি বাইসিকল, একটি নদী ও একটি গ্রাম: তরুণ সত্যজিতের প্রেরণারা; Jaladarchi 30/04/2021 [![](https://img.shields.io/badge/Read-blue?)](https://www.jaladarchi.com/2021/04/a-bicycle-a-river-and-a-village-the-motivations-of-young-ray.html)
 
-![](https://img.shields.io/badge/online-blue?) ![](https://img.shields.io/badge/print-black?) ![](https://img.shields.io/badge/print_and_online-indigo?)
+> ![](https://img.shields.io/badge/online-blue?) ![](https://img.shields.io/badge/print-black?) ![](https://img.shields.io/badge/print_and_online-indigo?)
 
