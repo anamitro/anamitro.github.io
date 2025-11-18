@@ -4,6 +4,9 @@
 [![](https://img.shields.io/badge/Writing-red?style=for-the-badge)](https://anamitro.github.io/writing.html)
 [![](https://img.shields.io/badge/Other_stuff-red?style=for-the-badge)](https://anamitro.github.io/hobbies.html)
 
+_____
+
+
 # Talks
 
 <img src="pictures/nits.jpg" alt="drawing" width="600"/>
