@@ -12,11 +12,16 @@ _____
 ## Fourth MERU 2026
 I am part of the team led by Dr. Anurag Singh, hosting <a href="https://events.iitbhilai.ac.in/meru2026">Fourth Meru Combinatorics Conference</a> at IIT Bhilai.
 
+## As Teaching Assistant
+1. Probability and Statistics (MA403/MAL403/IC105), 2025-2026M at IIT Bhilai
+2. Mathematics 1 (Preparatory Course), 2025-2026M at IIT Bhilai
+3. Mathematics 1, 2024-2025S at IIT Bhilai [<kbd> <br> Webpage <br> </kbd>](https://anamitro.github.io/math1)
+
 ## Math Notes
 [![](https://img.shields.io/badge/Math_Notes-blue?style=for-the-badge)](https://anamitro.github.io/notes)<br>[Here](https://anamitro.github.io/notes) are uploaded some notes (on some topics in math) I had made while studying or teaching for my own clarification.
 
 
-# Besides Mathematics, I am also interested in
+# Other interests:
 
 ## Painting
 
@@ -32,14 +37,4 @@ for Indic vernacular typesetting and printing
 
 ##### chicago1893 [![Static Badge](https://img.shields.io/badge/1893-rgb(255%2C%20153%2C%2051)?label=chicago&labelColor=rgb(128%2C%200%2C%200))](https://anamitro.github.io/beamercolortheme-chicago1893)
 beamer color theme
-
-## Sanskrita-Bengali literature
-- Acting, Animé and AI; The Statesman (Perspective) 13/11/2025, p.7 (Kol p.9) [![](https://img.shields.io/badge/Read-indigo?)](https://epaper.thestatesman.com/m5/4081615/Delhi-The-Statesman/13-11-2025#page/7/1)
-- মহাকালের চিত্রনাট্যে ক্রমেই বাদ পড়ছে ঋত্বিক ঘটকের স্বপ্ন— নিষ্ফলা যজ্ঞের ঋত্বিক; Robbar.in 08/11/2025 [![](https://img.shields.io/badge/Read-blue?)](https://robbar.in/entertainment/the-dream-ritwik-ghatak-expressed-in-his-films-becoming-irrelevant/)
-- সিনেমা দেখে কি ইতিহাস শেখা যায় না? সিনেমা, ইতিহাস, ইতিবৃত্ত; Sangbad Pratidin 18/10/2025, p.4 [![](https://img.shields.io/badge/Read-indigo?)](https://epaper.sangbadpratidin.in/epaper/m/985331/68f29f6e9b5a2)
-- রাজ্য ও তার গান— প্রাসঙ্গিকতা ও চয়নের যথার্থতা; Jaladarchi 13/01/2024 [![](https://img.shields.io/badge/Read-blue?)](https://www.jaladarchi.com/2024/01/rajya-and-its-songs-relevance-and-validity-of-choice.html)
-- ধুলামন্দিরের স্থপতি: রবীন্দ্রনাথ ঠাকুর ও লিওনার্দ এল্ম্‌হার্স্ট; Jaladarchi 09/05/2021 [![](https://img.shields.io/badge/Read-blue?)](https://www.jaladarchi.com/2021/05/architects-of-dhulamandir-rabindranath-tagore-and-leonard-elmhurst.html)
-- একটি বাইসিকল, একটি নদী ও একটি গ্রাম: তরুণ সত্যজিতের প্রেরণারা; Jaladarchi 30/04/2021 [![](https://img.shields.io/badge/Read-blue?)](https://www.jaladarchi.com/2021/04/a-bicycle-a-river-and-a-village-the-motivations-of-young-ray.html)
-
-![](https://img.shields.io/badge/online-blue?) ![](https://img.shields.io/badge/print-black?) ![](https://img.shields.io/badge/print_and_online-indigo?)
 
