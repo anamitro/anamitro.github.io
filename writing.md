@@ -15,10 +15,10 @@
 ![](https://img.shields.io/badge/online-blue?) ![](https://img.shields.io/badge/print-black?) ![](https://img.shields.io/badge/print_and_online-indigo?)
 
 
-## A few translations:
+## Translations:
 The translations keep the original meter and rhythm intact.
 
-##### English translation of *Bhagavad-gītā* (Sanskrita) verse 2-29
+##### *Bhagavad-gītā* (from Sanskrita) verse 2-29
 
 > Once in a while by miracle does
 > 
@@ -28,7 +28,7 @@ The translations keep the original meter and rhythm intact.
 >
 > Rarely feel beneath all this fuss.
 
-##### English translation of Indian philosophy, *Kaṭhōpaniṣad* (Sanskrita) 2-3-16
+##### *Kaṭhōpaniṣad* (from Sanskrita) 2-3-16
 
 > When all knots in your mind
 >
@@ -38,7 +38,7 @@ The translations keep the original meter and rhythm intact.
 >
 > Just that, as religion pursue.
 
-##### English translation of Indian philosopher Śañkarācārya's _Vivēkacūdāmaṇi_ (Sanskrita) verse 254
+##### Śañkarācārya's _Vivēkacūdāmaṇi_ (from Sanskrita) verse 254
 
 > Afar ethics, clan, blood or race
 > 
