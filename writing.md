@@ -4,7 +4,7 @@
 
 
 
-## Translations:
+## A few translations:
 The translations keep the original meter and rhythm intact.
 
 ##### English translation of *Bhagavad-gītā* (Sanskrita) verse 2-29
