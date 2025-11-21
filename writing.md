@@ -8,7 +8,7 @@ _____
 
 
 ## Articles:
-- এআই পাল্টে দিতে চলেছে অভিনয়ের মানুষী জগৎ? মূর্তিতে প্রাণপ্রতিষ্ঠা; এই সময় 21/11/2025 [![](https://img.shields.io/badge/See-indigo?)](https://eisamay.com/)
+- এআই পাল্টে দিতে চলেছে অভিনয়ের মানুষী জগৎ? মূর্তিতে প্রাণপ্রতিষ্ঠা; এই সময় 21/11/2025 [![](https://img.shields.io/badge/See-black?)](https://eisamay.com/)
 - Acting, Animé and AI; The Statesman (Perspective) 13/11/2025, p.7 (Kol p.9) [![](https://img.shields.io/badge/Read-indigo?)](https://epaper.thestatesman.com/m5/4081615/Delhi-The-Statesman/13-11-2025#page/7/1)
 - মহাকালের চিত্রনাট্যে ক্রমেই বাদ পড়ছে ঋত্বিক ঘটকের স্বপ্ন— নিষ্ফলা যজ্ঞের ঋত্বিক; Robbar.in 08/11/2025 [![](https://img.shields.io/badge/Read-blue?)](https://robbar.in/entertainment/the-dream-ritwik-ghatak-expressed-in-his-films-becoming-irrelevant/)
 - সিনেমা দেখে কি ইতিহাস শেখা যায় না? সিনেমা, ইতিহাস, ইতিবৃত্ত; Sangbad Pratidin 18/10/2025, p.4 [![](https://img.shields.io/badge/Read-indigo?)](https://epaper.sangbadpratidin.in/epaper/m/985331/68f29f6e9b5a2)
