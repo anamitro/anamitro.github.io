@@ -8,6 +8,7 @@ _____
 
 
 ## Articles:
+- দেবতারে মোরা আত্মীয় জানি; উত্তরবঙ্গ সংবাদ 02/12/2025 [![](https://img.shields.io/badge/See-indigo?)](https://uttarbangasambad.in)
 - যন্ত্রীর আঙুল কতটা গুরুত্বপূর্ণ সঙ্গীতের মূর্ছনায়? যন্ত্র ও দ্বন্দ্ব; ডাকবাংলা 22/11/2025 [![](https://img.shields.io/badge/Read-blue?)](https://daakbangla.com/non-fiction/ai-vs-human-skill-the-battle-reshaping-modern-creativity/)
 - এআই পাল্টে দিতে চলেছে অভিনয়ের মানুষী জগৎ? মূর্তিতে প্রাণপ্রতিষ্ঠা; এই সময় 21/11/2025, p.8 [![](https://img.shields.io/badge/See-black?)](https://eisamay.com/)
 - Acting, Animé and AI; The Statesman (Perspective) 13/11/2025, p.7 (Kol p.9) [![](https://img.shields.io/badge/Read-indigo?)](https://epaper.thestatesman.com/m5/4081615/Delhi-The-Statesman/13-11-2025#page/7/1)
