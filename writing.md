@@ -4,7 +4,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Bengali:wght@100..900&display=swap" rel="stylesheet">
 <style>
       body {
-        font-family: "Noto Serif Bengali" serif, sans;
+        font-family: "Noto Serif Bengali" serif;
       }
     </style>
     </head>
