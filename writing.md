@@ -4,9 +4,11 @@
 <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Bengali:wght@100..900&display=swap" rel="stylesheet">
 </head>
 
-body {
-    font-family: 'Noto Serif Bengali', sans-serif;
-}
+<style>
+      body {
+        font-family: "Noto Serif Bengali" serif, sans;
+      }
+    </style>
 
 [![](https://img.shields.io/badge/Home-red?style=for-the-badge)](https://anamitro.github.io)
 [![](https://img.shields.io/badge/Research-red?style=for-the-badge)](https://anamitro.github.io/research.html)
