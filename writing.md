@@ -2,13 +2,14 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Bengali:wght@100..900&display=swap" rel="stylesheet">
-</head>
+
 
 <style>
       body {
         font-family: "Noto Serif Bengali" serif, sans;
       }
     </style>
+    </head>
 
 [![](https://img.shields.io/badge/Home-red?style=for-the-badge)](https://anamitro.github.io)
 [![](https://img.shields.io/badge/Research-red?style=for-the-badge)](https://anamitro.github.io/research.html)
