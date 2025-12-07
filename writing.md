@@ -8,9 +8,10 @@ _____
 
 
 ## Articles:
+- আছে ফেলু মিত্তির, তবুও জটায়ুর গুণেই কাণ্ড চিত্তির!; Ei Samay, Hotspot 06/12/2025, p.1 [![](https://img.shields.io/badge/See-black?)](https://eisamay.com/)
 - যুক্তি, তর্ক, পরিধেয়; Sangbad Pratidin 04/12/2025 [![](https://img.shields.io/badge/See-indigo?)](https://epaper.sangbadpratidin.in/epaper/m/997491/69308fd5a1585)
 - বিধাতার চিত্রনাট্যকে শোধরানোর চেষ্টা করেন নি গদার; Robbar.in 03/12/2025 [![](https://img.shields.io/badge/See-blue?)](https://robbar.in/daily-update/godard-and-his-films-with-respect-to-contemporary-films/)
-- দেবতারে মোরা আত্মীয় জানি; Uttarbanga Sambad 02/12/2025 [![](https://img.shields.io/badge/See-indigo?)](https://uttarbangasambad.in/purano-sanskaran-details.php?old_date=2025-12-02)
+- দেবতারে মোরা আত্মীয় জানি; Uttarbanga Sambad 02/12/2025, p.6 [![](https://img.shields.io/badge/See-indigo?)](https://uttarbangasambad.in/purano-sanskaran-details.php?old_date=2025-12-02)
 - যন্ত্রীর আঙুল কতটা গুরুত্বপূর্ণ সঙ্গীতের মূর্ছনায়? যন্ত্র ও দ্বন্দ্ব; Daakbangla 22/11/2025 [![](https://img.shields.io/badge/Read-blue?)](https://daakbangla.com/non-fiction/ai-vs-human-skill-the-battle-reshaping-modern-creativity/)
 - এআই পাল্টে দিতে চলেছে অভিনয়ের মানুষী জগৎ? মূর্তিতে প্রাণপ্রতিষ্ঠা; Ei Samay 21/11/2025, p.8 [![](https://img.shields.io/badge/See-black?)](https://eisamay.com/)
 - Acting, Animé and AI; The Statesman (Perspective) 13/11/2025, p.7 (Kol p.9) [![](https://img.shields.io/badge/Read-indigo?)](https://epaper.thestatesman.com/m5/4081615/Delhi-The-Statesman/13-11-2025#page/7/1)
