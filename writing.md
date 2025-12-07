@@ -1,14 +1,3 @@
-<head>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Bengali:wght@100..900&display=swap" rel="stylesheet">
-<style>
-      body {
-        font-family: "Noto Serif Bengali" serif;
-      }
-    </style>
-    </head>
-
 [![](https://img.shields.io/badge/Home-red?style=for-the-badge)](https://anamitro.github.io)
 [![](https://img.shields.io/badge/Research-red?style=for-the-badge)](https://anamitro.github.io/research.html)
 [![](https://img.shields.io/badge/Talks-red?style=for-the-badge)](https://anamitro.github.io/talks.html)
@@ -17,8 +6,6 @@
 
 _____
 
-
-<p style="font-family: Noto Serif Bengali, sans-serif; font-size: 18px; color: blue;">আছে ফেলু মিত্তির, তবুও জটায়ুর গুণেই কাণ্ড চিত্তির!</p>
 
 ## Articles:
 - আছে ফেলু মিত্তির, তবুও জটায়ুর গুণেই কাণ্ড চিত্তির! Ei Samay, Hotspot 06/12/2025, p.1 [![](https://img.shields.io/badge/See-black?)](https://eisamay.com/)
