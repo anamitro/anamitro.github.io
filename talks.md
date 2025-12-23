@@ -23,7 +23,7 @@ _____
 
 - Feb 4th, *r-wise Davenport constant for finite abelian groups*, [COmbinatorial Number Theory And Connected Topics – II (CONTACT-II)](https://sites.google.com/view/contact-ii/home) [![Static Badge](https://img.shields.io/badge/Abstract-9cf)](https://drive.google.com/file/d/1OtAvMfGG2xg6Gr6-2gKDHkJ6REjTZkg2/view) [![Static Badge](https://img.shields.io/badge/Handout-blue)](https://drive.google.com/file/d/11k1bXrPQqw_AAf8s9JweYXBvNs6qcWL3/view?pli=1)
 
-- <img src="pictures/nits.jpg" alt="drawing" width="600"/>
+<img src="pictures/nits.jpg" alt="drawing" width="600"/>
 
 ###### the campus of NIT Silchar, where I did my M.Sc.
 
