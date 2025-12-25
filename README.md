@@ -10,6 +10,8 @@ ____
 
 <img src="picture.jpg" alt="drawing" width="200"/>
 
+<img src="pictures/picture.jpg" style="border-radius: 50%; width: 200px; object-fit: cover;">
+
 <span style="font-family: 'Noto Serif Bengali', serif;">অনমিত্র বিশ্বাস</span>
 
 ## About me
