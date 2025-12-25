@@ -14,7 +14,7 @@ ____
 
 [![](https://img.shields.io/badge/Home-yellow?style=for-the-badge)](https://anamitro.github.io/)
 
-## About meে
+## About me
 
 Research scholar, Department of Mathematics, <a href="https://iitbhilai.ac.in/index.php?pid=dept_math">Indian Institute of Technology Bhilai</a>. My advisor, [Dr. Anurag Singh](https://sites.google.com/site/anuragshomepage/).
 <br><br>
