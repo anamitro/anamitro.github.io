@@ -8,7 +8,7 @@ _____
 
 <div style="position: relative; display: inline-block; color: white;">
   <img src="pictures/nits1.jpg" alt="NIT Silchar campus" style="width: 100%; height: auto;">
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 30px; font-weight: bold; text-shadow: 24px 24px 30px rgba(0,0,0,0.5);">
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 24px; font-weight: bold; text-shadow: 24px 24px 30px rgba(0,0,0,0.5);">
     Talks
   </div>
      <div style="position: absolute; top: 90%; left: 90%; transform: translate(-50%, -50%); font-size: 12px;; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
