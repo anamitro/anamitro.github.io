@@ -4,6 +4,11 @@
 [![](https://img.shields.io/badge/Writing-red?style=for-the-badge)](https://anamitro.github.io/writing.html)
 [![](https://img.shields.io/badge/Other_stuff-red?style=for-the-badge)](https://anamitro.github.io/hobbies.html)
 
+<head>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Bengali:wght@100..900&display=swap" rel="stylesheet">
+</head>
 ____
 
 *“God exists since mathematics is consistent...”* André Weil
