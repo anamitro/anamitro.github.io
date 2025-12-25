@@ -7,6 +7,12 @@
 _____
 
 # My Research
+
+<div style="background-image: url('pictures/library.jpg'); background-size: cover; position: relative; color: white; display: flex; align-items: center; justify-content: center;">
+    <span>My Research</span>
+</div>
+
+
 <div class="container">
   <img src="pictures/library.jpg">
   <div class="centered">My Research</div>
