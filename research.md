@@ -6,23 +6,11 @@
 
 _____
 
-# My Research
-
 <div style="position: relative; display: inline-block; color: white;">
-  <img src="pictures/library.jpg" alt="Example Image" style="width: 100%; height: auto;">
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 24px; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
+  <img src="pictures/library1.jpg" alt="National Libray Kolkata" style="width: 100%; height: auto;">
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 24px; font-weight: bold; text-shadow: 20px 20px 20px rgba(0,0,0,0.5);">
     My Research
   </div>
-</div>
-
-<div style="background-image: url('pictures/library.jpg'); background-size: cover; position: relative; color: white; display: flex; align-items: center; justify-content: center;">
-    <span>My Research</span>
-</div>
-
-
-<div class="container">
-  <img src="pictures/library.jpg">
-  <div class="centered">My Research</div>
 </div>
 
 ## Papers and pre-prints
