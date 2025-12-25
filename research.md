@@ -8,8 +8,8 @@ _____
 
 # My Research
 <div class="container">
-  <img src="pictures/library.jpg" alt="National Library Kolkata">
-  <div class="centered"><b>My Research</b></div>
+  <img src="pictures/library.jpg">
+  <div class="centered">My Research</div>
 </div>
 
 ## Papers and pre-prints
