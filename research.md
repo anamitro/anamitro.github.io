@@ -8,8 +8,11 @@ _____
 
 <div style="position: relative; display: inline-block; color: white;">
   <img src="pictures/library1.jpg" alt="National Libray Kolkata" style="width: 100%; height: auto;">
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 24px; font-weight: bold; text-shadow: 20px 20px 20px rgba(0,0,0,0.5);">
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 24px; font-weight: bold; text-shadow: 24px 24px 24px rgba(0,0,0,0.5);">
     My Research
+  </div>
+  <div style="position: absolute; top: 90%; left: 90%; transform: translate(-50%, -50%); font-size: 12px;; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
+    NIT Silchar campus
   </div>
 </div>
 
