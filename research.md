@@ -39,6 +39,3 @@ higher rank_ (in preparation).
 [![Static Badge](https://img.shields.io/badge/Google_Scholar-%234285F4?logo=googlescholar&logoColor=white&color=%234285F4)](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=JeMsQXoAAAAJ)
 
 
-<img src="library.jpg" alt="drawing" width="600"/>
-
-###### National Library of India (Kolkata)
