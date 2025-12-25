@@ -8,7 +8,6 @@ ____
 
 *“God exists since mathematics is consistent...”* André Weil
 
-<img src="picture.jpg" alt="drawing" width="200"/>
 
 <img src="pictures/picture.jpg" style="border-radius: 50%; width: 200px; object-fit: cover;">
 
