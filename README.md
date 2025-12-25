@@ -10,9 +10,7 @@ ____
 
 <img src="picture.jpg" alt="drawing" width="200"/>
 
-<span style="font-family: 'Noto Serif Bengali', serif;">অনমিত্র বিশ্বাস
-
-[![](https://img.shields.io/badge/Home-yellow?style=for-the-badge)](https://anamitro.github.io/)
+<span style="font-family: 'Noto Serif Bengali', serif;">অনমিত্র বিশ্বাস"</span>
 
 ## About me
 
