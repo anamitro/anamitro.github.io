@@ -12,7 +12,7 @@ _____
     My Research
   </div>
   <div style="position: absolute; top: 90%; left: 90%; transform: translate(-50%, -50%); font-size: 12px;; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
-    NIT Silchar campus
+    National Library Kolkata
   </div>
 </div>
 
