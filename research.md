@@ -7,7 +7,10 @@
 _____
 
 # My Research
-
+<div class="image-container">
+  <img src="files/library.jpg" alt="National Library Kolkata">
+  <div class="text-overlay"><b>My Research</b></div>
+</div>
 
 ## Papers and pre-prints
 
