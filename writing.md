@@ -1,4 +1,9 @@
-[![](https://img.shields.io/badge/Home-red?style=for-the-badge)](https://anamitro.github.io)
+<head>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Bengali:wght@100..900&display=swap" rel="stylesheet">
+  </head>
+  [![](https://img.shields.io/badge/Home-red?style=for-the-badge)](https://anamitro.github.io)
 [![](https://img.shields.io/badge/Research-red?style=for-the-badge)](https://anamitro.github.io/research.html)
 [![](https://img.shields.io/badge/Talks-red?style=for-the-badge)](https://anamitro.github.io/talks.html)
 [![](https://img.shields.io/badge/Writing-yellow?style=for-the-badge)](https://anamitro.github.io/writing.html)
@@ -8,7 +13,7 @@ _____
 
 
 ## Articles:
-- আছে ফেলু মিত্তির, তবুও জটায়ুর গুণেই কাণ্ড চিত্তির! Ei Samay, Hotspot 06/12/2025, p.1 [![](https://img.shields.io/badge/See-indigo?)](https://eisamay.com/editorial/read-the-editorial-article-of-anamitra-biswas-in-ei-samay-online/200447749.cms)
+- <body style="font-family: "Noto Serif Bengali", serif;">আছে ফেলু মিত্তির, তবুও জটায়ুর গুণেই কাণ্ড চিত্তির!<\body> Ei Samay, Hotspot 06/12/2025, p.1 [![](https://img.shields.io/badge/See-indigo?)](https://eisamay.com/editorial/read-the-editorial-article-of-anamitra-biswas-in-ei-samay-online/200447749.cms)
 - যুক্তি, তর্ক, পরিধেয়; Sangbad Pratidin 04/12/2025 [![](https://img.shields.io/badge/See-indigo?)](https://epaper.sangbadpratidin.in/epaper/m/997491/69308fd5a1585)
 - বিধাতার চিত্রনাট্যকে শোধরানোর চেষ্টা করেন নি গদার; Robbar.in 03/12/2025 [![](https://img.shields.io/badge/See-blue?)](https://robbar.in/daily-update/godard-and-his-films-with-respect-to-contemporary-films/)
 - দেবতারে মোরা আত্মীয় জানি; Uttarbanga Sambad 02/12/2025, p.6 [![](https://img.shields.io/badge/See-indigo?)](https://uttarbangasambad.in/purano-sanskaran-details.php?old_date=2025-12-02)
