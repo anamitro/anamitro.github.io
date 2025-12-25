@@ -9,6 +9,9 @@ ____
 *“God exists since mathematics is consistent...”* André Weil
 
 <img src="picture.jpg" alt="drawing" width="200"/><br><img src="name3.jpg" alt="drawing" width="100"/>
+
+<span style="font-family: 'Noto Serif Bengali', serif;">অনমিত্র বিশ্বাস</span>[![](https://img.shields.io/badge/Home-yellow?style=for-the-badge)](https://anamitro.github.io/)
+
 ## About me
 
 Research scholar, Department of Mathematics, <a href="https://iitbhilai.ac.in/index.php?pid=dept_math">Indian Institute of Technology Bhilai</a>. My advisor, [Dr. Anurag Singh](https://sites.google.com/site/anuragshomepage/).
