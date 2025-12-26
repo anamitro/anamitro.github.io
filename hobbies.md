@@ -21,7 +21,7 @@ Besides math, I have a serious interest in painting. I started out by learning f
 
 ### ibus-table-sasankadeva
 
-[![Static Badge](https://img.shields.io/badge/码শ-rgb(255%2C%20153%2C%2051)?&color=rgb(255%2C%20153%2C%2051)style=for-the-badge)](https://anamitro.github.io/ibus-table-sasankadeva)
+[![Static Badge](https://img.shields.io/badge/码শ-rgb(255%2C%20153%2C%2051)?style=for-the-badge&color=rgb(255%2C%20153%2C%2051))](https://anamitro.github.io/ibus-table-sasankadeva)
 
 Bengali (and Assamese) input in Unix
 
