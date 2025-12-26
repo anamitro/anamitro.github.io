@@ -7,7 +7,7 @@
 _____
 
 ## Painting
-[![pictures/sivatma1.png]](https://sites.google.com/view/ani-paint)
+[![](pictures/sivatma1.png)](https://sites.google.com/view/ani-paint)
 
 
 ## Math notes
