@@ -10,7 +10,7 @@ _____
 
 Besides math, I have a serious interest in painting. I started out by learning from works of the Bengal Renaissance School. Please see this other website:
 
-[![](https://img.shields.io/badge/Anamitro’s_Painting_Gallery-red?style=for-the-badge)](https://anamitro.github.io/notes)
+[![](https://img.shields.io/badge/Anamitro’s_Painting_Gallery-red?style=for-the-badge)](https://sites.google.com/view/ani-paint)
 
 
 ## Math notes
