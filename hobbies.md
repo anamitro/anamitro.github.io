@@ -16,19 +16,19 @@ _____
 
 ## Typography tools
 
-#### ibus-table-sasankadeva
+### ibus-table-sasankadeva
 
 [![Static Badge](https://img.shields.io/badge/码শ-rgb(255%2C%20153%2C%2051)?&color=rgb(255%2C%20153%2C%2051))](https://anamitro.github.io/ibus-table-sasankadeva)
 
 Bengali (and Assamese) input in Unix
 
-#### TeXchand
+### TeXchand
 
 [![Static Badge](https://img.shields.io/badge/চাঁদ-white?style=plastic&label=TeX&labelColor=black&color=white)](https://anamitro.github.io/TeXchand/)
 
 for Indic vernacular typesetting and printing
 
-##### chicago1893
+### chicago1893
 
 [![Static Badge](https://img.shields.io/badge/1893-rgb(255%2C%20153%2C%2051)?label=chicago&labelColor=rgb(128%2C%200%2C%200))](https://anamitro.github.io/beamercolortheme-chicago1893)
 
