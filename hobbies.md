@@ -8,7 +8,7 @@ _____
 
 ## Paintings
 
-Please see this [other website](https://sites.google.com/view/ani-paint) ![Static Badge](https://img.shields.io/badge/Anamitro's_paintings-red?style=plastic&logoColor=red&color=red&link=https%3A%2F%2Fsites.google.com%2Fview%2Fani-paint)
+![Static Badge](https://img.shields.io/badge/Please_see_this_other_website-red?style=plastic&logoColor=red&color=red&link=https%3A%2F%2Fsites.google.com%2Fview%2Fani-paint)
 
 
 ## Math notes
