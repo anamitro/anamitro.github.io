@@ -6,10 +6,6 @@
 
 _____
 
-## Painting
-
-Please see this [other website](https://sites.google.com/view/ani-paint).
-
 <div style="position: relative; display: inline-block; color: white;">
   <img src="pictures/sivatma.png" alt="painting" style="width: 100%; height: auto;">
   <div style="position: absolute; top: 50%; left: 10%; transform: translate(-50%, -50%); font-size: 24px; font-weight: bold; text-shadow: 48px 48px 48px rgba(0,0,0,0.5);">
