@@ -25,7 +25,7 @@ I am part of the team led by Dr. Anurag Singh, hosting <a href="https://events.i
 
 ## Painting
 
-I initially started by learning styles of the Bengal Renaissance School studying works of Abanindranath Tagore and Nandalal Bose, and iconography of Indian and East Asian art from various books, most importantly Lady Herringham's compilation of Ajanta mural copies and a Mongolian government publication on Buddhist iconography, and adapted them to my capabilities and inclinations. Some paintings are uploaded in [<kbd> <br> this other website <br> </kbd>](https://sites.google.com/view/ani-paint).
+[<kbd> <br> this other website <br> </kbd>](https://sites.google.com/view/ani-paint).
 
 ## Typography
 
