@@ -25,7 +25,8 @@ _____
 
 ## Conference proceedings
 
-- Anamitro Biswas (joint work with Eshita Mazumdar), *Aspects of the Davenport Constant for Finite Abelian Groups* (extended abstract), Proceedings of IMBIC: 18th International Conference on MSAST 2024, vol. 13, ISBN: 978-81-981948-0-0. [<kbd>PDF from conference webpage</kbd>](https://imbicorg.blogspot.com/p/previous-proceedings.html?m=1)
+- Anamitro Biswas (joint work with Subhankar Jana and Juthika Mahanta), *A Crisper Alternative to the Fuzzy Boundary* (extended abstract), Proceedings of IMBIC: 18th International Conference on MSAST 2025, vol. 14, ISBN: 978-81-981948-5-5  [![Static Badge](https://img.shields.io/badge/Proceedings-9cf)](https://imbicorg.blogspot.com/p/previous-proceedings.html?m=1)
+- Anamitro Biswas (joint work with Eshita Mazumdar), *Aspects of the Davenport Constant for Finite Abelian Groups* (extended abstract), Proceedings of IMBIC: 18th International Conference on MSAST 2024, vol. 13, ISBN: 978-81-981948-0-0. [<kbd>Proceedings</kbd>](https://imbicorg.blogspot.com/p/previous-proceedings.html?m=1)
 
 ## Thesis
 
