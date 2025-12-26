@@ -27,7 +27,7 @@ Bengali (and Assamese) input in Unix
 
 ### TeXchand
 
-[![Static Badge](https://img.shields.io/badge/চাঁদ-white?style=plastic&label=TeX&labelColor=black&color=white)](https://anamitro.github.io/TeXchand/)
+[![Static Badge](https://img.shields.io/badge/চাঁদ-white?style=for-the-badge&label=TeX&labelColor=black&color=white)](https://anamitro.github.io/TeXchand/)
 
 for Indic vernacular typesetting and printing
 
