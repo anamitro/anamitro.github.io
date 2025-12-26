@@ -16,9 +16,10 @@ _____
    <div style="position: absolute; top: 80%; left: 50%; transform: translate(-50%, -50%); font-size: 12px; text-shadow: 24px 24px 24px rgba(0,0,0,0.5);">
     See this <a href="https://sites.google.com/view/ani-paint">other webpage</a> <img alt="Static Badge" src="https://img.shields.io/badge/Anamitro's_paintings-red?style=flat&logoColor=red&color=red&link=https%3A%2F%2Fsites.google.com%2Fview%2Fani-paint">
 </div>
-
+___
 
 [![](https://img.shields.io/badge/Math_Notes-blue?style=for-the-badge)](https://anamitro.github.io/notes)<br>[Here](https://anamitro.github.io/notes)
+___
 
 ## Typography
 
