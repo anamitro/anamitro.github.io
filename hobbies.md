@@ -19,7 +19,7 @@ Please see this [other website](https://sites.google.com/view/ani-paint).
     See this <a href="<a href="url">link text</a>">other webpage</a> <img alt="Static Badge" src="https://img.shields.io/badge/Painting-webpage?style=flat&color=red&link=https%3A%2F%2Fsites.google.com%2Fview%2Fani-paint">
   </div>
   <div style="position: absolute; top: 90%; left: 90%; transform: translate(-50%, -50%); font-size: 12px;; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
-    Śivātmā Paramātmikā
+    Śivātmā Paramātmikā, the lifeline of Śiva (Adbhūta Rāmāyaṇam 25-18)
   </div>
 </div>
 
