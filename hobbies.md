@@ -25,6 +25,10 @@ for Indic vernacular typesetting and printing
 ##### chicago1893 [![Static Badge](https://img.shields.io/badge/1893-rgb(255%2C%20153%2C%2051)?label=chicago&labelColor=rgb(128%2C%200%2C%200))](https://anamitro.github.io/beamercolortheme-chicago1893)
 beamer color theme
 
+________
+
+
+
 <img src="pictures/dhanuyatra.jpg" alt="drawing" width="500"/>
 
 ###### With my friend Chinmaya (Jan 2025). Here we were participating in the Dhanuyatra festival, pompously celebrated in western Odisha.
