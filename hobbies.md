@@ -7,7 +7,8 @@
 _____
 
 ## Painting
-[![](pictures/sivatma1.png)](https://sites.google.com/view/ani-paint)
+
+[![](https://img.shields.io/badge/Anamitro’s_Painting_Gallery-red?style=for-the-badge)](https://anamitro.github.io/notes)
 
 
 ## Math notes
