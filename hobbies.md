@@ -7,8 +7,7 @@
 _____
 
 ## Painting
-
-![Static Badge](https://img.shields.io/badge/Please_see_this_other_website-red?style=plastic&logoColor=red&color=red&link=https%3A%2F%2Fsites.google.com%2Fview%2Fani-paint)
+[![pictures/sivatma1.png]](https://sites.google.com/view/ani-paint)
 
 
 ## Math notes
