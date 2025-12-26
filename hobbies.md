@@ -6,23 +6,14 @@
 
 _____
 
-# Hobbies
+## Paintings
 
-<div style="position: relative; display: inline-block; color: white;">
-  <img src="pictures/sivatma.png" alt="painting" style="width: 100%; height: auto;">
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 24px; font-weight: bold; text-shadow: 48px 48px 48px rgba(0,0,0,0.5);">
-    Painting
-  </div>
-   <div style="position: absolute; top: 80%; left: 50%; transform: translate(-50%, -50%); font-size: 12px; text-shadow: 24px 24px 24px rgba(0,0,0,0.5);">
-    See this <a href="https://sites.google.com/view/ani-paint">other webpage</a> <img alt="Static Badge" src="https://img.shields.io/badge/Anamitro's_paintings-red?style=flat&logoColor=red&color=red&link=https%3A%2F%2Fsites.google.com%2Fview%2Fani-paint">
-</div>
-</div>
+Please see this [other website](https://sites.google.com/view/ani-paint) ![Static Badge](https://img.shields.io/badge/Anamitro's_paintings-red?style=for-the-badge&logoColor=red&color=red&link=https%3A%2F%2Fsites.google.com%2Fview%2Fani-paint)
 
-  
-___
+
+## Math notes
 
 [![](https://img.shields.io/badge/Math_Notes-blue?style=for-the-badge)](https://anamitro.github.io/notes)
-___
 
 ## Typography
 
