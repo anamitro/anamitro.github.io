@@ -20,7 +20,7 @@ _____
   
 ___
 
-[![](https://img.shields.io/badge/Math_Notes-blue?style=for-the-badge)](https://anamitro.github.io/notes)<br>[Here](https://anamitro.github.io/notes)
+[![](https://img.shields.io/badge/Math_Notes-blue?style=for-the-badge)](https://anamitro.github.io/notes)
 ___
 
 ## Typography
