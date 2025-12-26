@@ -6,7 +6,7 @@
 
 _____
 
-## Paintings
+## Painting
 
 ![Static Badge](https://img.shields.io/badge/Please_see_this_other_website-red?style=plastic&logoColor=red&color=red&link=https%3A%2F%2Fsites.google.com%2Fview%2Fani-paint)
 
