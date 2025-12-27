@@ -19,20 +19,20 @@ Besides math, I have a serious interest in painting. I started out by learning f
 
 ## Typography tools
 
-#### ibus-table-sasankadeva
+### ibus-table-sasankadeva
 
 Bengali (and Assamese) input in Unix
 
 [![Static Badge](https://img.shields.io/badge/码শ-rgb(255%2C%20153%2C%2051)?style=for-the-badge&color=rgb(255%2C%20153%2C%2051))](https://anamitro.github.io/ibus-table-sasankadeva)
 
 
-#### TeXchand
+### TeXchand
 
 for Indic vernacular typesetting and printing
 
 [![Static Badge](https://img.shields.io/badge/চাঁদ-white?style=for-the-badge&label=TeX&labelColor=black&color=white)](https://anamitro.github.io/TeXchand/)
 
-#### chicago1893
+### chicago1893
 
 beamer color theme
 
