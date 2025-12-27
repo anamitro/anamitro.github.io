@@ -13,6 +13,7 @@ _____
 </head>
 
 ## Articles:
+- <span style="font-family: 'Noto Serif Bengali', serif;">Ramanujan's troubled nationalism, The Statesman, 27/12/2025, p.9</span> [![](https://img.shields.io/badge/See-indigo?)](https://epaper.thestatesman.com/4098895/Delhi-The-Statesman/28-12-2025#page/9/1)
 - <span style="font-family: 'Noto Serif Bengali', serif;">আছে ফেলু মিত্তির, তবুও জটায়ুর গুণেই কাণ্ড চিত্তির! Ei Samay, Hotspot 06/12/2025, p.1</span> [![](https://img.shields.io/badge/See-indigo?)](https://eisamay.com/editorial/read-the-editorial-article-of-anamitra-biswas-in-ei-samay-online/200447749.cms)
 - <span style="font-family: 'Noto Serif Bengali', serif;">যুক্তি, তর্ক, পরিধেয়; Sangbad Pratidin 04/12/2025</span> [![](https://img.shields.io/badge/See-indigo?)](https://epaper.sangbadpratidin.in/epaper/m/997491/69308fd5a1585)
 - <span style="font-family: 'Noto Serif Bengali', serif;">বিধাতার চিত্রনাট্যকে শোধরানোর চেষ্টা করেন নি গদার; Robbar.in 03/12/2025</span> [![](https://img.shields.io/badge/See-blue?)](https://robbar.in/daily-update/godard-and-his-films-with-respect-to-contemporary-films/)
