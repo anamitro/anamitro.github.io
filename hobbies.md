@@ -38,6 +38,10 @@ beamer color theme
 
 [![Static Badge](https://img.shields.io/badge/1893-rgb(255%2C%20153%2C%2051)?style=for-the-badge&label=chicago&labelColor=rgb(128%2C%200%2C%200))](https://anamitro.github.io/beamercolortheme-chicago1893)
 
+## Social handles
+![Static Badge](https://img.shields.io/badge/Facebook-blue?style=plastic&logo=Facebook&logoColor=white&logoSize=amg&color=blue&link=https%3A%2F%2Ffacebook.com%2Fanamitro.biswas.3)
+
+
 ________
 
 
