@@ -41,10 +41,6 @@ beamer color theme
 ## Social handles
 ![Static Badge](https://img.shields.io/badge/Facebook-blue?style=plastic&logo=Facebook&logoColor=white&logoSize=amg&color=blue&link=https%3A%2F%2Ffacebook.com%2Fanamitro.biswas.3)
 
-![Static Badge](https://img.shields.io/badge/Email-red?style=plastic&logo=PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjRweCIgdmlld0JveD0iMCAtOTYwIDk2MCA5NjAiIHdpZHRoPSIyNHB4IiBmaWxsPSIjRkZGRkZGIj48cGF0aCBkPSJNMTYwLTE2MHEtMzMgMC01Ni41LTIzLjVUODAtMjQwdi00ODBxMC0zMyAyMy41LTU2LjVUMTYwLTgwMGg2NDBxMzMgMCA1Ni41IDIzLjVUODgwLTcyMHY0ODBxMCAzMy0yMy41IDU2LjVUODAwLTE2MEgxNjBabTMyMC0yODBMMTYwLTY0MHY0MDBoNjQwdi00MDBMNDgwLTQ0MFptMC04MCAzMjAtMjAwSDE2MGwzMjAgMjAwWk0xNjAtNjQwdi04MCA0ODAtNDAwWiIvPjwvc3ZnPg====&logoColor=white&logoSize=amg&color=blue&link=https%3A%2F%2Ffacebook.com%2Fanamitro.biswas.3)
-
-
-
 ________
 
 
