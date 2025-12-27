@@ -39,9 +39,9 @@ beamer color theme
 [![Static Badge](https://img.shields.io/badge/1893-rgb(255%2C%20153%2C%2051)?style=for-the-badge&label=chicago&labelColor=rgb(128%2C%200%2C%200))](https://anamitro.github.io/beamercolortheme-chicago1893)
 
 ## Social handles
-![Static Badge](https://img.shields.io/badge/Facebook-white?style=plastic&logo=Facebook&logoColor=#0866FF&logoSize=amg&color=white&link=https%3A%2F%2Ffacebook.com%2Fanamitro.biswas.3)
+![Static Badge](https://img.shields.io/badge/Facebook-black?style=social&logo=Facebook&logoColor=%230866FF&color=white&link=https%3A%2F%2Ffacebook.com%2Fanamitro.biswas.3)
 
-![Static Badge](https://img.shields.io/badge/Telegram-blue?style=plastic&logo=Telegram&logoColor=%2326A5E4&color=white&link=https%3A%2F%2Ft.me%2Fanamitroappu)
+![Static Badge](https://img.shields.io/badge/Telegram-blue?style=social&logo=Telegram&logoColor=%2326A5E4&color=white&link=https%3A%2F%2Ft.me%2Fanamitroappu)
 
 
 ________
