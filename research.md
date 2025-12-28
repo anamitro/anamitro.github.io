@@ -16,7 +16,7 @@ _____
   </div>
 </div>
 
-## Papers and pre-prints
+## Papers
 
 - Anamitro Biswas and Eshita Mazumdar, _Davenport constant for ﬁnite abelian groups with higher rank_, Mathematical Notes, vol. 118, pp. 23-34 (2025) [![Static Badge](https://img.shields.io/badge/preprint-black)](https://arxiv.org/abs/2402.09999) [![Static Badge](https://img.shields.io/badge/Springer-black)](https://link.springer.com/article/10.1134/S0001434624605483)
 > **Add-on:** Proposed bounds for D_r can be calculated for groups up to rank 3, and cycle lengths having at most 3 prime factors, using [this R program](https://github.com/anamitro/d-r-bounds).
