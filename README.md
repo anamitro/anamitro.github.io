@@ -4,8 +4,7 @@
 [![](https://img.shields.io/badge/Writing-red?style=for-the-badge)](https://anamitro.github.io/writing.html)
 [![](https://img.shields.io/badge/Other_stuff-red?style=for-the-badge)](https://anamitro.github.io/hobbies.html)
   <head>
-   <link rel="shortcut icon" type="image/png" 
-      href="{{ "favicon.png"  | absolute_url }}">
+   <link rel="shortcut icon" type="image/png" href="favicon.png">
   </head>
 ____
 
