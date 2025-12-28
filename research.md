@@ -33,12 +33,6 @@ _____
 - Anamitro Biswas, *Coast of a fuzzy set as a 'crisper' subset of the boundary*, under the supervision of Dr. Juthika Mahanta, National Institute of Technology Silchar (2023). [![Static Badge](https://img.shields.io/badge/PDF-black)](files/anamitro_thesis_old.pdf)
 > thesis submitted in partial fulfillment of the requirements for the Project of the Master degree work
 
-## In preparation
-
-- Anamitro Biswas, _The Davenport constant for groups of rank 3, exact values and narrower bounds_ (in preparation).
-
-- Anamitro Biswas and Eshita Mazumdar, _Zero-sums of exponential length in k-restricted sequences over groups of
-higher rank_ (in preparation).
 
 [![Static Badge](https://img.shields.io/badge/Google_Scholar-white?style=social&logo=googlescholar&logoColor=%234285F4&logoSize=amg&link=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3DJeMsQXoAAAAJ%26hl%3Den)](https://scholar.google.com/citations?user=JeMsQXoAAAAJ&hl=en)
 
