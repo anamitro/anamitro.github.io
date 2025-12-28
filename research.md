@@ -40,6 +40,7 @@ _____
 - Anamitro Biswas and Eshita Mazumdar, _Zero-sums of exponential length in k-restricted sequences over groups of
 higher rank_ (in preparation).
 
-[![Static Badge](https://img.shields.io/badge/Google_Scholar-%234285F4?logo=googlescholar&logoColor=white&color=%234285F4)](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=JeMsQXoAAAAJ)
+![Static Badge](https://img.shields.io/badge/Google_Scholar-white?style=social&logo=googlescholar&logoColor=%234285F4&logoSize=amg&link=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3DJeMsQXoAAAAJ%26hl%3Den)
+
 
 
