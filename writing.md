@@ -13,6 +13,7 @@ _____
 </head>
 
 ## Articles:
+- <span style="font-family: 'Noto Serif Bengali', serif;">ভারতীয় গণিত বলে কিছু হয়?, Ei Samay, 04/01/2026, p.8</span> [![](https://img.shields.io/badge/See-black?)](https://eisamay.com/)
 - <span style="font-family: 'Noto Serif Bengali', serif;">মানিয়ে নেওয়ার ‘জাতীয় অসুখ’, Uttarbanga Sambad, 30/12/2025, p.6</span> [![](https://img.shields.io/badge/See-indigo?)](https://uttarbangasambad.in/purano-sanskaran-details.php?ep=1&old_date=30%2F12%2F2025)
 - <span style="font-family: 'Noto Serif Bengali', serif;">একটা সহজ কেজো ভাষা, Anandabazar Patrika, 29/12/2025, p.4</span> [![](https://img.shields.io/badge/See-black?)](https://epaper.anandabazar.com/calcutta-north/15/2025-12-29/page-1.html)
 - <span style="font-family: 'Noto Serif Bengali', serif;">Ramanujan's troubled nationalism, The Statesman, 27/12/2025, p. 9 (Kol p. 11)</span> [![](https://img.shields.io/badge/See-indigo?)](https://epaper.thestatesman.com/4098895/Delhi-The-Statesman/28-12-2025#page/9/1)
