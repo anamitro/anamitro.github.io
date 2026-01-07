@@ -43,6 +43,9 @@ beamer color theme
 
 [![Static Badge](https://img.shields.io/badge/Telegram-blue?style=social&logo=Telegram&logoColor=%2326A5E4&color=white&link=https%3A%2F%2Ft.me%2Fanamitroappu)](https://t.me/anamitroappu)
 
+[!![Static Badge](https://img.shields.io/badge/Messenger-%230866FF?style=social&logo=Messenger&logoColor=%230866FF&logoSize=amg&label=Messenger&color=%230866FF)](https://m.me/anamitro.biswas.3)
+
+
 
 ________
 
