@@ -39,11 +39,11 @@ beamer color theme
 [![Static Badge](https://img.shields.io/badge/1893-rgb(255%2C%20153%2C%2051)?style=for-the-badge&label=chicago&labelColor=rgb(128%2C%200%2C%200))](https://anamitro.github.io/beamercolortheme-chicago1893)
 
 ## Social handles
-[![Static Badge](https://img.shields.io/badge/Facebook-black?style=social&logo=Facebook&logoColor=%230866FF&color=white&link=https%3A%2F%2Ffacebook.com%2Fanamitro.biswas.3)](https://facebook.com/anamitro.biswas.3)
+[![Static Badge](https://img.shields.io/badge/anamitro.biswas.3-black?style=social&logo=Facebook&logoColor=%230866FF&label=Facebook&color=white&link=https%3A%2F%2Ffacebook.com%2Fanamitro.biswas.3)](https://facebook.com/anamitro.biswas.3)
 
-[![Static Badge](https://img.shields.io/badge/Telegram-blue?style=social&logo=Telegram&logoColor=%2326A5E4&color=white&link=https%3A%2F%2Ft.me%2Fanamitroappu)](https://t.me/anamitroappu)
+[![Static Badge](https://img.shields.io/badge/@anamitroappu-blue?style=social&logo=Telegram&logoColor=%2326A5E4&label=Telegram&color=white&link=https%3A%2F%2Ft.me%2Fanamitroappu)](https://t.me/anamitroappu)
 
-[!![Static Badge](https://img.shields.io/badge/Messenger-%230866FF?style=social&logo=Messenger&logoColor=%230866FF&logoSize=amg&label=Messenger&color=%230866FF)](https://m.me/anamitro.biswas.3)
+[![Static Badge](https://img.shields.io/badge/anamitro.biswas.3-%230866FF?style=social&logo=Messenger&logoColor=%230866FF&logoSize=amg&label=Messenger&color=%230866FF)](https://m.me/anamitro.biswas.3)
 
 
 
