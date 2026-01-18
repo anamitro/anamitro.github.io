@@ -13,8 +13,8 @@ _____
 </head>
 
 ## Articles:
-- <span style="font-family: 'Noto Serif Bengali', serif;">এসো উদ্যম, এসো উত্তাপ, Robbar 18/01/2026, pp. 32-35</span>[![](https://img.shields.io/badge/See-black?)](https://magazine.robbar.in/edition/4250/robbar-18-01-26/page/32)
-- <span style="font-family: 'Noto Serif Bengali', serif;">গদারের ‘পেনেলোপি’, Robbar.in 17/01/2026</span>[![](https://img.shields.io/badge/See-blue?)](https://robbar.in/entertainment/how-jean-luc-godards-le-mepris-redefines-modern-female-protagonist/)
+- <span style="font-family: 'Noto Serif Bengali', serif;">এসো উদ্যম, এসো উত্তাপ, Robbar 18/01/2026, pp. 32-35</span> [![](https://img.shields.io/badge/See-black?)](https://magazine.robbar.in/edition/4250/robbar-18-01-26/page/32)
+- <span style="font-family: 'Noto Serif Bengali', serif;">গদারের ‘পেনেলোপি’, Robbar.in 17/01/2026</span> [![](https://img.shields.io/badge/See-blue?)](https://robbar.in/entertainment/how-jean-luc-godards-le-mepris-redefines-modern-female-protagonist/)
 - <span style="font-family: 'Noto Serif Bengali', serif;">ভারতীয় গণিত বলে কিছু হয়?, Ei Samay, 04/01/2026, p.8</span> [![](https://img.shields.io/badge/See-indigo?)](https://eisamay.com/editorial/is-there-such-a-thing-as-indian-mathematics/200459105.cms)
 - <span style="font-family: 'Noto Serif Bengali', serif;">মানিয়ে নেওয়ার ‘জাতীয় অসুখ’, Uttarbanga Sambad, 30/12/2025, p.6</span> [![](https://img.shields.io/badge/See-indigo?)](https://uttarbangasambad.in/purano-sanskaran-details.php?ep=1&old_date=2025-12-30)
 - <span style="font-family: 'Noto Serif Bengali', serif;">একটা সহজ কেজো ভাষা, Anandabazar Patrika, 29/12/2025, p.4</span> [![](https://img.shields.io/badge/See-indigo?)](https://www.anandabazar.com/editorial/essays/it-is-a-crime-to-forget-those-englishmen-who-helped-us-discover-the-ancient-history-of-india-prnt/cid/1657428)
