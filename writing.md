@@ -38,3 +38,10 @@ _____
 ![](https://img.shields.io/badge/online-blue?) ![](https://img.shields.io/badge/print-black?) ![](https://img.shields.io/badge/print_and_online-indigo?)
 
 
+## Feedback:
+
+Published reviews or replies of my articles, that caught my attention. This list is not exhaustive. Kindly let me know of any that I missed and I shall update asap.
+
+- Aditya Kamble in The Statesman, 19/11/2025 [![](https://img.shields.io/badge/print-black?)](https://epaper.thestatesman.com/m5/4083694/Delhi-The-Statesman/19-11-2025#page/6/1)
+
+
