@@ -13,7 +13,9 @@ _____
 </head>
 
 ## Articles:
+- <span style="font-family: 'Noto Serif Bengali', serif;">কখনো যুদ্ধ দেখে নি গ্রিনল্যাণ্ড ভূখণ্ড, Aajkaal 28/01/2026, p. 4</span> [![](https://img.shields.io/badge/See-indigo?)](https://www.eaajkaal.in/epaperdetails/index/79657540-e1a96255-055bee48)
 - <span style="font-family: 'Noto Serif Bengali', serif;">একের পর এক সিনেমা-যুদ্ধ, Anandabazar Patrika 22/01/2026, p. 4</span> [![](https://img.shields.io/badge/See-indigo?)](https://www.anandabazar.com/editorial/essays/people-like-jafar-panahi-make-humanity-mature-prnt/cid/1662781)
+- <span style="font-family: 'Noto Serif Bengali', serif;">গুরুদায়িত্ব কাঁধে এক আধুনিক হ্যামলেট, Uttarbanga Sambad 21/01/2026, p. 6</span> [![](https://img.shields.io/badge/See-indigo?)](https://www.uttarbangasambad.in/purano-sanskaran-details.php?ep=1&old_date=2026-01-21)
 - <span style="font-family: 'Noto Serif Bengali', serif;">এসো উদ্যম, এসো উত্তাপ, Robbar 18/01/2026, pp. 32-35</span> [![](https://img.shields.io/badge/See-indigo?)](https://magazine.robbar.in/edition/4250/robbar-18-01-26/page/32)
 - <span style="font-family: 'Noto Serif Bengali', serif;">গদারের ‘পেনেলোপি’, Robbar.in 17/01/2026</span> [![](https://img.shields.io/badge/See-blue?)](https://robbar.in/entertainment/how-jean-luc-godards-le-mepris-redefines-modern-female-protagonist/)
 - <span style="font-family: 'Noto Serif Bengali', serif;">ভারতীয় গণিত বলে কিছু হয়?, Ei Samay, 04/01/2026, p.8</span> [![](https://img.shields.io/badge/See-indigo?)](https://eisamay.com/editorial/is-there-such-a-thing-as-indian-mathematics/200459105.cms)
