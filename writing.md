@@ -42,6 +42,6 @@ _____
 
 Published reviews or replies of my articles, that caught my attention. This list is not exhaustive. Kindly let me know of any that I missed and I shall update asap.
 
-- Aditya Kamble in The Statesman, 19/11/2025 [![](https://img.shields.io/badge/print-black?)](https://epaper.thestatesman.com/m5/4083694/Delhi-The-Statesman/19-11-2025#page/6/1)
+- Aditya Kamble in The Statesman, 19/11/2025 [![](https://img.shields.io/badge/See-black?)](https://epaper.thestatesman.com/m5/4083694/Delhi-The-Statesman/19-11-2025#page/6/1)
 
 
