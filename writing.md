@@ -38,6 +38,11 @@ _____
 ![](https://img.shields.io/badge/online-blue?) ![](https://img.shields.io/badge/print-black?) ![](https://img.shields.io/badge/print_and_online-indigo?)
 
 
+## Letters:
+
+- Secured tourism, The Hindu 29/04/2025, p. 8 [![](https://img.shields.io/badge/See-black?)](https://www.thehindu.com/opinion/letters/letters-to-the-editor-april-29-2025/article69501233.ece)
+
+
 ## Feedback:
 
 Published reviews or replies of my articles, that caught my attention. This list is not exhaustive. Kindly let me know of any that I missed and I shall update asap.
