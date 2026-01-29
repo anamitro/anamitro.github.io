@@ -40,13 +40,13 @@ _____
 
 ## Letters:
 
-- Secured tourism, The Hindu 29/04/2025, p. 8 [![](https://img.shields.io/badge/See-black?)](https://www.thehindu.com/opinion/letters/letters-to-the-editor-april-29-2025/article69501233.ece)
+- <span style="font-family: 'Noto Serif Bengali', serif;">Secured tourism, The Hindu 29/04/2025, p. 8</span> [![](https://img.shields.io/badge/See-black?)](https://www.thehindu.com/opinion/letters/letters-to-the-editor-april-29-2025/article69501233.ece)
 
 
 ## Feedback:
 
-Published reviews or replies of my articles, that caught my attention. This list is not exhaustive. Kindly let me know of any that I missed and I shall update asap.
+<span style="font-family: 'Noto Serif Bengali', serif;">Published reviews or replies of my articles, that caught my attention. This list is not exhaustive. Kindly let me know of any that I missed and I shall update asap.</span>
 
-- Aditya Kamble in The Statesman, 19/11/2025 [![](https://img.shields.io/badge/See-black?)](https://epaper.thestatesman.com/m5/4083694/Delhi-The-Statesman/19-11-2025#page/6/1)
+- <span style="font-family: 'Noto Serif Bengali', serif;">Aditya Kamble in The Statesman, 19/11/2025</span> [![](https://img.shields.io/badge/See-black?)](https://epaper.thestatesman.com/m5/4083694/Delhi-The-Statesman/19-11-2025#page/6/1)
 
 
