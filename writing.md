@@ -13,6 +13,7 @@ _____
 </head>
 
 ## Articles:
+- <span style="font-family: 'Noto Serif Bengali', serif;">গদার-পানাহির সঙ্গে কোথায় মেলেন ‘পোসেনজিৎ’?, Ei Samay (Hotspot) 31/01/2026, p. 1</span> [![](https://img.shields.io/badge/See-indigo?)](https://eisamay.com/editorial/where-does-prosenjit-chatterjee-similar-gadare-panahi/200469753.cms)
 - <span style="font-family: 'Noto Serif Bengali', serif;">কখনো যুদ্ধ দেখেনি গ্রিনল্যাণ্ড ভূখণ্ড, Aajkaal 28/01/2026, p. 4</span> [![](https://img.shields.io/badge/See-indigo?)](https://www.eaajkaal.in/epaperdetails/index/79657540-e1a96255-055bee48)
 - <span style="font-family: 'Noto Serif Bengali', serif;">একের পর এক সিনেমা-যুদ্ধ, Anandabazar Patrika 22/01/2026, p. 4</span> [![](https://img.shields.io/badge/See-indigo?)](https://www.anandabazar.com/editorial/essays/people-like-jafar-panahi-make-humanity-mature-prnt/cid/1662781)
 - <span style="font-family: 'Noto Serif Bengali', serif;">গুরুদায়িত্ব কাঁধে এক আধুনিক হ্যামলেট, Uttarbanga Sambad 21/01/2026, p. 6</span> [![](https://img.shields.io/badge/See-indigo?)](https://www.uttarbangasambad.in/purano-sanskaran-details.php?ep=1&old_date=2026-01-21)
