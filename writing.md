@@ -13,6 +13,7 @@ _____
 </head>
 
 ## Articles:
+- <span style="font-family: 'Noto Serif Bengali', serif;">শিক্ষায় ব্যয় এবং রাষ্ট্রীয় যজ্ঞের হবি,  Aajkaal 28/02/2026, p. 4</span> [![](https://img.shields.io/badge/See-indigo?)](https://www.eaajkaal.in/epaperdetails/index/8c971586-99ce5e35-8e6c7c46?fbclid=IwY2xjawQPdcVleHRuA2FlbQIxMABicmlkETFCaDd1bXdxM0JSUkdabTlRc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHiRn1ThlG6INC1puPwgyPVoRXhPye-mlRpex133dPdRoNinydFA6ObDkH7Vg_aem_v8kM_8GR7Yk8QDNA0KE46w)
 - <span style="font-family: 'Noto Serif Bengali', serif;">বন্দে মাতরম্‌-এ ভাষা যা হইলেন,  Robbar.in 16/02/2026</span> [![](https://img.shields.io/badge/See-blue?)](https://robbar.in/mixed-bag/the-language-of-vande-mataram-and-old-sanskrit/)
 - <span style="font-family: 'Noto Serif Bengali', serif;">Iran’s dissent in films, The Statesman (Marquee) 31/01/2026, p. 11 (Kol p. 13)</span> [![](https://img.shields.io/badge/See-indigo?)](https://epaper.thestatesman.com/m5/4111924/Delhi-The-Statesman/NEWS#page/11/1)
 - <span style="font-family: 'Noto Serif Bengali', serif;">গদার-পানাহির সঙ্গে কোথায় মেলেন ‘পোসেনজিৎ’?, Ei Samay (Hotspot) 31/01/2026, p. 1</span> [![](https://img.shields.io/badge/See-indigo?)](https://eisamay.com/editorial/where-does-prosenjit-chatterjee-similar-gadare-panahi/200469753.cms)
@@ -38,7 +39,6 @@ _____
 - <span style="font-family: 'Noto Serif Bengali', serif;">ধুলামন্দিরের স্থপতি: রবীন্দ্রনাথ ঠাকুর ও লিওনার্দ এল্ম্‌হার্স্ট; Jaladarchi 09/05/2021</span> [![](https://img.shields.io/badge/Read-blue?)](https://www.jaladarchi.com/2021/05/architects-of-dhulamandir-rabindranath-tagore-and-leonard-elmhurst.html)
 - <span style="font-family: 'Noto Serif Bengali', serif;">একটি বাইসিকল, একটি নদী ও একটি গ্রাম: তরুণ সত্যজিতের প্রেরণারা; Jaladarchi 30/04/2021</span> [![](https://img.shields.io/badge/Read-blue?)](https://www.jaladarchi.com/2021/04/a-bicycle-a-river-and-a-village-the-motivations-of-young-ray.html)
 
-![](https://img.shields.io/badge/online-blue?) ![](https://img.shields.io/badge/print-black?) ![](https://img.shields.io/badge/print_and_online-indigo?)
 
 
 ## Letters:
