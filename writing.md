@@ -34,17 +34,17 @@ _____
 - <span style="font-family: 'Noto Serif Bengali', serif;">যন্ত্র ও দ্বন্দ্ব; Daakbangla 22/11/2025</span> [![](https://img.shields.io/badge/Read-blue?)](https://daakbangla.com/non-fiction/ai-vs-human-skill-the-battle-reshaping-modern-creativity/) [![](https://img.shields.io/badge/Films-black?)]
 - <span style="font-family: 'Noto Serif Bengali', serif;">এআই পাল্টে দিতে চলেছে অভিনয়ের মানুষী জগৎ?; Ei Samay 21/11/2025, p. 8</span> [![](https://img.shields.io/badge/See-indigo?)](https://eisamay.com/editorial/read-the-special-editorial-article-on-ai-in-ei-samay-editorial/200441930.cms) [![](https://img.shields.io/badge/Films-black?)]
 - <span style="font-family: 'Noto Serif Bengali', serif;">Acting, Animé and AI; The Statesman (Perspective) 13/11/2025, p. 7 (Kol p. 9)</span> [![](https://img.shields.io/badge/Read-indigo?)](https://epaper.thestatesman.com/m5/4081615/Delhi-The-Statesman/13-11-2025#page/7/1) [![](https://img.shields.io/badge/Films-black?)]
-- <span style="font-family: 'Noto Serif Bengali', serif;">মহাকালের চিত্রনাট্যে ক্রমেই বাদ পড়ছে ঋত্বিক ঘটকের স্বপ্ন; Robbar.in 08/11/2025</span> [![](https://img.shields.io/badge/Read-blue?)](https://robbar.in/entertainment/the-dream-ritwik-ghatak-expressed-in-his-films-becoming-irrelevant/) [![](https://img.shields.io/badge/Films-black?)] [![](https://img.shields.io/badge/Politics-red?)]
-- <span style="font-family: 'Noto Serif Bengali', serif;">সিনেমা, ইতিহাস, ইতিবৃত্ত; Sangbad Pratidin 18/10/2025, p. 4</span> [![](https://img.shields.io/badge/Read-indigo?)](https://epaper.sangbadpratidin.in/epaper/m/985331/68f29f6e9b5a2) [![](https://img.shields.io/badge/Films-black?)] [![](https://img.shields.io/badge/History-violet?)] [![](https://img.shields.io/badge/Politics-red?)]
-- <span style="font-family: 'Noto Serif Bengali', serif;">রাজ্য ও তার গান— প্রাসঙ্গিকতা ও চয়নের যথার্থতা; Jaladarchi 13/01/2024</span> [![](https://img.shields.io/badge/Read-blue?)](https://www.jaladarchi.com/2024/01/rajya-and-its-songs-relevance-and-validity-of-choice.html) [![](https://img.shields.io/badge/Politics-red?)] [![](https://img.shields.io/badge/Literature-white?)] [![](https://img.shields.io/badge/History-violet?)]
-- <span style="font-family: 'Noto Serif Bengali', serif;">ধুলামন্দিরের স্থপতি: রবীন্দ্রনাথ ঠাকুর ও লিওনার্দ এল্ম্‌হার্স্ট; Jaladarchi 09/05/2021</span> [![](https://img.shields.io/badge/Read-blue?)](https://www.jaladarchi.com/2021/05/architects-of-dhulamandir-rabindranath-tagore-and-leonard-elmhurst.html) [![](https://img.shields.io/badge/History-violet?)] 
-- <span style="font-family: 'Noto Serif Bengali', serif;">একটি বাইসিকল, একটি নদী ও একটি গ্রাম: তরুণ সত্যজিতের প্রেরণারা; Jaladarchi 30/04/2021</span> [![](https://img.shields.io/badge/Read-blue?)](https://www.jaladarchi.com/2021/04/a-bicycle-a-river-and-a-village-the-motivations-of-young-ray.html) [![](https://img.shields.io/badge/Films-black?)]
+- <span style="font-family: 'Noto Serif Bengali', serif;">মহাকালের চিত্রনাট্যে ক্রমেই বাদ পড়ছে ঋত্বিক ঘটকের স্বপ্ন; Robbar.in 08/11/2025</span> [![](https://img.shields.io/badge/Read-blue?)](https://robbar.in/entertainment/the-dream-ritwik-ghatak-expressed-in-his-films-becoming-irrelevant/) ![](https://img.shields.io/badge/Films-black?) ![](https://img.shields.io/badge/Politics-red?)
+- <span style="font-family: 'Noto Serif Bengali', serif;">সিনেমা, ইতিহাস, ইতিবৃত্ত; Sangbad Pratidin 18/10/2025, p. 4</span> [![](https://img.shields.io/badge/Read-indigo?)](https://epaper.sangbadpratidin.in/epaper/m/985331/68f29f6e9b5a2) ![](https://img.shields.io/badge/Films-black?) ![](https://img.shields.io/badge/History-violet?) ![](https://img.shields.io/badge/Politics-red?)
+- <span style="font-family: 'Noto Serif Bengali', serif;">রাজ্য ও তার গান— প্রাসঙ্গিকতা ও চয়নের যথার্থতা; Jaladarchi 13/01/2024</span> [![](https://img.shields.io/badge/Read-blue?)](https://www.jaladarchi.com/2024/01/rajya-and-its-songs-relevance-and-validity-of-choice.html) ![](https://img.shields.io/badge/Politics-red?) ![](https://img.shields.io/badge/Literature-white?) ![](https://img.shields.io/badge/History-violet?)
+- <span style="font-family: 'Noto Serif Bengali', serif;">ধুলামন্দিরের স্থপতি: রবীন্দ্রনাথ ঠাকুর ও লিওনার্দ এল্ম্‌হার্স্ট; Jaladarchi 09/05/2021</span> [![](https://img.shields.io/badge/Read-blue?)](https://www.jaladarchi.com/2021/05/architects-of-dhulamandir-rabindranath-tagore-and-leonard-elmhurst.html) ![](https://img.shields.io/badge/History-violet?) 
+- <span style="font-family: 'Noto Serif Bengali', serif;">একটি বাইসিকল, একটি নদী ও একটি গ্রাম: তরুণ সত্যজিতের প্রেরণারা; Jaladarchi 30/04/2021</span> [![](https://img.shields.io/badge/Read-blue?)](https://www.jaladarchi.com/2021/04/a-bicycle-a-river-and-a-village-the-motivations-of-young-ray.html) ![](https://img.shields.io/badge/Films-black?)
 
-[![](https://img.shields.io/badge/Films-black?)]
-[![](https://img.shields.io/badge/Math-green?)]
-[![](https://img.shields.io/badge/History-violet?)]
-[![](https://img.shields.io/badge/Politics-red?)]
-[![](https://img.shields.io/badge/Literature-white?)]
+![](https://img.shields.io/badge/Films-black?)
+![](https://img.shields.io/badge/Math-green?)
+![](https://img.shields.io/badge/History-violet?)
+![](https://img.shields.io/badge/Politics-red?)
+![](https://img.shields.io/badge/Literature-white?)
 
 
 
