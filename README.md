@@ -24,13 +24,15 @@ ____
 
 ## About me
 
-Research scholar, Department of Mathematics, <a href="https://iitbhilai.ac.in/index.php?pid=dept_math">Indian Institute of Technology Bhilai</a>. My advisor, [Dr. Anurag Singh](https://sites.google.com/site/anuragshomepage/).
+Research scholar, Department of Mathematics, <a href="https://iitbhilai.ac.in/index.php?pid=dept_math">Indian Institute of Technology Bhilai</a>. My advisor, [Dr. Anurag Singh](https://sites.google.com/site/anuragshomepage/). I like to work on Algebraic Topology.
 <br><br>
 You’ll find me in Room no. 317, level 3, SD-2 building in the Academic Block. Or, in Kolkata. Or, travelling.
 <br><br>
 **My [Erdős number](https://sites.google.com/oakland.edu/grossman/home/the-erdoes-number-project) is 4.**
 <br><br>
 I have completed M.Sc. in Mathematics from <a href="http://maths.nits.ac.in/">National Institute of Technology Silchar</a> (India). [Dr. Juthika Mahanta](https://maths.nits.ac.in/faculties/juthika-mahanta), my thesis supervisor.
+<br><br>
+I also enjoy [writing](https://anamitro.github.io/writing.html) in Bengali (and occasionally English) on history, films and current affairs.
 <br><br>
 I can speak Bengali (first language), English and Sanskrit.
 <br><br>
