@@ -13,6 +13,7 @@ _____
 </head>
 
 ## Articles:
+- <span style="font-family: 'Noto Serif Bengali', serif;">রূপায়ণের ব্যর্থতা, নাকি শুধুই মিথ্যা প্রতিশ্রুতি?, Ei Samay, Mar 13th 2026, p. 8</span> [![](https://img.shields.io/badge/See-black?)](https://eisamay.com/editorial)
 - <span style="font-family: 'Noto Serif Bengali', serif;">তারা ফরাসি জার্মান জানে না, কাঁদতে জানে, Robbar.in 10/03/2026</span> [![](https://img.shields.io/badge/See-indigo?)](https://robbar.in/human-rights/impact-on-women-education-in-iran-during-war-condition/)
 - <span style="font-family: 'Noto Serif Bengali', serif;">‘খাওয়া নিয়ে বাড়াবাড়ি করছ কিন্তু’, Sangbad Pratidin 09/03/2026, p. 4</span> [![](https://img.shields.io/badge/See-indigo?)](https://epaper.sangbadpratidin.in/epaper/m/1020950/69adbe169d334)
 - <span style="font-family: 'Noto Serif Bengali', serif;">শিক্ষায় ব্যয় এবং রাষ্ট্রীয় যজ্ঞের হবি,  Aajkaal 28/02/2026, p. 4</span> [![](https://img.shields.io/badge/See-indigo?)](https://www.eaajkaal.in/epaperdetails/index/8c971586-99ce5e35-8e6c7c46?fbclid=IwY2xjawQPdcVleHRuA2FlbQIxMABicmlkETFCaDd1bXdxM0JSUkdabTlRc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHiRn1ThlG6INC1puPwgyPVoRXhPye-mlRpex133dPdRoNinydFA6ObDkH7Vg_aem_v8kM_8GR7Yk8QDNA0KE46w)
