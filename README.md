@@ -24,9 +24,7 @@ ____
 
 ## About me
 
-Research scholar, Department of Mathematics, <a href="https://iitbhilai.ac.in/index.php?pid=dept_math">Indian Institute of Technology Bhilai</a>. My advisor, [Dr. Anurag Singh](https://sites.google.com/site/anuragshomepage/). I like to work on Algebraic Topology.
-<br><br>
-I have completed M.Sc. in Mathematics from <a href="http://maths.nits.ac.in/">National Institute of Technology Silchar</a> (India). [Dr. Juthika Mahanta](https://maths.nits.ac.in/faculties/juthika-mahanta), my thesis supervisor.
+Research scholar, Department of Mathematics, <a href="https://iitbhilai.ac.in/index.php?pid=dept_math">Indian Institute of Technology Bhilai</a>. I like to work on Algebraic Topology.
 <br><br>
 You’ll find me in Room no. 317, level 3, SD-2 building in the Academic Block. Or, in Kolkata. Or, travelling.
 <br><br>
