@@ -13,6 +13,7 @@ _____
 </head>
 
 ## Articles:
+- <span style="font-family: 'Noto Serif Bengali', serif;">শংকরের হাতযশে কলকাতা হয়ে ওঠে মেট্রোপলিস, Ei Samay, Mar 21st 2026 (Hotspot) p. 1</span> [![](https://img.shields.io/badge/See-black?)](https://eisamay.com/editorial/evolution-of-film-in-calcutta-in-influence-of-world-cinema-article-by-anamitra-biswas/200487013.cms)
 - <span style="font-family: 'Noto Serif Bengali', serif;">রূপায়ণের ব্যর্থতা, নাকি শুধুই মিথ্যা প্রতিশ্রুতি?, Ei Samay, Mar 13th 2026, p. 8</span> [![](https://img.shields.io/badge/See-black?)](https://eisamay.com/editorial/failure-to-implement-or-just-a-false-promise/200485360.cms)
 - <span style="font-family: 'Noto Serif Bengali', serif;">তারা ফরাসি জার্মান জানে না, কাঁদতে জানে, Robbar.in 10/03/2026</span> [![](https://img.shields.io/badge/See-indigo?)](https://robbar.in/human-rights/impact-on-women-education-in-iran-during-war-condition/)
 - <span style="font-family: 'Noto Serif Bengali', serif;">‘খাওয়া নিয়ে বাড়াবাড়ি করছ কিন্তু’, Sangbad Pratidin 09/03/2026, p. 4</span> [![](https://img.shields.io/badge/See-indigo?)](https://epaper.sangbadpratidin.in/epaper/m/1020950/69adbe169d334)
