@@ -48,6 +48,7 @@ _____
 
 ## Letters:
 
+- <span style="font-family: 'Noto Serif Bengali', serif;">সুযোগ দিন, Anandabazar Patrika 08/05/2025, p. 4</span> [![](https://img.shields.io/badge/See-black?)](https://www.anandabazar.com/editorial/letters-to-the-editor/the-question-is-whether-the-india-of-amrit-kaal-will-be-able-to-heal-the-scars-of-the-small-division-that-has-arisen-in-india-over-kashmir-prnt/cid/1600932)
 - <span style="font-family: 'Noto Serif Bengali', serif;">Secured tourism, The Hindu 29/04/2025, p. 8</span> [![](https://img.shields.io/badge/See-black?)](https://www.thehindu.com/opinion/letters/letters-to-the-editor-april-29-2025/article69501233.ece)
 
 
