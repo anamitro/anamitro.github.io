@@ -13,6 +13,7 @@ _____
 </head>
 
 ## Articles:
+- <span style="font-family: 'Noto Serif Bengali', serif;">Paul Erdős and Israel, The Statesman (Perspective), Mar 26th 2026, p. 7</span> [![](https://img.shields.io/badge/See-black?)](https://epaper.thestatesman.com/4132768/Mumbai-The-Statesman/26-03-2026?fbclid=IwY2xjawQxlmVleHRuA2FlbQIxMABicmlkETFkUHhxaUZKOWJ5VUlyWVFYc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHk_XqQuTvCb0Cr8sEPMPmuAyZ38s06ymfi8uGwmDBczZ0ZfNULlGtR_SO4ed_aem_9DkYjENypT1YrnVfoZFdXg#page/7/2)
 - <span style="font-family: 'Noto Serif Bengali', serif;">শংকরের হাতযশে কলকাতা হয়ে ওঠে মেট্রোপলিস, Ei Samay, Mar 21st 2026 (Hotspot) p. 1</span> [![](https://img.shields.io/badge/See-black?)](https://eisamay.com/editorial/evolution-of-film-in-calcutta-in-influence-of-world-cinema-article-by-anamitra-biswas/200487013.cms)
 - <span style="font-family: 'Noto Serif Bengali', serif;">রূপায়ণের ব্যর্থতা, নাকি শুধুই মিথ্যা প্রতিশ্রুতি?, Ei Samay, Mar 13th 2026, p. 8</span> [![](https://img.shields.io/badge/See-black?)](https://eisamay.com/editorial/failure-to-implement-or-just-a-false-promise/200485360.cms)
 - <span style="font-family: 'Noto Serif Bengali', serif;">তারা ফরাসি জার্মান জানে না, কাঁদতে জানে, Robbar.in 10/03/2026</span> [![](https://img.shields.io/badge/See-indigo?)](https://robbar.in/human-rights/impact-on-women-education-in-iran-during-war-condition/)
