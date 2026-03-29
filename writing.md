@@ -13,6 +13,7 @@ _____
 </head>
 
 ## Articles:
+- <span style="font-family: 'Noto Serif Bengali', serif;">জীবাশ্মের চিতা থেকে নবায়নের আলো, Uttarbanga Sambad, Mar 29th 2026, p. 6</span> [![](https://img.shields.io/badge/Epaper-black?)](https://uttarbangasambad.in/purano-sanskaran-details.php?old_date=2026-03-29) [![](https://img.shields.io/badge/Web-blue?)](https://uttarbangasambad.com/fossil-fuel-crisis-renewable-energy-future-india/)
 - <span style="font-family: 'Noto Serif Bengali', serif;">হরিপদ কেরানির ফুটো-ফাটা ছাতা, Aajkaal, Mar 28th 2026, p. 4</span> [![](https://img.shields.io/badge/See-black?)](https://www.eaajkaal.in/epaperdetails/index/405a6e6d-6df8b97f-05d063e6)
 - <span style="font-family: 'Noto Serif Bengali', serif;">Paul Erdős and Israel, The Statesman (Perspective), Mar 26th 2026, p. 7</span> [![](https://img.shields.io/badge/See-black?)](https://epaper.thestatesman.com/4132768/Mumbai-The-Statesman/26-03-2026?fbclid=IwY2xjawQxlmVleHRuA2FlbQIxMABicmlkETFkUHhxaUZKOWJ5VUlyWVFYc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHk_XqQuTvCb0Cr8sEPMPmuAyZ38s06ymfi8uGwmDBczZ0ZfNULlGtR_SO4ed_aem_9DkYjENypT1YrnVfoZFdXg#page/7/2)
 - <span style="font-family: 'Noto Serif Bengali', serif;">শংকরের হাতযশে কলকাতা হয়ে ওঠে মেট্রোপলিস, Ei Samay, Mar 21st 2026 (Hotspot) p. 1</span> [![](https://img.shields.io/badge/See-black?)](https://eisamay.com/editorial/evolution-of-film-in-calcutta-in-influence-of-world-cinema-article-by-anamitra-biswas/200487013.cms)
