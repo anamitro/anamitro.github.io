@@ -6,10 +6,14 @@
 
 _____
 
+
+1. [Affiliation](# affiliation)
+2. [Papers](# papers)
+
 <div style="position: relative; display: inline-block; color: white;">
   <img src="pictures/library1.jpg" alt="National Libray Kolkata" style="width: 100%; height: auto;">
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 24px; font-weight: bold; text-shadow: 24px 24px 24px rgba(0,0,0,0.5);">
-    My Research
+    Papers
   </div>
   <div style="position: absolute; top: 90%; left: 90%; transform: translate(-50%, -50%); font-size: 12px;; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
     National Library Kolkata
