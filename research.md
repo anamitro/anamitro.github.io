@@ -71,7 +71,7 @@ I have completed M.Sc. in Mathematics from <a href="http://maths.nits.ac.in/">Na
 
 
 
-##Community
+## Community
 
 [![Static Badge](https://img.shields.io/badge/Google_Scholar-white?style=social&logo=googlescholar&logoColor=%234285F4&logoSize=amg&link=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3DJeMsQXoAAAAJ%26hl%3Den)](https://scholar.google.com/citations?user=JeMsQXoAAAAJ&hl=en)
 
