@@ -7,8 +7,8 @@
 _____
 
 
-1. [Affiliation](# affiliation)
-2. [Papers](# papers)
+1. [Affiliation](#affiliation)
+2. [Papers](#papers)
 
 <div style="position: relative; display: inline-block; color: white;">
   <img src="pictures/library1.jpg" alt="National Libray Kolkata" style="width: 100%; height: auto;">
