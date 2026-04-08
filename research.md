@@ -9,6 +9,10 @@ _____
 
 1. [Affiliation](#affiliation)
 2. [Papers](#papers)
+3. [Conference proceedings](#conference-proceedings)
+4. [Thesis](#thesis)
+5. [Talks](#talks)
+6. [Community](#community)
 
 <div style="position: relative; display: inline-block; color: white;">
   <img src="pictures/library1.jpg" alt="National Libray Kolkata" style="width: 100%; height: auto;">
