@@ -1,8 +1,7 @@
 [![](https://img.shields.io/badge/Home-red?style=for-the-badge)](https://anamitro.github.io)
 [![](https://img.shields.io/badge/Research-red?style=for-the-badge)](https://anamitro.github.io/research.html)
-[![](https://img.shields.io/badge/Talks-red?style=for-the-badge)](https://anamitro.github.io/talks.html)
 [![](https://img.shields.io/badge/Writing-yellow?style=for-the-badge)](https://anamitro.github.io/writing.html)
-[![](https://img.shields.io/badge/Other_stuff-red?style=for-the-badge)](https://anamitro.github.io/hobbies.html)
+[![](https://img.shields.io/badge/etc-red?style=for-the-badge)](https://anamitro.github.io/hobbies.html)
 
 _____
 
@@ -11,6 +10,9 @@ _____
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Bengali:wght@100..900&display=swap" rel="stylesheet">
 </head>
+
+[![](https://img.shields.io/badge/Articles-red?style=for-the-badge)](#articles) [![](https://img.shields.io/badge/Letters-red?style=for-the-badge)](#letters) [![](https://img.shields.io/badge/Feedback-red?style=for-the-badge)](#feedback)
+
 
 ## Articles:
 - <span style="font-family: 'Noto Serif Bengali', serif;">জীবাশ্মের চিতা থেকে নবায়নের আলো, Uttarbanga Sambad, Mar 29th 2026, p. 6</span> [![](https://img.shields.io/badge/Epaper-black?)](https://uttarbangasambad.in/purano-sanskaran-details.php?old_date=2026-03-29) [![](https://img.shields.io/badge/Web-blue?)](https://uttarbangasambad.com/fossil-fuel-crisis-renewable-energy-future-india/)
