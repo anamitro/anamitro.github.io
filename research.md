@@ -1,11 +1,11 @@
 [![](https://img.shields.io/badge/Home-red?style=for-the-badge)](https://anamitro.github.io/)
 [![](https://img.shields.io/badge/Research-yellow?style=for-the-badge)](https://anamitro.github.io/research.html)
-[![](https://img.shields.io/badge/Talks-red?style=for-the-badge)](https://anamitro.github.io/talks.html)
 [![](https://img.shields.io/badge/Writing-red?style=for-the-badge)](https://anamitro.github.io/writing.html)
 [![](https://img.shields.io/badge/Other_stuff-red?style=for-the-badge)](https://anamitro.github.io/hobbies.html)
 
 _____
 
+# Research
 
 1. [Affiliation](#affiliation)
 2. [Papers](#papers)
@@ -13,6 +13,14 @@ _____
 4. [Thesis](#thesis)
 5. [Talks](#talks)
 6. [Community](#community)
+
+
+## Affiliation
+I am a doctoral student in IIT Bhilai. My advisor, [Dr. Anurag Singh](https://sites.google.com/site/anuragshomepage/). I like to work on Algebraic Topology.
+<br><br>
+I have completed M.Sc. in Mathematics from <a href="http://maths.nits.ac.in/">National Institute of Technology Silchar</a> (India). [Dr. Juthika Mahanta](https://maths.nits.ac.in/faculties/juthika-mahanta), my thesis supervisor.
+
+## Papers
 
 <div style="position: relative; display: inline-block; color: white;">
   <img src="pictures/library1.jpg" alt="National Libray Kolkata" style="width: 100%; height: auto;">
@@ -24,12 +32,6 @@ _____
   </div>
 </div>
 
-
-## Affiliation
-I am a doctoral student in IIT Bhilai. My advisor, [Dr. Anurag Singh](https://sites.google.com/site/anuragshomepage/). I like to work on Algebraic Topology.
-<br><br>
-I have completed M.Sc. in Mathematics from <a href="http://maths.nits.ac.in/">National Institute of Technology Silchar</a> (India). [Dr. Juthika Mahanta](https://maths.nits.ac.in/faculties/juthika-mahanta), my thesis supervisor.
-## Papers
 
 - Anamitro Biswas and Eshita Mazumdar, _Davenport constant for ﬁnite abelian groups with higher rank_, Mathematical Notes, vol. 118, pp. 23-34 (2025) [![Static Badge](https://img.shields.io/badge/preprint-black)](https://arxiv.org/abs/2402.09999) [![Static Badge](https://img.shields.io/badge/Springer-black)](https://link.springer.com/article/10.1134/S0001434624605483)
 > **Add-on:** Proposed bounds for D_r can be calculated for groups up to rank 3, and cycle lengths having at most 3 prime factors, using [this R program](https://github.com/anamitro/d-r-bounds).
@@ -44,6 +46,8 @@ I have completed M.Sc. in Mathematics from <a href="http://maths.nits.ac.in/">Na
 
 - Anamitro Biswas, *Coast of a fuzzy set as a 'crisper' subset of the boundary*, under the supervision of Dr. Juthika Mahanta, National Institute of Technology Silchar (2023). [![Static Badge](https://img.shields.io/badge/PDF-black)](files/anamitro_thesis_old.pdf)
 > thesis submitted in partial fulfillment of the requirements for the Project of the Master degree work
+
+## Talks
 
 <div style="position: relative; display: inline-block; color: white;">
   <img src="pictures/nits1.jpg" alt="NIT Silchar campus" style="width: 100%; height: auto;">
