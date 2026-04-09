@@ -11,7 +11,7 @@ _____
 <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Bengali:wght@100..900&display=swap" rel="stylesheet">
 </head>
 
-[![](https://img.shields.io/badge/Articles-red?style=for-the-badge)](#articles) [![](https://img.shields.io/badge/Letters-red?style=for-the-badge)](#letters) [![](https://img.shields.io/badge/Feedback-red?style=for-the-badge)](#feedback)
+[![](https://img.shields.io/badge/Articles-blue?style=for-the-badge)](#articles) [![](https://img.shields.io/badge/Letters-blue?style=for-the-badge)](#letters) [![](https://img.shields.io/badge/Feedback-blue?style=for-the-badge)](#feedback)
 
 
 ## Articles:
