@@ -15,7 +15,7 @@ _____
 
 
 ## Articles:
-- <span style="font-family: 'Noto Serif Bengali', serif;">এমন কেন সত্যি‌ হয় না‌ আহা!, Ei Samay, Apr 12th 2026, p. 8</span> [![](https://img.shields.io/badge/Epaper-black?)](https://eisamay.com/editorial/what-is-the-secret-behind-the-popularity-of-the-doraemon-comic-series/200492616.cms)
+- <span style="font-family: 'Noto Serif Bengali', serif;">এমন কেন সত্যি‌ হয় না‌ আহা!, Ei Samay, Apr 12th 2026, p. 8</span> [![](https://img.shields.io/badge/Online-black?)](https://eisamay.com/editorial/what-is-the-secret-behind-the-popularity-of-the-doraemon-comic-series/200492616.cms)
 - <span style="font-family: 'Noto Serif Bengali', serif;">যুদ্ধের পৃথিবীতে চকোলেটের খোঁজ, Sangbad Pratidin, Apr 11th 2026, p. 4</span> [![](https://img.shields.io/badge/Epaper-black?)](https://epaper.sangbadpratidin.in/epaper/m/1028800/69d940c8ceb6d)
 - <span style="font-family: 'Noto Serif Bengali', serif;">জীবাশ্মের চিতা থেকে নবায়নের আলো, Uttarbanga Sambad, Mar 29th 2026, p. 6</span> [![](https://img.shields.io/badge/Epaper-black?)](https://uttarbangasambad.in/purano-sanskaran-details.php?old_date=2026-03-29) [![](https://img.shields.io/badge/Web-blue?)](https://uttarbangasambad.com/fossil-fuel-crisis-renewable-energy-future-india/)
 - <span style="font-family: 'Noto Serif Bengali', serif;">হরিপদ কেরানির ফুটো-ফাটা ছাতা, Aajkaal, Mar 28th 2026, p. 4</span> [![](https://img.shields.io/badge/See-black?)](https://www.eaajkaal.in/epaperdetails/index/405a6e6d-6df8b97f-05d063e6)
