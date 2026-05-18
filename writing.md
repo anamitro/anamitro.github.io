@@ -15,6 +15,7 @@ _____
 
 
 ## Articles:
+- <span style="font-family: 'Noto Serif Bengali', serif;">ভালবাসা খুঁজে নেয় যারা, Anandabazar Patrika, May 18th 2026, p.4</span> [![](https://img.shields.io/badge/Online-black?)](https://www.anandabazar.com/editorial/essays/both-nihilist-penguin-grape-kun-and-macaque-punch-showed-the-world-that-one-can-find-love-in-anything-prnt/cid/1687548)
 - <span style="font-family: 'Noto Serif Bengali', serif;">রামমোহনের দ্বৈরথী রাধাকান্ত, Aajkaal, May 1st 2026, p.4</span> [![](https://img.shields.io/badge/Epaper-black?)](https://www.eaajkaal.in/epaperdetails/index/7a1cfb63-66765677-78257979)
 - <span style="font-family: 'Noto Serif Bengali', serif;">দেখে যেন মনে হয় চিনি উহারে, Sangbad Pratidin, Apr 26th 2026, p.7 (Aparajita)</span> [![](https://img.shields.io/badge/Epaper-black?)](https://epaper.sangbadpratidin.in/epaper/edition/4561/sangbad-pratidin-26-04-26/page/7)
 - <span style="font-family: 'Noto Serif Bengali', serif;">সাম্রাজ্য ভেঙে পড়ছে, দাবা খেলে চলেছেন দুই পুরুষ, Ei Samay, Apr 25th 2026 (Hotspot), p.1</span> [![](https://img.shields.io/badge/Online-black?)](https://eisamay.com/onnosamay/wajed-ali-shah-was-seen-to-play-chess-during-his-reign-was-about-to-fall-article-by-anamitra-biswas/200495943.cms)
