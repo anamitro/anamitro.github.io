@@ -15,7 +15,7 @@ _____
 
 
 ## Articles:
-- <span style="font-family: 'Noto Serif Bengali', serif;">দত্ত ভার্সেস দত্ত,, Sangbad Pratidin, Jul 4th 2026, p.4</span> [![](https://img.shields.io/badge/Epaper-black?)](https://epaper.sangbadpratidin.in/epaper/m/1048033/6a48173e6cd9a)
+- <span style="font-family: 'Noto Serif Bengali', serif;">দত্ত ভার্সেস দত্ত, Sangbad Pratidin, Jul 4th 2026, p.4</span> [![](https://img.shields.io/badge/Epaper-black?)](https://epaper.sangbadpratidin.in/epaper/m/1048033/6a48173e6cd9a)
 - <span style="font-family: 'Noto Serif Bengali', serif;">কবির দুর্গতি, সমাধানে প্রশান্তচন্দ্র, Ei Samay, Jun 28th 2026, p.8</span> [![](https://img.shields.io/badge/Online-black?)](https://eisamay.com/editorial/poet-misfortune-prashanta-chandra-in-solution/200512219.cms)
 - <span style="font-family: 'Noto Serif Bengali', serif;">গণপরিবহন ছাড়া জনজীবন অচল, Aajkaal, June 12th 2026, p.4</span> [![](https://img.shields.io/badge/Epaper-black?)](https://www.eaajkaal.in/epaperdetails/index/6dd1ca60-05ea8f6f-50149e6a)
 - <span style="font-family: 'Noto Serif Bengali', serif;">ভালবাসা খুঁজে নেয় যারা, Anandabazar Patrika, May 18th 2026, p.4</span> [![](https://img.shields.io/badge/Online-black?)](https://www.anandabazar.com/editorial/essays/both-nihilist-penguin-grape-kun-and-macaque-punch-showed-the-world-that-one-can-find-love-in-anything-prnt/cid/1687548)
