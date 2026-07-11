@@ -25,13 +25,11 @@ ____
 
 Research scholar, Department of Mathematics, <a href="https://iitbhilai.ac.in/index.php?pid=dept_math">Indian Institute of Technology Bhilai</a>.
 <br><br>
-You’ll find me in Room no. 317, level 3, SD-2 building in the Academic Block. Or, in Kolkata. Or, travelling.
+You’ll find me in Room no. 317, level 3, SD-2 building in the Academic Block. Or, in my hometown Kolkata. Or, travelling.
 <br><br>
 **My [Erdős number](https://sites.google.com/oakland.edu/grossman/home/the-erdoes-number-project) is 4.**
 <br><br>
-I also enjoy [writing](https://anamitro.github.io/writing.html) in Bengali (and occasionally English) on history, films and current affairs.
-<br><br>
-I can speak Bengali (first language), English and Sanskrit.
+I also enjoy [writing](https://anamitro.github.io/writing.html) semi-fictions and about films and history, in Bengali (occasionally English).
 <br><br>
 Email: anamitroappu@gmail.com
 > or anamitrob@iitbhilai.ac.in, but I prefer the former one.
