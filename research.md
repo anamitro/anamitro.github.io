@@ -16,7 +16,7 @@ _____
 
 
 ## Affiliation
-I am a doctoral student in IIT Bhilai. My advisor, [Dr. Anurag Singh](https://sites.google.com/site/anuragshomepage/). I like to work on Algebraic Topology.
+I am a research fellow in IIT Bhilai. My advisor, [Dr. Anurag Singh](https://sites.google.com/site/anuragshomepage/). I like to work on Algebraic Topology.
 <br><br>
 I have completed M.Sc. in Mathematics from <a href="http://maths.nits.ac.in/">National Institute of Technology Silchar</a> (India). [Dr. Juthika Mahanta](https://maths.nits.ac.in/faculties/juthika-mahanta), my thesis supervisor.
 
