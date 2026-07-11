@@ -7,7 +7,7 @@ _____
 
 ## Painting
 
-Besides math, I have a serious interest in painting. I started out by learning from works of the Bengal Renaissance School. Please see this other website:
+Besides math, I have a serious interest in painting. Please see this other website, which showcases a few:
 
 [![](https://img.shields.io/badge/Anamitro’s_Painting_Gallery-red?style=for-the-badge)](https://sites.google.com/view/ani-paint)
 
