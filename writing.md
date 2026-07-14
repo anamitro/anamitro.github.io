@@ -15,6 +15,7 @@ _____
 
 
 ## Articles:
+- <span style="font-family: 'Noto Serif Bengali', serif;">মৃত্যুর সঙ্গে একদান, Robbar.in, Jul 14th 2026</span> [![](https://img.shields.io/badge/Read-black?)](https://robbar.in/daily-update/perspective-of-death-in-the-films-of-ingmar-bergman/)
 - <span style="font-family: 'Noto Serif Bengali', serif;">মাটিতে মেঘের শট সার্কিট, Robbar, Jul 5th 2026, p. 14</span> [![](https://img.shields.io/badge/E_magazine-black?)](https://magazine.robbar.in/edition/4276/robbar-05-07-26/page/14)
 - <span style="font-family: 'Noto Serif Bengali', serif;">দত্ত ভার্সেস দত্ত, Sangbad Pratidin, Jul 4th 2026, p. 4</span> [![](https://img.shields.io/badge/Epaper-black?)](https://epaper.sangbadpratidin.in/epaper/m/1048033/6a48173e6cd9a)
 - <span style="font-family: 'Noto Serif Bengali', serif;">কবির দুর্গতি, সমাধানে প্রশান্তচন্দ্র, Ei Samay, Jun 28th 2026, p. 8</span> [![](https://img.shields.io/badge/Online-black?)](https://eisamay.com/editorial/poet-misfortune-prashanta-chandra-in-solution/200512219.cms)
