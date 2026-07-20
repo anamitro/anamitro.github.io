@@ -25,7 +25,7 @@ Cross-platform Bengali-Assamese input
 
 #### ibus-table-sasankadeva
 
-Bengali (and Assamese) input in Unix
+Bengali-Assamese input in Unix
 
 [![Static Badge](https://img.shields.io/badge/码শ-rgb(255%2C%20153%2C%2051)?style=for-the-badge&color=rgb(255%2C%20153%2C%2051))](https://anamitro.github.io/ibus-table-sasankadeva)
 
