@@ -21,7 +21,7 @@ Besides math, I have a serious interest in painting. Please see this other websi
 #### rime-sasanka
 Cross-platform Bengali-Assamese input
 
-[![Static Badge](![Static Badge](https://img.shields.io/badge/%E3%9E%A2%E0%A6%B6-blue?style=for-the-badge&link=https%3A%2F%2Fanamitro.github.io%2Frime-sasanka))
+[![Static Badge](https://img.shields.io/badge/%E3%9E%A2%E0%A6%B6-blue?style=for-the-badge&link=https%3A%2F%2Fanamitro.github.io%2Frime-sasanka)](https://anamitro.github.io/rime-sasanka)
 
 #### ibus-table-sasankadeva
 
