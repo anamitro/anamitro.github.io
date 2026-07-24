@@ -15,6 +15,7 @@ _____
 
 
 ## Articles:
+- <span style="font-family: 'Noto Serif Bengali', serif;">মৃণালের অঞ্জন, অঞ্জনের মৃণাল, Robbar.in, Jul 23rd 2026</span> [![](https://img.shields.io/badge/Read-black?)](https://robbar.in/mixed-bag/anjan-dutta-as-his-guide-mrinal-sen-in-chalchitra-ekhon/)
 - <span style="font-family: 'Noto Serif Bengali', serif;">মৃত্যুর সঙ্গে একদান, Robbar.in, Jul 14th 2026</span> [![](https://img.shields.io/badge/Read-black?)](https://robbar.in/daily-update/perspective-of-death-in-the-films-of-ingmar-bergman/)
 - <span style="font-family: 'Noto Serif Bengali', serif;">মাটিতে মেঘের শট সার্কিট, Robbar, Jul 5th 2026, p. 14</span> [![](https://img.shields.io/badge/E_magazine-black?)](https://magazine.robbar.in/edition/4276/robbar-05-07-26/page/14)
 - <span style="font-family: 'Noto Serif Bengali', serif;">দত্ত ভার্সেস দত্ত, Sangbad Pratidin, Jul 4th 2026, p. 4</span> [![](https://img.shields.io/badge/Epaper-black?)](https://epaper.sangbadpratidin.in/epaper/m/1048033/6a48173e6cd9a)
