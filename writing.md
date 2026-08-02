@@ -15,6 +15,7 @@ _____
 
 
 ## Articles:
+- <span style="font-family: 'Noto Serif Bengali', serif;">‘আমিই বিপ্লব’, Robbar, Aug 2nd 2026, pp. 6-9</span> [![](https://img.shields.io/badge/E_magazine-black?)](https://magazine.robbar.in/edition/4280/robbar-02-08-26/page/6)
 - <span style="font-family: 'Noto Serif Bengali', serif;">ক্যামেরার আড়ালে একনায়ক, Uttarbanga Sambad, Jul 31st 2026, p. 6</span> [![](https://img.shields.io/badge/Web-black?)](https://uttarbangasambad.com/cinema-losing-soul-ai-technology-actor-individuality/) [![](https://img.shields.io/badge/E_paper-black?)](https://uttarbangasambad.in/purano-sanskaran-details.php?old_date=2026-07-31)
 - <span style="font-family: 'Noto Serif Bengali', serif;">The Odyssey: Transcending the Eponym, The Statesman (Sunday), Jul 26th 2026, p. 13 (Evolve)</span> [![](https://img.shields.io/badge/Web-black?)](https://www.thestatesman.com/evolve-2/the-odyssey-transcending-the-eponym-1503620922.html) [![](https://img.shields.io/badge/E_paper_Delhi-black?)](https://epaper.thestatesman.com/4179764/Delhi-The-Statesman/26-07-2026#page/13/2)
 - <span style="font-family: 'Noto Serif Bengali', serif;">মৃণালের অঞ্জন, অঞ্জনের মৃণাল, Robbar.in, Jul 23rd 2026</span> [![](https://img.shields.io/badge/Read-black?)](https://robbar.in/mixed-bag/anjan-dutta-as-his-guide-mrinal-sen-in-chalchitra-ekhon/)
