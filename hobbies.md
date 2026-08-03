@@ -30,7 +30,7 @@ Bengali-Assamese input in Unix
 
 
 #### TeXchand
-$\TeX$-based Indic scripts typesetting and printing
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGaZcnpY-uUaKIsqi6TgJVLPcwt8x_40zR5WFx9pTpSw&s" style="border-radius: 50%; width: 20px; object-fit: cover;">-based Indic scripts typesetting and printing
 
 [![Static Badge](https://img.shields.io/badge/চাঁদ-white?style=for-the-badge&label=TeX&labelColor=black&color=white)](https://anamitro.github.io/TeXchand/)
 
