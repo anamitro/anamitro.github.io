@@ -30,5 +30,3 @@ Research scholar, Dept. Math, <a href="https://iitbhilai.ac.in/index.php?pid=dep
 I also enjoy [writing](https://anamitro.github.io/writing.html), mostly semi-fictions.
 <br><br>
 Email: anamitroappu@gmail.com
-> or anamitrob@iitbhilai.ac.in, but I prefer the former one.
-
