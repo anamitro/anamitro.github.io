@@ -7,7 +7,7 @@ _____
 
 ## Painting
 
-Besides math, I have a serious interest in painting. Please see this other website, which showcases a few:
+This other website showcases a few:
 
 [![](https://img.shields.io/badge/Anamitro’s_Painting_Gallery-red?style=for-the-badge)](https://sites.google.com/view/ani-paint)
 
@@ -24,15 +24,13 @@ Cross-platform Bengali-Assamese input
 [![Static Badge](https://img.shields.io/badge/%E3%9E%A2%E0%A6%B6-blue?style=for-the-badge&link=https%3A%2F%2Fanamitro.github.io%2Frime-sasanka)](https://anamitro.github.io/rime-sasanka)
 
 #### ibus-table-sasankadeva
-
 Bengali-Assamese input in Unix
 
 [![Static Badge](https://img.shields.io/badge/码শ-rgb(255%2C%20153%2C%2051)?style=for-the-badge&color=rgb(255%2C%20153%2C%2051))](https://anamitro.github.io/ibus-table-sasankadeva)
 
 
 #### TeXchand
-
-for Indic vernacular typesetting and printing
+$\TeX$-based Indic scripts typesetting and printing
 
 [![Static Badge](https://img.shields.io/badge/চাঁদ-white?style=for-the-badge&label=TeX&labelColor=black&color=white)](https://anamitro.github.io/TeXchand/)
 
