@@ -23,10 +23,8 @@ ____
 
 ## About me
 
-Research scholar, Dept. Math, <a href="https://iitbhilai.ac.in/index.php?pid=dept_math">Indian Institute of Technology Bhilai</a>.
+Research associate, TCG Centres for Research and Education in Science and Technology. **My [Erdős number](https://sites.google.com/oakland.edu/grossman/home/the-erdoes-number-project) is 4.**
 <br><br>
-**My [Erdős number](https://sites.google.com/oakland.edu/grossman/home/the-erdoes-number-project) is 4.**
-<br><br>
-I also enjoy [writing](https://anamitro.github.io/writing.html), mostly semi-fictions.
+I also occasionally [write](https://anamitro.github.io/writing.html), mostly semi-fictions.
 <br><br>
 Email: anamitroappu@gmail.com
