@@ -59,6 +59,9 @@ I have completed M.Sc. in Mathematics from <a href="http://maths.nits.ac.in/">Na
   </div>
 </div>
 
+### 2026
+- Sep 25th, *Dots, shapes, homotopy*, [Alumni Interaction Series], Department of Mathematics, National Institute of Technology Silchar. [![Static Badge](https://img.shields.io/badge/Handout-blue)](files/talks/nits_alumni_2026.pdf)
+
 ### 2025
 
 - Dec 23rd, *A Crisper Alternative to the Fuzzy Boundary*, [19th International Conference: Mathematical Sciences for Advancement of Science and Technology (MSAST 2025), organized by IMBIC](https://imbicorg.blogspot.com/) [![Static Badge](https://img.shields.io/badge/Handout-blue)](files/talks/anamitro_msast25.pdf) [![Static Badge](https://img.shields.io/badge/Proceedings-9cf)](https://imbicorg.blogspot.com/p/previous-proceedings.html?m=1)
