@@ -60,7 +60,7 @@ I have completed M.Sc. in Mathematics from <a href="http://maths.nits.ac.in/">Na
 </div>
 
 ### 2026
-- Sep 25th, *Dots, shapes, homotopy*, [Alumni Interaction Series], Department of Mathematics, National Institute of Technology Silchar. [![Static Badge](https://img.shields.io/badge/Handout-blue)](files/talks/nits_alumni_2026.pdf)
+- Sep 25th, *Dots, shapes, homotopy*, [Alumni Interaction Series](https://maths.nits.ac.in/mathematics-events#), Department of Mathematics, National Institute of Technology Silchar. [![Static Badge](https://img.shields.io/badge/Handout-blue)](files/talks/nits_alumni_2026.pdf)
 
 ### 2025
 
