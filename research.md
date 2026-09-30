@@ -7,13 +7,8 @@ _____
 
 # Research
 
-1. [Affiliation](#affiliation)
-2. [Papers](#papers)
-3. [Conference proceedings](#conference-proceedings)
-4. [Thesis](#thesis)
-5. [Talks](#talks)
-6. [Community](#community)
-
+[![](https://img.shields.io/badge/Affiliation-blue?style=for-the-badge)](#affiliation) [![](https://img.shields.io/badge/Papers-blue?style=for-the-badge)](#papers) [![](https://img.shields.io/badge/Thesis-blue?style=for-the-badge)](#thesis)
+[![](https://img.shields.io/badge/Talks-blue?style=for-the-badge)](#talks) [![](https://img.shields.io/badge/Community-blue?style=for-the-badge)](#community)
 
 ## Affiliation
 I am a research fellow in IIT Bhilai.
