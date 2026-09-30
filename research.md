@@ -11,7 +11,7 @@ _____
 [![](https://img.shields.io/badge/Talks-blue?style=for-the-badge)](#talks) [![](https://img.shields.io/badge/Community-blue?style=for-the-badge)](#community)
 
 ## Affiliation
-I am a Project JRF at [Institute of Advancing Intelligence, TCG CREST](https://www.tcgcrest.org/institutes/iai/). Before that, I was briefly a research scholar at IIT Bhilai.
+I am a Project JRF at [Institute of Advancing Intelligence, TCG CREST](https://www.tcgcrest.org/institutes/iai/). Before that, I was briefly a research scholar at [Indian Institute of Technology Bhilai](https://iitbhilai.ac.in).
 <br><br>
 I have done M.Sc. in Mathematics from <a href="http://maths.nits.ac.in/">National Institute of Technology Silchar</a> (India). [Dr. Juthika Mahanta](https://maths.nits.ac.in/faculties/juthika-mahanta), my thesis supervisor.
 
