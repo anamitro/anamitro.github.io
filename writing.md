@@ -15,6 +15,7 @@ _____
 
 
 ## Articles:
+- <span style="font-family: 'Noto Serif Bengali', serif;">পৃথিবীর মানচিত্র বদলে যাচ্ছে?, Ei Samay, Oct 4th 2026, p. 8</span> [![](https://img.shields.io/badge/E_paper-black?)](https://epaper.eisamay.com/) [![](https://img.shields.io/badge/Web-black?)](https://eisamay.com/editorial/world-map-related-article-in-ei-samay-editorial-by-anamitra-biswas/200550976.cms)
 - <span style="font-family: 'Noto Serif Bengali', serif;">‘ব্যাঘ্রশাবক’ শ্যামাপ্রসাদ ও বাঙালির ভাষা, Uttarbanga Sambad, Sep 15th 2026, p. 6</span> [![](https://img.shields.io/badge/E_paper-black?)](https://uttarbangasambad.in/) [![](https://img.shields.io/badge/Web-black?)](https://uttarbangasambad.com/shyama-prasad-mookerjee-education-bengali-language-politics/)
 - <span style="font-family: 'Noto Serif Bengali', serif;">Past his prime, not aura, The Statesman, Sep 5th 2026, p. 11 (Kol p. 13, Marquee)</span> [![](https://img.shields.io/badge/E_paper-black?)](https://epaper.thestatesman.com/m5/4195439/Kolkata-The-Statesman/05-TH-SEPTEMBER-2026#page/13/1) [![](https://img.shields.io/badge/Web-black?)](https://www.thestatesman.com/supplements/marquee/past-his-prime-not-aura-1503634965.html/amp)
 - <span style="font-family: 'Noto Serif Bengali', serif;">‘আমিই বিপ্লব’, Robbar, Aug 2nd 2026, pp. 6-9</span> [![](https://img.shields.io/badge/E_magazine-black?)](https://magazine.robbar.in/edition/4280/robbar-02-08-26/page/6)
