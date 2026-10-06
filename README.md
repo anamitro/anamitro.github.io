@@ -26,7 +26,9 @@ ____
 I am a Project Fellow at Institute of Advancing Intelligence, [TCG CREST](https://tcgcrest.org).
 
 **My [Erdős number](https://sites.google.com/oakland.edu/grossman/home/the-erdoes-number-project) is 4.**
-<br><br>
+
 I also [write](https://anamitro.github.io/writing.html) on culture, cinema and popular science.
-<br><br>
+
+____
+
 Email: anamitroappu@gmail.com
