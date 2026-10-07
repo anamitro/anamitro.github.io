@@ -5,7 +5,15 @@
 
 _____
 
-# Research
+<div style="position: relative; display: inline-block; color: white;">
+  <img src="pictures/library1.jpg" alt="National Libray Kolkata" style="width: 100%; height: auto;">
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 24px; font-weight: bold; text-shadow: 24px 24px 24px rgba(0,0,0,0.5);">
+    Research
+  </div>
+  <div style="position: absolute; top: 90%; left: 90%; transform: translate(-50%, -50%); font-size: 12px;; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
+    National Library Kolkata
+  </div>
+</div>
 
 [![](https://img.shields.io/badge/Affiliation-blue?style=for-the-badge)](#affiliation) [![](https://img.shields.io/badge/Papers-blue?style=for-the-badge)](#papers) [![](https://img.shields.io/badge/Thesis-blue?style=for-the-badge)](#thesis)
 [![](https://img.shields.io/badge/Talks-blue?style=for-the-badge)](#talks) [![](https://img.shields.io/badge/Community-blue?style=for-the-badge)](#community)
@@ -16,16 +24,6 @@ I am a Project JRF at [Institute of Advancing Intelligence, TCG CREST](https://w
 I have done M.Sc. in Mathematics from <a href="http://maths.nits.ac.in/">National Institute of Technology Silchar</a> (India). [Dr. Juthika Mahanta](https://maths.nits.ac.in/faculties/juthika-mahanta), my thesis supervisor.
 
 ## Papers
-
-<div style="position: relative; display: inline-block; color: white;">
-  <img src="pictures/library1.jpg" alt="National Libray Kolkata" style="width: 100%; height: auto;">
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 24px; font-weight: bold; text-shadow: 24px 24px 24px rgba(0,0,0,0.5);">
-    Papers
-  </div>
-  <div style="position: absolute; top: 90%; left: 90%; transform: translate(-50%, -50%); font-size: 12px;; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
-    National Library Kolkata
-  </div>
-</div>
 
 - Anamitro Biswas,_Čech complexes for finite sets_ (preprint: [https://arxiv.org/abs/2609.32786](https://arxiv.org/abs/2609.32786))
 
@@ -39,16 +37,6 @@ I have done M.Sc. in Mathematics from <a href="http://maths.nits.ac.in/">Nationa
 > thesis submitted in partial fulfillment of the requirements for the Project of the Master degree work
 
 ## Talks
-
-<div style="position: relative; display: inline-block; color: white;">
-  <img src="pictures/nits1.jpg" alt="NIT Silchar campus" style="width: 100%; height: auto;">
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 24px; font-weight: bold; text-shadow: 24px 24px 30px rgba(0,0,0,0.5);">
-    Talks
-  </div>
-     <div style="position: absolute; top: 90%; left: 90%; transform: translate(-50%, -50%); font-size: 12px;; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
-    NIT Silchar campus
-  </div>
-</div>
 
 - Sep 25th, *Dots, shapes, homotopy*, [Alumni Interaction Series](https://maths.nits.ac.in/mathematics-events#), Department of Mathematics, National Institute of Technology Silchar. [![Static Badge](https://img.shields.io/badge/Handout-blue)](files/talks/nits_alumni_26.pdf)
 <!-- - Dec 23rd, *A Crisper Alternative to the Fuzzy Boundary*, [19th International Conference: Mathematical Sciences for Advancement of Science and Technology (MSAST 2025), organized by IMBIC](https://imbicorg.blogspot.com/) [![Static Badge](https://img.shields.io/badge/Handout-blue)](files/talks/anamitro_msast25.pdf) [![Static Badge](https://img.shields.io/badge/Proceedings-9cf)](https://imbicorg.blogspot.com/p/previous-proceedings.html?m=1)-->
