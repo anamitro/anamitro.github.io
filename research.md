@@ -19,9 +19,9 @@ _____
 [![](https://img.shields.io/badge/Talks-blue?style=for-the-badge)](#talks) [![](https://img.shields.io/badge/Community-blue?style=for-the-badge)](#community)
 
 ## Affiliation
-I am a Project JRF at [Institute of Advancing Intelligence, TCG CREST](https://www.tcgcrest.org/institutes/iai/). Before that, I was briefly a research scholar at [Indian Institute of Technology Bhilai](https://iitbhilai.ac.in).
-<br><br>
-I have done M.Sc. in Mathematics from <a href="http://maths.nits.ac.in/">National Institute of Technology Silchar</a> (India). [Dr. Juthika Mahanta](https://maths.nits.ac.in/faculties/juthika-mahanta), my thesis supervisor.
+Project JRF at [Institute of Advancing Intelligence, TCG CREST](https://www.tcgcrest.org/institutes/iai/).
+
+I have done M.Sc. in Mathematics from <a href="http://maths.nits.ac.in/">National Institute of Technology Silchar</a> (India).
 
 ## Papers
 
@@ -33,8 +33,7 @@ I have done M.Sc. in Mathematics from <a href="http://maths.nits.ac.in/">Nationa
 
 ## Thesis
 
-- Anamitro Biswas, *Coast of a fuzzy set as a 'crisper' subset of the boundary*, under the supervision of Dr. Juthika Mahanta, National Institute of Technology Silchar (2023). [![Static Badge](https://img.shields.io/badge/PDF-black)](files/anamitro_thesis_old.pdf)
-> thesis submitted in partial fulfillment of the requirements for the Project of the Master degree work
+- *Coast of a fuzzy set as a 'crisper' subset of the boundary*, Masters thesis at National Institute of Technology Silchar (2023). [Dr. Juthika Mahanta](https://maths.nits.ac.in/faculties/juthika-mahanta), my thesis supervisor. [![Static Badge](https://img.shields.io/badge/PDF-black)](files/anamitro_thesis_old.pdf)
 
 ## Talks
 
