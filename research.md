@@ -43,12 +43,12 @@ I have done M.Sc. in Mathematics from <a href="http://maths.nits.ac.in/">Nationa
 <!-- - Apr 23rd,*The Davenport Constant for Finite Abelian Groups and its r-wise Generalization*, [Students’ Talk at Institute of Advancing Intelligence, TCG Centers of Research and Education in Science and Technology](https://www.tcgcrest.org/research-seminars/) [![Static Badge](https://img.shields.io/badge/Handout-blue)](https://drive.google.com/drive/folders/1lSA4Ks96U_oxGnnNwPm0B6d2ISyrXYmf?usp=drive_link)-->
 - Feb 4th, *r-wise Davenport constant for finite abelian groups*, [COmbinatorial Number Theory And Connected Topics – II (CONTACT-II)](https://sites.google.com/view/contact-ii/home) [![Static Badge](https://img.shields.io/badge/Abstract-9cf)](https://drive.google.com/file/d/1OtAvMfGG2xg6Gr6-2gKDHkJ6REjTZkg2/view) [![Static Badge](https://img.shields.io/badge/Handout-blue)](https://drive.google.com/file/d/11k1bXrPQqw_AAf8s9JweYXBvNs6qcWL3/view?pli=1)
 
-## Conference proceedings
+<!-- ## Conference proceedings
 
 - Anamitro Biswas (joint work with Subhankar Jana and Juthika Mahanta), *A Crisper Alternative to the Fuzzy Boundary* (extended abstract), Proceedings of IMBIC: 18th International Conference on MSAST 2025, vol. 14, ISBN: 978-81-981948-5-5  [![Static Badge](https://img.shields.io/badge/Proceedings-black)](https://imbicorg.blogspot.com/p/previous-proceedings.html?m=1)
 - Anamitro Biswas (joint work with Eshita Mazumdar), *Aspects of the Davenport Constant for Finite Abelian Groups* (extended abstract), Proceedings of IMBIC: 18th International Conference on MSAST 2024, vol. 13, ISBN: 978-81-981948-0-0. [![Static Badge](https://img.shields.io/badge/Proceedings-black)](https://imbicorg.blogspot.com/p/previous-proceedings.html?m=1)
 
-
+-->
 
 ## Community
 
