@@ -19,7 +19,9 @@ This other website showcases a few:
 ## Typography tools
 
 #### sasanka-web
-![Static Badge](https://img.shields.io/badge/码শ-rgb(255%2C%20153%2C%2051)?style=for-the-badge&color=rgb(255%2C%20153%2C%2051)) A typing page for the Sasanka layout for Bengali. Hosted at: [https://anamitro.github.io/sasanka-web/](https://anamitro.github.io/sasanka-web/)
+A typing page for the Sasanka layout for Bengali. Hosted at: [https://anamitro.github.io/sasanka-web/](https://anamitro.github.io/sasanka-web/)
+
+![Static Badge](https://img.shields.io/badge/码শ-rgb(255%2C%20153%2C%2051)?style=for-the-badge&color=rgb(255%2C%20153%2C%2051))
 
 #### rime-sasanka
 Cross-platform Bengali-Assamese input
