@@ -18,6 +18,9 @@ This other website showcases a few:
 
 ## Typography tools
 
+#### sasanka-web
+A typing page for the Sasanka layout for Bengali. Hosted at: [https://anamitro.github.io/sasanka-web/](https://anamitro.github.io/sasanka-web/)
+
 #### rime-sasanka
 Cross-platform Bengali-Assamese input
 
